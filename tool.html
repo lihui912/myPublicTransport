@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<script src="js/jquery.js"></script>
+<script src="js/main.js"></script>
+<script src="js/bus.js"></script>
+<script>
+function initialize() {
+  var analyzBusStopsLinesDom = document.getElementById("inBusLineButton");
+  var showBusStopsAnalyzeButtonDom = document.getElementById("showBusStopsAnalyzeButton");
+  var generateGoogleMapsDirectionUrlButtonDom = document.getElementById("generateGoogleMapsDirectionUrlButton");
+  
+  analyzBusStopsLinesDom.addEventListener("click", function(){
+    var inBusLineText = document.getElementById("inBusLine");
+    HCL.busLine.loadRouteData(inBusLineText.value, HCL.tools.analyzBusStopsLines);
+  });
+  
+  showBusStopsAnalyzeButtonDom.addEventListener("click", function() {
+    var displayResultDom = document.getElementById("displayResult");
+    
+    displayResultDom.textContent = JSON.stringify(HCL.tools.busStopsAnalyz);
+  });
+  
+  generateGoogleMapsDirectionUrlButtonDom.addEventListener("click", function() {
+    var inBusLineText = document.getElementById("inBusLine");
+    
+    HCL.busLine.loadRouteData(inBusLineText.value, HCL.tools.generateGoogleMapsDirectionUrl);
+  });
+}
+
+window.onload = initialize;
+function parse() {
+  var strCode = document.getElementById("inCode").value.trim();
+  var strTitle = document.getElementById("inTitle").value.trim();
+  var strArea = document.getElementById("inArea").value.trim();
+
+  var arrCode = strCode.split("\n");
+  var arrTitle = strTitle.split("\n");
+
+  if(arrCode.length != arrTitle.length) {
+    console.err("Input length not matching. Code: " + arrCode.length + " Title: " + arrTitle.length);
+    return;
+  }
+  
+  var newArr = [];
+  for(var i = 0; i < arrCode.length; i++) {
+    newArr[i] = {"code" : arrCode[i], "title" : arrTitle[i]};
+  }
+  
+  var dataObj = {"routes" : newArr, "area" : strArea};
+  
+  var resultObj = {};
+  resultObj.data = dataObj;
+  resultObj.result = "OK";
+  
+  var domResult = document.getElementById("displayResult");
+  domResult.textContent = JSON.stringify(resultObj);
+  
+  return resultObj;
+}
+</script>
+</head>
+<body>
+Area: <input type="text" id="inArea" disabled></input>
+Code: <textarea id="inCode" disabled></textarea>
+Title: <textarea id="inTitle" disabled></textarea>
+Busline: <input type="text" id="inBusLine"></input><input type="button" value="1. analyzBusStopsLines" id="inBusLineButton"></input><input type="button" value="2. showBusStopsAnalyze" id="showBusStopsAnalyzeButton"></input><input type="button" value="3. generateGoogleMapsDirectionUrl" id="generateGoogleMapsDirectionUrlButton"></input>
+<div id="displayResult" style="font-family: monospace;"></div>
+</body>
+</html>

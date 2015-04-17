@@ -1,0 +1,713 @@
+{
+  "routes" : [{
+      "route" : [{
+          "start" : {
+            "name" : "Damansara Damai, Terminal Bas, Jalan PJU 10\/1",
+            "id" : 552,
+            "code" : "1003250",
+            "location" : [3.195835, 101.592057]
+          },
+          "route" : {
+            "id" : 191,
+            "code" : "U8W",
+            "type" : 3,
+            "name" : "Damansara Damai"
+          },
+          "end" : {
+            "name" : "HSBC, Lebuh Ampang",
+            "id" : 366,
+            "code" : "1000955",
+            "location" : [3.147664, 101.695801]
+          },
+          "stops" : [{
+              "name" : "Damansara Damai, Terminal Bas, Jalan PJU 10\/1",
+              "id" : 552,
+              "code" : "1003250",
+              "location" : [3.195835, 101.592057],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Pondok Polis\/Apartment Idaman, Jalan 10\/1",
+              "id" : 553,
+              "code" : "1002590",
+              "location" : [3.190843, 101.592319],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Apartment Impian, Jalan PJU 10\/1",
+              "id" : 554,
+              "code" : "1000127",
+              "location" : [3.192343, 101.588023],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Apartment Permai, Jalan 10\/1",
+              "id" : 555,
+              "code" : "1000135",
+              "location" : [3.19425, 101.588387],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Restoran Mahbub, Jalan 10\/1",
+              "id" : 556,
+              "code" : "1002781",
+              "location" : [3.197168, 101.594162],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Pusat Kereta Berjaya, Jalan Sungai Buloh",
+              "id" : 557,
+              "code" : "1002666",
+              "location" : [3.200002, 101.625266],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Stesen KTM Kepong Sentral (1), Jalan Kuala Selangor",
+              "id" : 558,
+              "code" : "1001405",
+              "location" : [3.20795, 101.628977],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Mc Donalds\/KFC, Jalan Kepong",
+              "id" : 559,
+              "code" : "1001982",
+              "location" : [3.213114, 101.632593],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Jusco Metro Prima (opp.), Jalan Kepong",
+              "id" : 560,
+              "code" : "1002027",
+              "location" : [3.214356, 101.639306],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Carrefour Kepong, Jalan Kepong",
+              "id" : 561,
+              "code" : "1000452",
+              "location" : [3.214102, 101.64308],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "CIMB, Jalan Kepong",
+              "id" : 562,
+              "code" : "1000483",
+              "location" : [3.21261, 101.646184],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hotel Smart, Jalan Kepong",
+              "id" : 563,
+              "code" : "1001677",
+              "location" : [3.211148, 101.649058],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Depot Bas Selangor, Jalan Kepong",
+              "id" : 564,
+              "code" : "1001680",
+              "location" : [3.208954, 101.654625],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Pejabat DBKL, Jalan Kepong",
+              "id" : 565,
+              "code" : "1002353",
+              "location" : [3.20803, 101.66057],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Pusat Penjaja Jinjang, Jalan Kepong",
+              "id" : 566,
+              "code" : "1001675",
+              "location" : [3.207495, 101.663526],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Wisma TNB, Jalan Kepong",
+              "id" : 567,
+              "code" : "1001679",
+              "location" : [3.206173, 101.666797],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Sungai Mas (opp.), Jalan Ipoh",
+              "id" : 568,
+              "code" : "1001633",
+              "location" : [3.202921, 101.672973],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "SRK Batu 4, Jalan Ipoh",
+              "id" : 461,
+              "code" : "1003379",
+              "location" : [3.202103, 101.67664],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Maybank Batu 4, Jalan Ipoh",
+              "id" : 462,
+              "code" : "1001966",
+              "location" : [3.200601, 101.677626],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Simpang Batu Kentomen, Jalan Ipoh",
+              "id" : 463,
+              "code" : "1000401",
+              "location" : [3.197571, 101.679405],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Pasaraya Umarani, Jalan Ipoh",
+              "id" : 464,
+              "code" : "1002536",
+              "location" : [3.194429, 101.679822],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Mutiara (opp.), Jalan Ipoh",
+              "id" : 465,
+              "code" : "1002535",
+              "location" : [3.191294, 101.680648],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "SMK ( P ) Jalan Ipoh (opp.), Jalan Ipoh",
+              "id" : 466,
+              "code" : "1003386",
+              "location" : [3.187982, 101.681725],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kondominium Sang Suria, Jalan Ipoh",
+              "id" : 467,
+              "code" : "1002531",
+              "location" : [3.184232, 101.681442],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Maybank Batu 3, Jalan Ipoh",
+              "id" : 468,
+              "code" : "1002532",
+              "location" : [3.182723, 101.681666],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "KFC Batu 3, Jalan Ipoh",
+              "id" : 469,
+              "code" : "1001414",
+              "location" : [3.180335, 101.683417],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Sentul West, Jalan Ipoh",
+              "id" : 470,
+              "code" : "1003170",
+              "location" : [3.178689, 101.685852],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hotel Tropicana, Jalan Ipoh",
+              "id" : 471,
+              "code" : "1000949",
+              "location" : [3.177056, 101.687673],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Bengkel Bomba, Jalan Ipoh",
+              "id" : 472,
+              "code" : "1002528",
+              "location" : [3.174997, 101.690044],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Perkim (opp.), Jalan Ipoh",
+              "id" : 53,
+              "code" : "1002414",
+              "location" : [3.171483, 101.693203],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hospital Damai, Jalan Ipoh",
+              "id" : 54,
+              "code" : "1000514",
+              "location" : [3.170025, 101.695283],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Stesen Monorel Chow Kit, Jalan Ipoh",
+              "id" : 473,
+              "code" : "1002053",
+              "location" : [3.1673, 101.698208],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Chow Kit, Jalan Tunku Abdul Rahman",
+              "id" : 412,
+              "code" : "1000403",
+              "location" : [3.165174, 101.698454],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Pizza Hut, Jalan Tunku Abdul Rahman",
+              "id" : 359,
+              "code" : "1004169",
+              "location" : [3.162059, 101.69788],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hock Hin Motor, Jalan Tunku Abdul Rahman",
+              "id" : 360,
+              "code" : "1002359",
+              "location" : [3.161267, 101.697531],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Pertama, Jalan Tunku Abdul Rahman",
+              "id" : 361,
+              "code" : "1001629",
+              "location" : [3.157916, 101.696172],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Globe Silk Store, Jalan Tunku Abdul Rahman",
+              "id" : 362,
+              "code" : "1000875",
+              "location" : [3.155154, 101.696408],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Coliseum, Jalan Tunku Abdul Rahman",
+              "id" : 363,
+              "code" : "1000502",
+              "location" : [3.152993, 101.696601],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Dataran Merdeka, Jalan Raja",
+              "id" : 414,
+              "code" : "1000521",
+              "location" : [3.149192, 101.694449],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Agro Bank (opp.), Lebuh Pasar Besar",
+              "id" : 364,
+              "code" : "1000047",
+              "location" : [3.147294, 101.694455],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "HSBC, Lebuh Ampang",
+              "id" : 366,
+              "code" : "1000955",
+              "location" : [3.147664, 101.695801],
+              "is_wp" : 1,
+              "line" : ""
+            }
+          ],
+          "trip" : {
+            "id" : 31,
+            "headsign" : "Medan Pasar"
+          }
+        }
+      ],
+      "stops" : [{
+          "stop" : {
+            "name" : "Damansara Damai, Terminal Bas, Jalan PJU 10\/1",
+            "id" : 552,
+            "code" : "1003250",
+            "location" : [3.195835, 101.592057]
+          },
+          "trip" : {
+            "id" : 31,
+            "headsign" : "Medan Pasar"
+          },
+          "route" : {
+            "id" : 191,
+            "code" : "U8W",
+            "type" : 3,
+            "name" : "Damansara Damai"
+          }
+        }, {
+          "stop" : {
+            "name" : "HSBC, Lebuh Ampang",
+            "id" : 366,
+            "code" : "1000955",
+            "location" : [3.147664, 101.695801]
+          },
+          "trip" : {
+            "id" : 31,
+            "headsign" : "Medan Pasar"
+          },
+          "route" : {
+            "id" : 191,
+            "code" : "U8W",
+            "type" : 3,
+            "name" : "Damansara Damai"
+          }
+        }
+      ]
+    }, {
+      "route" : [{
+          "start" : {
+            "name" : "HSBC, Lebuh Ampang",
+            "id" : 366,
+            "code" : "1000955",
+            "location" : [3.147664, 101.695801]
+          },
+          "route" : {
+            "id" : 191,
+            "code" : "U8W",
+            "type" : 3,
+            "name" : "Damansara Damai"
+          },
+          "end" : {
+            "name" : "Damansara Damai, Terminal Bas, Jalan PJU 10\/1",
+            "id" : 552,
+            "code" : "1003250",
+            "location" : [3.195835, 101.592057]
+          },
+          "stops" : [{
+              "name" : "HSBC, Lebuh Ampang",
+              "id" : 366,
+              "code" : "1000955",
+              "location" : [3.147664, 101.695801],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Stesen LRT Masjid Jamek\/Masjid Jamek KL, Jalan Tun Perak",
+              "id" : 529,
+              "code" : "1001811",
+              "location" : [3.149251, 101.696569],
+              "is_wp" : 1,
+              "line" : [[3.150974, 101.695083], [3.151223, 101.694689], [3.151297, 101.694443], [3.151322, 101.694243], [3.151327, 101.694104], [3.151319, 101.694], [3.151312, 101.693882], [3.151275, 101.693628], [3.151224, 101.693369], [3.150954, 101.69316], [3.15077, 101.69311], [3.15069, 101.69308], [3.15013, 101.692955]]
+            }, {
+              "name" : "Dataran Merdeka, Lengkok Raja",
+              "id" : 530,
+              "code" : "1000520",
+              "location" : [3.149922, 101.693787],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "DBKL, Jalan Raja Laut",
+              "id" : 531,
+              "code" : "1000533",
+              "location" : [3.153629, 101.69466],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Medan Mara, Jalan Raja Laut",
+              "id" : 372,
+              "code" : "1001984",
+              "location" : [3.157766, 101.694473],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "SRK Jalan Raja Laut, Jalan Raja Laut",
+              "id" : 373,
+              "code" : "1003299",
+              "location" : [3.159664, 101.6947],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Sime Darby \/ Cosmo Points, Jalan Raja Laut",
+              "id" : 374,
+              "code" : "1003257",
+              "location" : [3.162295, 101.695573],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Putri Park \/ City Hotel, Jalan Raja Laut",
+              "id" : 375,
+              "code" : "1002694",
+              "location" : [3.164891, 101.696226],
+              "is_wp" : 0,
+              "line" : [[3.165037, 101.696243], [3.16518, 101.69626], [3.165302, 101.696273], [3.165793, 101.696292], [3.166193, 101.696303], [3.16641, 101.696309], [3.16662, 101.696314]]
+            }, {
+              "name" : "KFC, Jalan Raja Laut",
+              "id" : 415,
+              "code" : "1001418",
+              "location" : [3.167214, 101.696374],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Tan Chong Motor, Jalan Ipoh",
+              "id" : 416,
+              "code" : "1002537",
+              "location" : [3.169322, 101.695783],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Hospital Pusrawi, Jalan Ipoh",
+              "id" : 417,
+              "code" : "1002415",
+              "location" : [3.170597, 101.694085],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Perkim, Jalan Ipoh",
+              "id" : 418,
+              "code" : "1002413",
+              "location" : [3.171103, 101.693452],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hotel Mesra Inn, Jalan Ipoh",
+              "id" : 474,
+              "code" : "1002022",
+              "location" : [3.174228, 101.690154],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Kuil Hindu, Jalan Ipoh",
+              "id" : 475,
+              "code" : "1001710",
+              "location" : [3.176267, 101.687855],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Mobil, Jalan Ipoh",
+              "id" : 476,
+              "code" : "1002041",
+              "location" : [3.178304, 101.685587],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Affin\/HSBC Bank, Jalan Ipoh",
+              "id" : 477,
+              "code" : "1002529",
+              "location" : [3.180085, 101.682938],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Batu, Jalan Ipoh",
+              "id" : 478,
+              "code" : "1002530",
+              "location" : [3.183884, 101.681005],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "SMK ( P ) Jalan Ipoh, Jalan Ipoh",
+              "id" : 479,
+              "code" : "1003385",
+              "location" : [3.187493, 101.681589],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Mutiara, Jalan Ipoh",
+              "id" : 480,
+              "code" : "1001626",
+              "location" : [3.188924, 101.680957],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Taman Bamboo, Jalan Ipoh",
+              "id" : 481,
+              "code" : "1002533",
+              "location" : [3.195184, 101.679556],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Mikasa, Jalan Ipoh",
+              "id" : 482,
+              "code" : "1002534",
+              "location" : [3.198479, 101.678379],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Wisma Haji Pilus, Jalan Ipoh",
+              "id" : 483,
+              "code" : "1001253",
+              "location" : [3.201957, 101.676362],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Kompleks Sungai Mas, Jalan Ipoh",
+              "id" : 569,
+              "code" : "1001634",
+              "location" : [3.20269, 101.67366],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hotel Crystal Crown, Jalan Kepong",
+              "id" : 570,
+              "code" : "1000380",
+              "location" : [3.203987, 101.668789],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Wisma TNB (opp.), Jalan Kepong",
+              "id" : 571,
+              "code" : "1001678",
+              "location" : [3.206665, 101.665726],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Pusat Penjaja Jinjang (opp.), Jalan Kepong",
+              "id" : 572,
+              "code" : "1001674",
+              "location" : [3.207324, 101.663597],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Pejabat DBKL (opp.), Jalan Kepong",
+              "id" : 573,
+              "code" : "1002352",
+              "location" : [3.207843, 101.660094],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Petronas (opp.), Jalan Kepong",
+              "id" : 574,
+              "code" : "1004121",
+              "location" : [3.208641, 101.655006],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Commercial Park, Jalan Kepong",
+              "id" : 575,
+              "code" : "1002665",
+              "location" : [3.208441, 101.652717],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Depoh Bas Selangor (opp.), Jalan Kepong",
+              "id" : 576,
+              "code" : "1001676",
+              "location" : [3.209579, 101.650921],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "EON Bank, Jalan Kepong",
+              "id" : 577,
+              "code" : "1000616",
+              "location" : [3.211571, 101.647551],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Shell, Jalan Kepong",
+              "id" : 578,
+              "code" : "1003215",
+              "location" : [3.212407, 101.646087],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Carrefour Kepong (opp.), Jalan Kepong",
+              "id" : 579,
+              "code" : "1000451",
+              "location" : [3.213865, 101.642547],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Jusco Metro Prima, Jalan Kepong",
+              "id" : 580,
+              "code" : "1002028",
+              "location" : [3.214125, 101.639665],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Hab Bas Kepong (opp.), Jalan Kepong",
+              "id" : 581,
+              "code" : "1000436",
+              "location" : [3.213062, 101.633062],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Stesen KTM Kepong Sentral (opp.), Jalan Kuala Selangor",
+              "id" : 582,
+              "code" : "1001406",
+              "location" : [3.207718, 101.629374],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Simpang Bukit Maluri, Jalan Sungai Buloh",
+              "id" : 583,
+              "code" : "1003437",
+              "location" : [3.20281, 101.627387],
+              "is_wp" : 0,
+              "line" : ""
+            }, {
+              "name" : "Restoran Mahbub (opp.), Jalan 10\/1",
+              "id" : 584,
+              "code" : "1002782",
+              "location" : [3.196576, 101.593993],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Pondok Polis\/Apartment Idaman, Jalan 10\/1",
+              "id" : 553,
+              "code" : "1002590",
+              "location" : [3.190843, 101.592319],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Apartment Impian, Jalan PJU 10\/1",
+              "id" : 554,
+              "code" : "1000127",
+              "location" : [3.192343, 101.588023],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Apartment Permai, Jalan 10\/1",
+              "id" : 555,
+              "code" : "1000135",
+              "location" : [3.19425, 101.588387],
+              "is_wp" : 1,
+              "line" : ""
+            }, {
+              "name" : "Damansara Damai, Terminal Bas, Jalan PJU 10\/1",
+              "id" : 552,
+              "code" : "1003250",
+              "location" : [3.195835, 101.592057],
+              "is_wp" : 1,
+              "line" : ""
+            }
+          ],
+          "trip" : {
+            "id" : 32,
+            "headsign" : "Damansara Damai"
+          }
+        }
+      ],
+      "stops" : [{
+          "stop" : {
+            "name" : "HSBC, Lebuh Ampang",
+            "id" : 366,
+            "code" : "1000955",
+            "location" : [3.147664, 101.695801]
+          },
+          "trip" : {
+            "id" : 32,
+            "headsign" : "Damansara Damai"
+          },
+          "route" : {
+            "id" : 191,
+            "code" : "U8W",
+            "type" : 3,
+            "name" : "Damansara Damai"
+          }
+        }, {
+          "stop" : {
+            "name" : "Damansara Damai, Terminal Bas, Jalan PJU 10\/1",
+            "id" : 552,
+            "code" : "1003250",
+            "location" : [3.195835, 101.592057]
+          },
+          "trip" : {
+            "id" : 32,
+            "headsign" : "Damansara Damai"
+          },
+          "route" : {
+            "id" : 191,
+            "code" : "U8W",
+            "type" : 3,
+            "name" : "Damansara Damai"
+          }
+        }
+      ]
+    }
+  ]
+}

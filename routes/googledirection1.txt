@@ -1,0 +1,386 @@
+﻿{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 3.1719984,
+               "lng" : 101.7123516
+            },
+            "southwest" : {
+               "lat" : 3.15692,
+               "lng" : 101.6950065
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 km",
+                  "value" : 3417
+               },
+               "duration" : {
+                  "text" : "45 mins",
+                  "value" : 2719
+               },
+               "end_address" : "1, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "end_location" : {
+                  "lat" : 3.1589892,
+                  "lng" : 101.7123516
+               },
+               "start_address" : "12, Jalan Pangkor, Titiwangsa Sentral, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "start_location" : {
+                  "lat" : 3.1719984,
+                  "lng" : 101.6960197
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "3.4 km",
+                        "value" : 3417
+                     },
+                     "duration" : {
+                        "text" : "45 mins",
+                        "value" : 2719
+                     },
+                     "end_location" : {
+                        "lat" : 3.1589892,
+                        "lng" : 101.7123516
+                     },
+                     "html_instructions" : "Walk to 1, Jalan Ampang, Kuala Lumpur City Centre, 55000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+                     "polyline" : {
+                        "points" : "_pjRcoukR^DOlA?D@D?@@@@@@@@@@?B@H@j@Fb@Dn@HHBF@NBr@Rr@d@zA{BdBiCzAaCnAv@t@_Ar@}@`@_@V[b@_@fC}BN@hCHzABF?^@P@t@BjADVBdBHbAHR@vALbBHP@fALPDVuAVcAlA{FDWFWDMh@cCZoAfAkEh@JrA^RDf@Jh@Jd@Hb@H`@LJ@TMLGLIJIHa@Pq@Lg@t@uBLYNYNUPYR[PURWTO^Uf@]LECa@h@qCMa@i@kAGGPg@_@{@OYe@{@oBgEcBoDe@}@w@oBEKASAWSoAE_@A]?WB]LaBD]De@PmALu@"
+                     },
+                     "start_location" : {
+                        "lat" : 3.1719984,
+                        "lng" : 101.6960197
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "18 m",
+                              "value" : 18
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 15
+                           },
+                           "end_location" : {
+                              "lat" : 3.171839,
+                              "lng" : 101.6959927
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eJalan Pangkor\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "_pjRcoukR^D"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1719984,
+                              "lng" : 101.6960197
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "92 m",
+                              "value" : 92
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 77
+                           },
+                           "end_location" : {
+                              "lat" : 3.1715697,
+                              "lng" : 101.6954299
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJalan Pangkor\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "_ojR}nukROlA?D@D?@@@@@@@@@@?B@H@j@F"
+                           },
+                           "start_location" : {
+                              "lat" : 3.171839,
+                              "lng" : 101.6959927
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 134
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 93
+                           },
+                           "end_location" : {
+                              "lat" : 3.1704587,
+                              "lng" : 101.6950065
+                           },
+                           "html_instructions" : "Continue onto \u003cb\u003eJalan 1/68d\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "imjRmkukRb@Dn@HHBF@NBr@Rr@d@"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1715697,
+                              "lng" : 101.6954299
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.3 km",
+                              "value" : 270
+                           },
+                           "duration" : {
+                              "text" : "3 mins",
+                              "value" : 169
+                           },
+                           "end_location" : {
+                              "lat" : 3.1690337,
+                              "lng" : 101.6969717
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eJalan Sultan Azlan Shah\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "kfjRyhukRzA{BdBiCzAaC"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1704587,
+                              "lng" : 101.6950065
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "54 m",
+                              "value" : 54
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 39
+                           },
+                           "end_location" : {
+                              "lat" : 3.1686296,
+                              "lng" : 101.6966948
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eJalan Sultan Azlan Shah\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "m}iRauukRnAv@"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1690337,
+                              "lng" : 101.6969717
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.3 km",
+                              "value" : 267
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 233
+                           },
+                           "end_location" : {
+                              "lat" : 3.1669497,
+                              "lng" : 101.698411
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Sultan Azlan Shah\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "}ziRisukRt@_Ar@}@`@_@V[b@_@fC}B"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1686296,
+                              "lng" : 101.6966948
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.5 km",
+                              "value" : 528
+                           },
+                           "duration" : {
+                              "text" : "7 mins",
+                              "value" : 407
+                           },
+                           "end_location" : {
+                              "lat" : 3.1622349,
+                              "lng" : 101.6978998
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJalan Tuanku Abdul Rahman\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "mpiRa~ukRN@hCHzABF?^@P@t@BjADVBdBHbAHR@vALbBHP@fALPD"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1669497,
+                              "lng" : 101.698411
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.5 km",
+                              "value" : 517
+                           },
+                           "duration" : {
+                              "text" : "6 mins",
+                              "value" : 376
+                           },
+                           "end_location" : {
+                              "lat" : 3.1607894,
+                              "lng" : 101.7023249
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Dewan Sultan Sulaiman\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "}rhR{zukRVuAVcAlA{FDWFWDMh@cCZoAfAkE"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1622349,
+                              "lng" : 101.6978998
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 203
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 148
+                           },
+                           "end_location" : {
+                              "lat" : 3.1590496,
+                              "lng" : 101.7017666
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJalan Raja Abdullah\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "}ihRovvkRh@JrA^RDf@Jh@Jd@Hb@H`@LJ@"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1607894,
+                              "lng" : 101.7023249
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.4 km",
+                              "value" : 377
+                           },
+                           "duration" : {
+                              "text" : "5 mins",
+                              "value" : 318
+                           },
+                           "end_location" : {
+                              "lat" : 3.1571147,
+                              "lng" : 101.7044337
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Sultan Ismail\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "a_hRasvkRTMLGLIJIHa@Pq@Lg@t@uBLYNYNUPYR[PURWTO^Uf@]LE"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1590496,
+                              "lng" : 101.7017666
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 178
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 125
+                           },
+                           "end_location" : {
+                              "lat" : 3.157239,
+                              "lng" : 101.705925
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eJalan Ampang\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "}rgRucwkRCa@h@qCMa@i@kAGG"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1571147,
+                              "lng" : 101.7044337
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "24 m",
+                              "value" : 24
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 25
+                           },
+                           "end_location" : {
+                              "lat" : 3.157146,
+                              "lng" : 101.706123
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eJalan Ampang\u003c/b\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "wsgR_mwkRPg@"
+                           },
+                           "start_location" : {
+                              "lat" : 3.157239,
+                              "lng" : 101.705925
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.8 km",
+                              "value" : 755
+                           },
+                           "duration" : {
+                              "text" : "12 mins",
+                              "value" : 694
+                           },
+                           "end_location" : {
+                              "lat" : 3.1589892,
+                              "lng" : 101.7123516
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Ampang\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "esgRgnwkR_@{@OYe@{@oBgEcBoDe@}@w@oBEKASAWSoAE_@A]?WB]LaBD]De@PmALu@"
+                           },
+                           "start_location" : {
+                              "lat" : 3.157146,
+                              "lng" : 101.706123
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_pjRcoukR^DOlA@JDFPDhCZVDr@Rr@d@`EeGzAaCnAv@hB}Bx@{@jD}CxCJtCF~FVrGb@xANPDVuAdB_ILo@rCmLxD|@nATdAVJ@TMZQJIHa@^yAbAoC^o@d@u@d@m@jBiACa@h@qCw@mBGGPg@o@uA_HqN}@{BCk@YoBAu@P_CJcA^cC"
+         },
+         "summary" : "Jalan Ampang",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,1083 @@
+﻿{ "routes" : [ { "route" : [ { "end" : { "code" : "1000047",
+                  "id" : 364,
+                  "location" : [ 3.147294,
+                      101.694455
+                    ],
+                  "name" : "Agro Bank (opp.), Lebuh Pasar Besar"
+                },
+              "route" : { "code" : "U12",
+                  "id" : 89,
+                  "name" : "UIA",
+                  "type" : 3
+                },
+              "start" : { "code" : "1000972",
+                  "id" : 340,
+                  "location" : [ 3.2520859999999998,
+                      101.73978200000001
+                    ],
+                  "name" : "Hab Bas UIA Gombak, Lingkaran UIA"
+                },
+              "stops" : [ { "code" : "1000972",
+                    "id" : 340,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.2520859999999998,
+                        101.73978200000001
+                      ],
+                    "name" : "Hab Bas UIA Gombak, Lingkaran UIA"
+                  },
+                  { "code" : "1000413",
+                    "id" : 341,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2496339999999999,
+                        101.73889800000001
+                      ],
+                    "name" : "Stop 7 Kulliyah of Economics, Lingkaran UIA"
+                  },
+                  { "code" : "1000414",
+                    "id" : 342,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.249158,
+                        101.736662
+                      ],
+                    "name" : "Stop 8 Cafeteria, Lingkaran UIA"
+                  },
+                  { "code" : "1000415",
+                    "id" : 343,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2493919999999998,
+                        101.734773
+                      ],
+                    "name" : "Stop 9 Rectory, Lingkaran UIA"
+                  },
+                  { "code" : "1003362",
+                    "id" : 594,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2466810000000002,
+                        101.728313
+                      ],
+                    "name" : "SMK Teknik (3), Jalan Sungai Pusu"
+                  },
+                  { "code" : "1001697",
+                    "id" : 595,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.244904,
+                        101.724994
+                      ],
+                    "name" : "Kuarters Institut Pendidikan, Jalan Sungai Pusu"
+                  },
+                  { "code" : "1003117",
+                    "id" : 596,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2442039999999999,
+                        101.72203
+                      ],
+                    "name" : "Sekolah Integrasi Gombak (2), Jalan Sungai Pusu"
+                  },
+                  { "code" : "1003164",
+                    "id" : 597,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.243814,
+                        101.720162
+                      ],
+                    "name" : "Selepas Traffic Light, Jalan Gombak"
+                  },
+                  { "code" : "1002869",
+                    "id" : 598,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2446449999999998,
+                        101.716701
+                      ],
+                    "name" : "Rumah Khailani, Jalan Gombak"
+                  },
+                  { "code" : "1001256",
+                    "id" : 599,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2447979999999998,
+                        101.715014
+                      ],
+                    "name" : "Kedai Basikal LE RUN (1), Jalan Gombak"
+                  },
+                  { "code" : "1001456",
+                    "id" : 600,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2429929999999998,
+                        101.71391
+                      ],
+                    "name" : "Kampung Sungai Chincin (opp), Jalan Gombak"
+                  },
+                  { "code" : "1000265",
+                    "id" : 601,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2408960000000002,
+                        101.71403100000001
+                      ],
+                    "name" : "Besi Potong, Jalan Gombak"
+                  },
+                  { "code" : "1003639",
+                    "id" : 602,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2394189999999998,
+                        101.71426099999999
+                      ],
+                    "name" : "SRK Gombak Utara (Stop 2), Jalan Gombak"
+                  },
+                  { "code" : "1003654",
+                    "id" : 603,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.237352,
+                        101.71442399999999
+                      ],
+                    "name" : "SRK Sungai Pusu (Stop 1), Jalan Gombak"
+                  },
+                  { "code" : "1001949",
+                    "id" : 604,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.234067,
+                        101.71410400000001
+                      ],
+                    "name" : "Masjid Simpang Tiga (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1000557",
+                    "id" : 326,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2310479999999999,
+                        101.712418
+                      ],
+                    "name" : "Dewan Datin Zaleha (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1003975",
+                    "id" : 327,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2277840000000002,
+                        101.713976
+                      ],
+                    "name" : "Taman Harmoni, Jalan Gombak"
+                  },
+                  { "code" : "1004218",
+                    "id" : 328,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2248199999999998,
+                        101.71436300000001
+                      ],
+                    "name" : "Warung Minang (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1001548",
+                    "id" : 329,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.222575,
+                        101.71386200000001
+                      ],
+                    "name" : "Klinik Kerajaan (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1003449",
+                    "id" : 330,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2200890000000002,
+                        101.71292699999999
+                      ],
+                    "name" : "Simpang Gombak Setia, Jalan Gombak"
+                  },
+                  { "code" : "1000195",
+                    "id" : 229,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.218594,
+                        101.713054
+                      ],
+                    "name" : "Balai Polis Gombak, Jalan Gombak"
+                  },
+                  { "code" : "1002518",
+                    "id" : 230,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2168139999999998,
+                        101.713104
+                      ],
+                    "name" : "Petronas Pejabat Pertanian, Jalan Gombak"
+                  },
+                  { "code" : "1000397",
+                    "id" : 231,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.213384,
+                        101.711867
+                      ],
+                    "name" : "Batu 5 Ong Tai Kim, Jalan Gombak"
+                  },
+                  { "code" : "1002599",
+                    "id" : 346,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2124130000000002,
+                        101.709136
+                      ],
+                    "name" : "Pos Malaysia Wisma KS, Jalan Gombak"
+                  },
+                  { "code" : "1003601",
+                    "id" : 233,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.210947,
+                        101.706547
+                      ],
+                    "name" : "SRA Sungai Mulia, Jalan Gombak"
+                  },
+                  { "code" : "1002261",
+                    "id" : 234,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2091959999999999,
+                        101.70465799999999
+                      ],
+                    "name" : "Pasar Besar Gombak (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1003575",
+                    "id" : 235,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2075140000000002,
+                        101.703007
+                      ],
+                    "name" : "Simpang Setapak Garden, Jalan Gombak"
+                  },
+                  { "code" : "1003512",
+                    "id" : 347,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2060789999999999,
+                        101.70213
+                      ],
+                    "name" : "Simpang Kampung Bandar Dalam (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1001530",
+                    "id" : 348,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2034289999999999,
+                        101.702472
+                      ],
+                    "name" : "Klinik Gombak, Jalan Gombak"
+                  },
+                  { "code" : "1001592",
+                    "id" : 349,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.201854,
+                        101.703022
+                      ],
+                    "name" : "Kolej Islam, Jalan Gombak"
+                  },
+                  { "code" : "1003623",
+                    "id" : 350,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1985389999999998,
+                        101.704075
+                      ],
+                    "name" : "SRJK ( C ) Chong Hwa, Jalan Gomba"
+                  },
+                  { "code" : "1004182",
+                    "id" : 351,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1963750000000002,
+                        101.704759
+                      ],
+                    "name" : "Used Car / Kampung Puah, Jalan Gombak"
+                  },
+                  { "code" : "1000589",
+                    "id" : 352,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1944499999999998,
+                        101.705545
+                      ],
+                    "name" : "Diamond Square, Jalan Gombak"
+                  },
+                  { "code" : "1001281",
+                    "id" : 353,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.187843,
+                        101.70378700000001
+                      ],
+                    "name" : "Kedai Gunting Rambut, Jalan Setapak"
+                  },
+                  { "code" : "1000296",
+                    "id" : 354,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1835390000000001,
+                        101.702264
+                      ],
+                    "name" : "BHP Titiwangsa, Jalan Setapak"
+                  },
+                  { "code" : "1003561",
+                    "id" : 355,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1800510000000002,
+                        101.701162
+                      ],
+                    "name" : "Simpang Tasik TitiWangsa, Jalan Pahang"
+                  },
+                  { "code" : "1002557",
+                    "id" : 276,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1785510000000001,
+                        101.700569
+                      ],
+                    "name" : "Shell, Jalan Pahang"
+                  },
+                  { "code" : "1002217",
+                    "id" : 436,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.17198,
+                        101.69896199999999
+                      ],
+                    "name" : "Hospital Kuala Lumpur, Jalan Pahang"
+                  },
+                  { "code" : "1002216",
+                    "id" : 357,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1693609999999999,
+                        101.698545
+                      ],
+                    "name" : "Institut Penyelidikan Perubatan, Jalan Pahang"
+                  },
+                  { "code" : "1000403",
+                    "id" : 412,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1651739999999999,
+                        101.698454
+                      ],
+                    "name" : "Chow Kit, Jalan Tunku Abdul Rahman"
+                  },
+                  { "code" : "1004169",
+                    "id" : 359,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1620590000000002,
+                        101.69788
+                      ],
+                    "name" : "Pizza Hut, Jalan Tunku Abdul Rahman"
+                  },
+                  { "code" : "1002359",
+                    "id" : 360,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.161267,
+                        101.697531
+                      ],
+                    "name" : "Hock Hin Motor, Jalan Tunku Abdul Rahman"
+                  },
+                  { "code" : "1001629",
+                    "id" : 361,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1579160000000002,
+                        101.696172
+                      ],
+                    "name" : "Kompleks Pertama, Jalan Tunku Abdul Rahman"
+                  },
+                  { "code" : "1000875",
+                    "id" : 362,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.155154,
+                        101.69640800000001
+                      ],
+                    "name" : "Globe Silk Store, Jalan Tunku Abdul Rahman"
+                  },
+                  { "code" : "1000502",
+                    "id" : 363,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1529929999999999,
+                        101.696601
+                      ],
+                    "name" : "Coliseum, Jalan Tunku Abdul Rahman"
+                  },
+                  { "code" : "1000521",
+                    "id" : 414,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1491920000000002,
+                        101.69444900000001
+                      ],
+                    "name" : "Dataran Merdeka, Jalan Raja"
+                  },
+                  { "code" : "1000047",
+                    "id" : 364,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.147294,
+                        101.694455
+                      ],
+                    "name" : "Agro Bank (opp.), Lebuh Pasar Besar"
+                  }
+                ],
+              "trip" : { "headsign" : "Medan Pasar",
+                  "id" : 37
+                }
+            } ],
+        "stops" : [ { "route" : { "code" : "U12",
+                  "id" : 89,
+                  "name" : "UIA",
+                  "type" : 3
+                },
+              "stop" : { "code" : "1000972",
+                  "id" : 340,
+                  "location" : [ 3.2520859999999998,
+                      101.73978200000001
+                    ],
+                  "name" : "Hab Bas UIA Gombak, Lingkaran UIA"
+                },
+              "trip" : { "headsign" : "Medan Pasar",
+                  "id" : 37
+                }
+            },
+            { "route" : { "code" : "U12",
+                  "id" : 89,
+                  "name" : "UIA",
+                  "type" : 3
+                },
+              "stop" : { "code" : "1000047",
+                  "id" : 364,
+                  "location" : [ 3.147294,
+                      101.694455
+                    ],
+                  "name" : "Agro Bank (opp.), Lebuh Pasar Besar"
+                },
+              "trip" : { "headsign" : "Medan Pasar",
+                  "id" : 37
+                }
+            }
+          ]
+      },
+      { "route" : [ { "end" : { "code" : "1000972",
+                  "id" : 340,
+                  "location" : [ 3.2520859999999998,
+                      101.73978200000001
+                    ],
+                  "name" : "Hab Bas UIA Gombak, Lingkaran UIA"
+                },
+              "route" : { "code" : "U12",
+                  "id" : 89,
+                  "name" : "UIA",
+                  "type" : 3
+                },
+              "start" : { "code" : "1000955",
+                  "id" : 366,
+                  "location" : [ 3.1476639999999998,
+                      101.695801
+                    ],
+                  "name" : "HSBC, Lebuh Ampang"
+                },
+              "stops" : [ { "code" : "1000955",
+                    "id" : 366,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1476639999999998,
+                        101.695801
+                      ],
+                    "name" : "HSBC, Lebuh Ampang"
+                  },
+                  { "code" : "1000382",
+                    "id" : 367,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.1492450000000001,
+                        101.697372
+                      ],
+                    "name" : "BSN, Lebuh Ampang"
+                  },
+                  { "code" : "1003683",
+                    "id" : 368,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.151913,
+                        101.697998
+                      ],
+                    "name" : "Standard Chartered Bank, Jalan Ampang"
+                  },
+                  { "code" : "1000823",
+                    "id" : 369,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.1532580000000001,
+                        101.69848399999999
+                      ],
+                    "name" : "Garden City Hotel, Jalan Munshi Abdullah"
+                  },
+                  { "code" : "1002560",
+                    "id" : 370,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.154652,
+                        101.698375
+                      ],
+                    "name" : "Plaza City One, Jalan Munshi Abdullah"
+                  },
+                  { "code" : "1003415",
+                    "id" : 371,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.1567789999999998,
+                        101.695358
+                      ],
+                    "name" : "Sogo, Jalan Dang Wangi"
+                  },
+                  { "code" : "1001984",
+                    "id" : 372,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1577660000000001,
+                        101.694473
+                      ],
+                    "name" : "Medan Mara, Jalan Raja Laut"
+                  },
+                  { "code" : "1003299",
+                    "id" : 373,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1596639999999998,
+                        101.6947
+                      ],
+                    "name" : "SRK Jalan Raja Laut, Jalan Raja Laut"
+                  },
+                  { "code" : "1003257",
+                    "id" : 374,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1622949999999999,
+                        101.695573
+                      ],
+                    "name" : "Sime Darby / Cosmo Points, Jalan Raja Laut"
+                  },
+                  { "code" : "1002694",
+                    "id" : 375,
+                    "is_wp" : 0,
+                    "line" : [ [ 3.1653020000000001,
+                          101.69627300000001
+                        ],
+                        [ 3.1659519999999999,
+                          101.696299
+                        ],
+                        [ 3.1661929999999998,
+                          101.69630600000001
+                        ],
+                        [ 3.1666189999999999,
+                          101.696315
+                        ],
+                        [ 3.1669299999999998,
+                          101.69634499999999
+                        ],
+                        [ 3.167405,
+                          101.69639599999999
+                        ],
+                        [ 3.1675260000000001,
+                          101.69641
+                        ],
+                        [ 3.1680820000000001,
+                          101.69645199999999
+                        ],
+                        [ 3.168282,
+                          101.696445
+                        ],
+                        [ 3.1684209999999999,
+                          101.69644700000001
+                        ],
+                        [ 3.1685889999999999,
+                          101.696457
+                        ],
+                        [ 3.1686190000000001,
+                          101.696476
+                        ],
+                        [ 3.168641,
+                          101.696502
+                        ],
+                        [ 3.1686679999999998,
+                          101.69656500000001
+                        ],
+                        [ 3.168682,
+                          101.69664299999999
+                        ],
+                        [ 3.168679,
+                          101.69668
+                        ],
+                        [ 3.1686640000000001,
+                          101.696736
+                        ],
+                        [ 3.16865,
+                          101.696772
+                        ],
+                        [ 3.1686109999999998,
+                          101.696844
+                        ],
+                        [ 3.1681590000000002,
+                          101.697365
+                        ]
+                      ],
+                    "location" : [ 3.1648909999999999,
+                        101.696226
+                      ],
+                    "name" : "Putri Park / City Hotel, Jalan Raja Laut"
+                  },
+                  { "code" : "1003247",
+                    "id" : 55,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.1679580000000001,
+                        101.697571
+                      ],
+                    "name" : "Shell/ Stesen Monorel Chow Kit, Jalan Ipoh"
+                  },
+                  { "code" : "1000887",
+                    "id" : 89,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1701679999999999,
+                        101.69824199999999
+                      ],
+                    "name" : "Hotel Grand Seasons, Jalan Pahang"
+                  },
+                  { "code" : "1000915",
+                    "id" : 90,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1727189999999998,
+                        101.699045
+                      ],
+                    "name" : "Hospital Kuala Lumpur (opp.), Jalan Pahang"
+                  },
+                  { "code" : "1003871",
+                    "id" : 277,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1785139999999998,
+                        101.700238
+                      ],
+                    "name" : "Hospital Tawakal, Jalan Pahang"
+                  },
+                  { "code" : "1003428",
+                    "id" : 376,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1816970000000002,
+                        101.70141700000001
+                      ],
+                    "name" : "Simpang Bandar Baru Sentul, Jalan Pahang"
+                  },
+                  { "code" : "1000822",
+                    "id" : 377,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1857099999999998,
+                        101.701841
+                      ],
+                    "name" : "Galeria, Jalan Pahang"
+                  },
+                  { "code" : "1001330",
+                    "id" : 378,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.188358,
+                        101.703931
+                      ],
+                    "name" : "Kedai Motor, Jalan Setapak"
+                  },
+                  { "code" : "1001362",
+                    "id" : 379,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1944300000000001,
+                        101.70528899999999
+                      ],
+                    "name" : "Lim Tyre, Jalan Gombak"
+                  },
+                  { "code" : "1003254",
+                    "id" : 380,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.1970070000000002,
+                        101.70428099999999
+                      ],
+                    "name" : "Kampung Puah, Jalan Gombak"
+                  },
+                  { "code" : "1002471",
+                    "id" : 381,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.199179,
+                        101.70359999999999
+                      ],
+                    "name" : "Petronas Batu 3, Jalan Gombak"
+                  },
+                  { "code" : "1001943",
+                    "id" : 382,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2016010000000001,
+                        101.702814
+                      ],
+                    "name" : "Masjid Saad, Jalan Gombak"
+                  },
+                  { "code" : "1001324",
+                    "id" : 383,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2033670000000001,
+                        101.702223
+                      ],
+                    "name" : "He Sin Used Car, Jalan Gombak"
+                  },
+                  { "code" : "1003511",
+                    "id" : 384,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2057190000000002,
+                        101.70168
+                      ],
+                    "name" : "Simpang Kampung Bandar Dalam, Jalan Gombak"
+                  },
+                  { "code" : "1002260",
+                    "id" : 385,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2087439999999998,
+                        101.703694
+                      ],
+                    "name" : "Pasar Besar Gombak, Jalan Gombak"
+                  },
+                  { "code" : "1001898",
+                    "id" : 386,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2107760000000001,
+                        101.706003
+                      ],
+                    "name" : "Masjid As Sabirin, Jalan Gombak"
+                  },
+                  { "code" : "1004244",
+                    "id" : 387,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2125249999999999,
+                        101.708206
+                      ],
+                    "name" : "Wisma KS/Lorong Sungai Mulia, Jalan Gombak"
+                  },
+                  { "code" : "1000396",
+                    "id" : 388,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.213314,
+                        101.71145300000001
+                      ],
+                    "name" : "Batu 5, Jalan Gombak"
+                  },
+                  { "code" : "1003636",
+                    "id" : 389,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2168950000000001,
+                        101.713024
+                      ],
+                    "name" : "SRK Gombak 1 & 2, Jalan Gombak"
+                  },
+                  { "code" : "1001899",
+                    "id" : 250,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2186430000000001,
+                        101.712884
+                      ],
+                    "name" : "Masjid As Syakirin, Jalan Gombak"
+                  },
+                  { "code" : "1000558",
+                    "id" : 299,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2215569999999998,
+                        101.713168
+                      ],
+                    "name" : "Klinik Kerajaan, Jalan Gombak"
+                  },
+                  { "code" : "1004217",
+                    "id" : 300,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2248079999999999,
+                        101.71411999999999
+                      ],
+                    "name" : "Warung Minang, Jalan Gombak"
+                  },
+                  { "code" : "1002973",
+                    "id" : 301,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2274150000000001,
+                        101.713765
+                      ],
+                    "name" : "Rumah Pak Ali, Jalan Gombak"
+                  },
+                  { "code" : "1000559",
+                    "id" : 302,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2289159999999999,
+                        101.713452
+                      ],
+                    "name" : "Dewan Datin Zaleha, Jalan Gombak"
+                  },
+                  { "code" : "1001948",
+                    "id" : 390,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2301440000000001,
+                        101.712633
+                      ],
+                    "name" : "Masjid Simpang Tiga, Jalan Gombak"
+                  },
+                  { "code" : "1001638",
+                    "id" : 605,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2360099999999998,
+                        101.71432
+                      ],
+                    "name" : "Komuniti Lestari Sungai Chincin, Jalan Gombak"
+                  },
+                  { "code" : "1003638",
+                    "id" : 606,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2387999999999999,
+                        101.71405
+                      ],
+                    "name" : "SRK Gombak Utara (opp.), Jalan Gombak"
+                  },
+                  { "code" : "1001255",
+                    "id" : 607,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.24498,
+                        101.71483000000001
+                      ],
+                    "name" : "Kedai Basikal LE RUN, Jalan Gombak"
+                  },
+                  { "code" : "1003801",
+                    "id" : 608,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2450899999999998,
+                        101.71632
+                      ],
+                    "name" : "Tadika Kemas, Jalan Gombak"
+                  },
+                  { "code" : "1001457",
+                    "id" : 609,
+                    "is_wp" : 0,
+                    "line" : [ [ 3.2438229999999999,
+                          101.71971499999999
+                        ],
+                        [ 3.2439809999999998,
+                          101.720152
+                        ],
+                        [ 3.2443740000000001,
+                          101.72084099999999
+                        ],
+                        [ 3.2441399999999998,
+                          101.72107200000001
+                        ],
+                        [ 3.2440799999999999,
+                          101.721221
+                        ],
+                        [ 3.2440699999999998,
+                          101.72144900000001
+                        ],
+                        [ 3.2441710000000001,
+                          101.72169100000001
+                        ]
+                      ],
+                    "location" : [ 3.2438039999999999,
+                        101.719613
+                      ],
+                    "name" : "Kampung Sungai Chincin, Jalan Gombak"
+                  },
+                  { "code" : "1003360",
+                    "id" : 610,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2443,
+                        101.72184900000001
+                      ],
+                    "name" : "SMK Teknik (1), Jalan Sungai Pusu"
+                  },
+                  { "code" : "1003118",
+                    "id" : 611,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.24512,
+                        101.72283
+                      ],
+                    "name" : "Sekolah Integrasi Gombak (1), Jalan Sungai Pusu"
+                  },
+                  { "code" : "1001696",
+                    "id" : 612,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2451180000000002,
+                        101.72451
+                      ],
+                    "name" : "Kuarters Institut Pendidikan (1), Jalan Sungai Pusu"
+                  },
+                  { "code" : "1003361",
+                    "id" : 613,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2468659999999998,
+                        101.728291
+                      ],
+                    "name" : "SMK Teknik (2), Jalan Sungai Pusu"
+                  },
+                  { "code" : "1000408",
+                    "id" : 334,
+                    "is_wp" : 0,
+                    "line" : [ [ 3.2495579999999999,
+                          101.73401699999999
+                        ],
+                        [ 3.2498300000000002,
+                          101.733481
+                        ],
+                        [ 3.250019,
+                          101.733035
+                        ],
+                        [ 3.2503350000000002,
+                          101.73224500000001
+                        ]
+                      ],
+                    "location" : [ 3.2495069999999999,
+                        101.734019
+                      ],
+                    "name" : "Stop 1 Rectory, Lingkaran UIA"
+                  },
+                  { "code" : "1000405",
+                    "id" : 335,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2507199999999998,
+                        101.73129900000001
+                      ],
+                    "name" : "Stop 2 Kulliyah Architecture, Lingkaran UIA"
+                  },
+                  { "code" : "1000409",
+                    "id" : 336,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2542960000000001,
+                        101.732146
+                      ],
+                    "name" : "Stop 3 Kulliyah Engineering, Lingkaran UIA"
+                  },
+                  { "code" : "1000410",
+                    "id" : 337,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.254194,
+                        101.73347
+                      ],
+                    "name" : "Stop 4 Institute of Education, Lingkaran UIA"
+                  },
+                  { "code" : "1000411",
+                    "id" : 338,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2530519999999998,
+                        101.735955
+                      ],
+                    "name" : "Stop 5 Kulliyah IRKHS, Lingkaran UIA"
+                  },
+                  { "code" : "1000412",
+                    "id" : 339,
+                    "is_wp" : 0,
+                    "line" : "",
+                    "location" : [ 3.2522319999999998,
+                        101.738564
+                      ],
+                    "name" : "Stop 6 Kulliyah of Law, Lingkaran UIA"
+                  },
+                  { "code" : "1000972",
+                    "id" : 340,
+                    "is_wp" : 1,
+                    "line" : "",
+                    "location" : [ 3.2520859999999998,
+                        101.73978200000001
+                      ],
+                    "name" : "Hab Bas UIA Gombak, Lingkaran UIA"
+                  }
+                ],
+              "trip" : { "headsign" : "UIA Gombak",
+                  "id" : 38
+                }
+            } ],
+        "stops" : [ { "route" : { "code" : "U12",
+                  "id" : 89,
+                  "name" : "UIA",
+                  "type" : 3
+                },
+              "stop" : { "code" : "1000955",
+                  "id" : 366,
+                  "location" : [ 3.1476639999999998,
+                      101.695801
+                    ],
+                  "name" : "HSBC, Lebuh Ampang"
+                },
+              "trip" : { "headsign" : "UIA Gombak",
+                  "id" : 38
+                }
+            },
+            { "route" : { "code" : "U12",
+                  "id" : 89,
+                  "name" : "UIA",
+                  "type" : 3
+                },
+              "stop" : { "code" : "1000972",
+                  "id" : 340,
+                  "location" : [ 3.2520859999999998,
+                      101.73978200000001
+                    ],
+                  "name" : "Hab Bas UIA Gombak, Lingkaran UIA"
+                },
+              "trip" : { "headsign" : "UIA Gombak",
+                  "id" : 38
+                }
+            }
+          ]
+      }
+    ] }

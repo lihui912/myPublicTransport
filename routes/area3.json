@@ -1,0 +1,104 @@
+{
+  "data" : {
+    "routes" : [{
+        "code" : "BET7",
+        "title" : "BET7 Sri Nilam to Jalan Hang Lekiu"
+      }, {
+        "code" : "T302",
+        "title" : "T302 Stesen LRT Sri Rampai to Desa Rejang via Seksyen 10"
+      }, {
+        "code" : "T304",
+        "title" : "T304 Taman Melawati to Stesen LRT Sri Rampai"
+      }, {
+        "code" : "T305",
+        "title" : "T305 Ukay Perdana to Stesen LRT Sri Rampai"
+      }, {
+        "code" : "T307",
+        "title" : "T307 Stesen LRT Dato Keramat to Ampang Point"
+      }, {
+        "code" : "T309",
+        "title" : "T309 Stesen LRT Setiawangsa to Taman Setiawangsa"
+      }, {
+        "code" : "T312",
+        "title" : "T312 Stesen LRT Wangsa Maju to Danau Kota - PV12,PV10,PV15"
+      }, {
+        "code" : "T320",
+        "title" : "T320 Bukit Indah to Ampang Point"
+      }, {
+        "code" : "T323",
+        "title" : "T323 Stesen LRT Cempaka to Tasik Tambahan via Taman Mawar"
+      }, {
+        "code" : "T324",
+        "title" : "T324 Stesen LRT Cempaka to Taman Bukit Permai"
+      }, {
+        "code" : "T327",
+        "title" : "T327 Taman Shamelin to Maluri"
+      }, {
+        "code" : "T328",
+        "title" : "T328 Ampang Point to Stesen LRT Pandan Indah"
+      }, {
+        "code" : "T329",
+        "title" : "T329 Taman Dagang to Maluri"
+      }, {
+        "code" : "T330",
+        "title" : "T330 Stesen LRT Dato Keramat to Desa Pandan"
+      }, {
+        "code" : "U20",
+        "title" : "U20 Taman Melawati to Titiwangsa / Chow Kit"
+      }, {
+        "code" : "U21",
+        "title" : "U21 Ukay Perdana, Jalan Ukay Perdana to Chow Kit, Jalan Chow Kit"
+      }, {
+        "code" : "U23",
+        "title" : "U23 Taman Melawati to Medan Pasar via MINDEF"
+      }, {
+        "code" : "U24",
+        "title" : "U24 Seksyen 2 Wangsa Maju, Jalan 4/27A to Bukit Bintang/UTAR"
+      }, {
+        "code" : "U25",
+        "title" : "U25 Seksyen 10, Wangsa Maju / Stesen LRT Sri Rampai to Lebuh Ampang via Setapak Jaya"
+      }, {
+        "code" : "U26",
+        "title" : "U26 Bukit Indah, Ampang to Jalan Hang Lekiu (Lin Ho)"
+      }, {
+        "code" : "U27",
+        "title" : "U27 Sri Nilam to Menara Maybank"
+      }, {
+        "code" : "U28",
+        "title" : "U28 Taman Mulia Jaya to Jalan Hang Lekiu (Lin Ho)"
+      }, {
+        "code" : "U29",
+        "title" : "U29 Taman Mulia Jaya to Jalan Hang Lekiu (Lin Ho)"
+      }, {
+        "code" : "U30",
+        "title" : "U30 Pandan Mewah to Jalan Hang Lekiu (Lin Ho)"
+      }, {
+        "code" : "U30 (W)",
+        "title" : "U30 (W) Pandan Mewah to Jalan Hang Lekiu (Lin Ho)"
+      }, {
+        "code" : "U31",
+        "title" : "U31 Pandan Indah to Menara Maybank"
+      }, {
+        "code" : "U31 (W)",
+        "title" : "U31 (W) Pandan Indah to Menara Maybank"
+      }, {
+        "code" : "U32",
+        "title" : "U32 Taman Dagang to Menara Maybank"
+      }, {
+        "code" : "U33",
+        "title" : "U33 Ayer Panas to Lebuh Ampang"
+      }, {
+        "code" : "U332",
+        "title" : "U332 Lembah Jaya Utara to Garden City Hotel"
+      }, {
+        "code" : "U34",
+        "title" : "U34 Stesen LRT Wangsa Maju to Ampang Point"
+      }, {
+        "code" : "U36",
+        "title" : "U36 Taman Dagang to Chow Kit"
+      }
+    ],
+    "area" : "Area 3"
+  },
+  "result" : "OK"
+}

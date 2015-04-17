@@ -1,0 +1,20 @@
+{
+  "data" : {
+    "routes" : [{
+        "code" : "B103",
+        "title" : "B103 Titiwangsa to KLCC"
+      }, {
+        "code" : "B112",
+        "title" : "B112 Maluri to KL Sentral"
+      }, {
+        "code" : "B114",
+        "title" : "B114 Maluri to Titiwangsa via KLCC"
+      }, {
+        "code" : "B115",
+        "title" : "B115 HAB Pasar Seni to Jalan Duta"
+      }
+    ],
+    "area" : "Area 1"
+  },
+  "result" : "OK"
+}

@@ -1,0 +1,252 @@
+﻿{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 3.146138,
+               "lng" : 101.732943
+            },
+            "southwest" : {
+               "lat" : 3.12327,
+               "lng" : 101.6825047
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "5:12pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428052358
+               },
+               "departure_time" : {
+                  "text" : "4:00pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428048000
+               },
+               "distance" : {
+                  "text" : "13.5 km",
+                  "value" : 13473
+               },
+               "duration" : {
+                  "text" : "1 hour 13 mins",
+                  "value" : 4358
+               },
+               "end_address" : "4, Jalan Stesen Sentral 3, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "end_location" : {
+                  "lat" : 3.1336472,
+                  "lng" : 101.6868491
+               },
+               "start_address" : "Jalan Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "start_location" : {
+                  "lat" : 3.1240524,
+                  "lng" : 101.7278691
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 194
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 211
+                     },
+                     "end_location" : {
+                        "lat" : 3.12327,
+                        "lng" : 101.727881
+                     },
+                     "html_instructions" : "Walk to LRT Maluri",
+                     "polyline" : {
+                        "points" : "idaRev{kRLGBA@A@A?AAA?AAA?AAAAA?A?AA??A?A@?@?@@@@@B@@?@@?@BBDJRFNR`@?@@??@A??@A?GCC?EACCAACACAACCAACrB{@HT"
+                     },
+                     "start_location" : {
+                        "lat" : 3.1240524,
+                        "lng" : 101.7278691
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 194
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 211
+                           },
+                           "end_location" : {
+                              "lat" : 3.12327,
+                              "lng" : 101.727881
+                           },
+                           "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJalan Cheras\u003c/b\u003e toward \u003cb\u003eJalan Cheras\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "idaRev{kRLGBA@A@A?AAA?AAA?AAAAA?A?AA??A?A@?@?@@@@@B@@?@@?@BBDJRFNR`@?@@??@A??@A?GCC?EACCAACACAACCAACrB{@HT"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1240524,
+                              "lng" : 101.7278691
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "12.9 km",
+                        "value" : 12914
+                     },
+                     "duration" : {
+                        "text" : "45 mins",
+                        "value" : 2700
+                     },
+                     "end_location" : {
+                        "lat" : 3.132955,
+                        "lng" : 101.687528
+                     },
+                     "html_instructions" : "Bus towards KL Sentral, Jalan Tun Sambanthan",
+                     "polyline" : {
+                        "points" : "m_aRgv{kRMMYZc@XaAf@aCnA}@f@o@`@a@Za@Z]`@Q^Wz@MJSE_@QDML_@T[^c@h@_@bBaAvA}@LKDM@QMW_B_DeBuDkCuFEIWk@mAcCgBqDEIUa@Ue@EKGKCGAAAA?AAA?AA??AA?A?AAA??@A?A?A?A@A?A@GBIDGDMDyAp@a@R}BdAeAd@}@`@GDGB{@`@[P_@ROFIDC@A@C@A?A@?@A?A@A@A@A@CBIJORIJCBABA@?@A@?@A??BABCFCFCDABABABCDKXS^ELCBAB?@A@?@?@A@?@ADAFAB?@CHMd@Kb@?DA@ADAFO`AQ`AAHq@pECNm@`EAHABADAFq@rDOt@a@|BCHAFAHo@vDo@|D?@ERo@rDY|AUpACJg@jCg@jCAFEREPAD?BABADKt@Ir@AFADADCNCNAHAHCF?BAB?BAB?BADIVGVAFADABCFADABADCF?BABABADAFGb@Kr@ET?DAB?B?@?BAB?F?RC`ACx@?HAj@?B?d@AL?H?B?B?@?@?@?B?@@B?DBV@V@F?D@FBRBT@H@FBRBR@D?B@@?@?@@@?@?@@@@B@BDJHPJXL\\FNBD@B@B@@@@?@@@BDFHDFBDBBB@BDHHHHBDB@BB@@@??@@?@@@?@@@@@?@?@@@?@?@?@@B?L@RBL@D?D@D?h@DD?f@Bh@Dd@BD@B?B?B?B@B@XDXDF@H@TBRDD?B@B?B@B?B@H@B@NBFBH@NDJBD@B@B@@?@@@?@@@@B@@@HDHFDBB@B@BBD@LFLHFBB@B@B@LDLFB@B@B@@?B@B@D@J@FBD?@?@@@?@?@?@?@?B?@?B?B?H?NAJ?D?B?B?B?DAPANAFAD?DAPCRCJAPCPCFAD?BAB?FAH?JAF?DAL?LAD?B?B?@?F?B?@?B?@A@?@?@??A@??A@??ABC@C?A@A?A@ADEBE@A@A?ABEBC@C@A@A@A@??A@A@?@A@A@?@A@?@A@?@?@A@?@?@?@?@?@?@?@?@@@?@?@@@?@?@@@@@?@@?@@?@@?@@??@@@?@@??@?@@@?@?@?@?@@B?D?D?B?@@@?@A@?@?@?@A@?@?@A@A@?@CBCBA@?@ABCBABABA@A@?@A??@A@C@ABA??@A@A??@A@ABCBGLYb@QZEFABCBMRa@n@Y^ADCBCBABEDk@r@m@t@EDCBCBQRSTEDGF_@^i@h@QPEBCBEDQNg@`@i@b@SNEBCBCBABONQPEDEDWTUTCDC@CBC@SPWTKHQNIFm@h@_@Z]VYVYVYTMJKFABA@C@?@A@A@A@A@ABA@GJGJCBA@ABA@A@A@A@CBMLUTSRMLMLUTQREDEDCD_@`@}@dAaAhAa@b@STORC@CDEDGHEFA@ABA@A@ADCBGNILCDABCDOVQVCDEFGLILCDCDABABCDADA@A@?@A??@A@A??@A?A?A??@A?A?A?A?A?A?A?AAA?A?A?EAEAGAEAC?CACAC?CAUKi@QWKCAAAC??ACAAACACAQKQKKG[QUMCCA?ECSMSIECGEi@Yy@e@YQECCAAAA?CACAAACACAA?AAC?CACAIAKAICUEQCEAC?AAC?C?EAMAM?EAE?A?A?CAC?CAQCQCCAA?C?AAA?AAA?AAAACACAECGCCAAAAAAAA?AAAAAAAACCMMY[Y[OOCECCACCCq@k@a@k@QQ]@}@b@mBnAYZ]l@Wj@GCMCk@Ui@YkB{@i@WMEMBMNSZg@`A}@zAINCFCDINGLABCBADGLGLCDABABAB?@ABCHCHCFCFADA@?BA@?@?@?@A@?@?B?D?FAB?@?@?DAJALANCP?D?@ADCNCXCRADAHAJAJALAJADAD?DAFIf@Gh@O~@W~AIn@CJAFE\\E`@CLEZIh@G^CJALCJ?BAB?BAB?D?@?@?BA@?D?B?B?@?B?@?@@D@BFHFPNXJJLNLNDJBF@BBB?@BB?B@B@@@BBB@B@B@FBD@B@D@@?@@@?@?@?@@@?B@B?BDXBT?J@D?D@F?J@J@R?JBt@Bl@?D@D?D@J@F?D@D@F@F@J@F@H@J@D@D@D?B@D@@?B@FJ\\H\\@B@D?B@@@B@DDHBF@FBB@DBB@D@B@B@@@@@@@@@B@@BBJLJLDFJJHJBDBBBBDBVVVTNLLNDDHFHH@@BB@@BBLJXRXTLJBBB@@@@??@@?@@@?@@B@B?@@B@B?@@B?D@B?D@B?B@B?@?@@@?B?B?B?B?B?B?@?B?D?L?JAV?b@A^AL?D?B?B?B?B?R?`@BP?B@B?@?B?@?B@B?H@HBRBTDLBv@Lv@JF@B@B?B@B?D?F@H@F?B?B?D?L@Z?R?D?B?B?B?@?BAB?HAHAB?B?@?B?B?@?B?D?F@J?H@B?B?B?H?H?D?B@D?D?F?D@F?B@D?B?B@D?F@B?B?B@@?@?@?@@@?@@B@B@B@B@B?B@B@D@FBB@B?B@B@@@B@@@B@@@B@FDHDFDJFFD@@B@@BB@DBBD@@@?@@DBDBBBBB@@B@@@@@@B@@BB@@@@@@@@@B@@@BDHFFBFFHDFBDBDFHDFBB@B@BDFBFBBBFDF@B@BFJFJ@D@B@@@BBBBD@BDDBFFHFJDF@BBDBDBBDFDF@B@@?@@?@@?@@?@@B@HFJFB@@@@@@?@@@?B@@@B?@@@?@?@?@??@@?@?@?B?B?B?B?B?@?BA@?@?BABAFCNEHEFCDA@ABA@A@?@A@A@A?A@A@AJSLYDKBC@C@CDMFQDI@E@C?A@C@GDM@K@A?C@C?CBQF]BQ?C?A?C@A?A?E@a@Bc@?E?C@Q?O?E@C?EBe@De@@G@U@S@I?K@K?I@O@M?E@M@O@C?C?A?C?C?E?G?G?CAE?MAM?C?C?AAA?A?CAC?AAC?AAA?AA??AAA?AA?AAACCAAAAAAAA?AAAAAAA?CACAAAA?A?A?AAA?A?A?A?C?K@M@G@I@G@A?A?A?A@A?A??@A@A?A@?@EDEFEBA@?@A@?@A??@?@A@A@?@?@?@A@?@?@?@?@?@?JAJ?B?B?@@@?@?@?@@??@@@@B@B@BBB@@?B@?@@@B@@@BB@@@BDJHHHBB@@@@@?@@BBHDFBB@@@@@@?@?@?@@@?@?@?R@d@BZBN?RBL@D?@?@?@?@?@?@A@?@?@A@?@AHELGJEBA@A@A@ABAHGFE@A@A@A@A?A@??A@A?A@A@C?C@A?A@A?A?A?A?A@??A?CAA?C?E?G?A?A?A?AAA?AACCQCMACAC?A?AA??AAA?AAAAACCACCAACAAA??AAAA?AAA??AA?A?AAA?A?A?A?AAA?A?A?A??@A?A?A?A?A?A@A?A@A?A??@C@A@C@A@C@?@A?A@?@A@A@?@ABEHELGPGLAB?B?@A@?@A@?@?@?B?BANEx@Cp@Ch@Ad@AF?FGv@GpAEp@CV?B?BA@?BETER?BA@?@?@ABA@?BITSh@KZCB?BA?ABABOXOVCB?@A@A@ABQTORABA@ABC@CBMNONCBA@A@CBIFIHGFGDEBKJKHGFGHQNMJCBC@ABCBGFGJMJIJCBABA@A@C@IHGFCBC@A@IJKJIJGFA@A@A@?@A??@?@?@?@?@?B@D\\lAb@`Ej@lF^rDZvAVj@t@l@dDfBbCnAzCnBdChBlBpA~BdBbAp@VPLDNMv@u@dBuA`B{AZi@DWBMBs@Mk@m@kAqCuCoEeF{BiCMH"
+                     },
+                     "start_location" : {
+                        "lat" : 3.12327,
+                        "lng" : 101.727881
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 3.132955,
+                              "lng" : 101.687528
+                           },
+                           "name" : "KL Sentral Jalan Tun Sambanthan"
+                        },
+                        "arrival_time" : {
+                           "text" : "5:07pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428052063
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 3.12327,
+                              "lng" : 101.727881
+                           },
+                           "name" : "LRT Maluri"
+                        },
+                        "departure_time" : {
+                           "text" : "4:22pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428049363
+                        },
+                        "headsign" : "KL Sentral, Jalan Tun Sambanthan",
+                        "headway" : 1200,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "RapidKL",
+                                 "phone" : "011 60 378852585",
+                                 "url" : "http://www.myrapid.com.my/"
+                              }
+                           ],
+                           "color" : "#f20030",
+                           "name" : "KL Sentral to Maluri",
+                           "short_name" : "B112",
+                           "text_color" : "#ffffff",
+                           "url" : "http://jp.myrapid.com.my/route/#route=B112",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 20
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 365
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 295
+                     },
+                     "end_location" : {
+                        "lat" : 3.1336472,
+                        "lng" : 101.6868491
+                     },
+                     "html_instructions" : "Walk to 4, Jalan Stesen Sentral 3, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+                     "polyline" : {
+                        "points" : "_|bRazskRFWyCyCc@]{@lACP?J?J@NBR@BFLrAzCFL"
+                     },
+                     "start_location" : {
+                        "lat" : 3.132955,
+                        "lng" : 101.687528
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.1 km",
+                              "value" : 148
+                           },
+                           "duration" : {
+                              "text" : "2 mins",
+                              "value" : 112
+                           },
+                           "end_location" : {
+                              "lat" : 3.1338717,
+                              "lng" : 101.6885718
+                           },
+                           "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eJalan Tun Sambanthan\u003c/b\u003e toward \u003cb\u003eJalan Stesen Sentral 3\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "_|bRazskRFWyCyCc@]"
+                           },
+                           "start_location" : {
+                              "lat" : 3.132955,
+                              "lng" : 101.687528
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 217
+                           },
+                           "duration" : {
+                              "text" : "3 mins",
+                              "value" : 183
+                           },
+                           "end_location" : {
+                              "lat" : 3.1336472,
+                              "lng" : 101.6868491
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJalan Stesen Sentral 3\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "uacRq`tkR{@lACP?J?J@NBR@BFLrAzCFL"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1338717,
+                              "lng" : 101.6885718
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "idaRev{kRTMCGEKBAFHn@rA@@KAOGMIACrB{@HTMM}@t@cEvBmBhAcAv@o@`AWz@MJSE_@QRm@t@_AlCaBdBiADM@QmBwDqFkLsEkJw@}AS]IA_MvF{CzAKHq@z@M\\}@rBc@lB_B~Js@tEeBnJ}CzQqC`O_@jCQdAYlAQl@a@hCGnBGtD@XRxBL~@Vl@l@xA^f@f@f@JF\\DjCPhBNxBZjB`@|Az@r@Xj@JlA?pAMxAQhBGJEHQ`@i@JENCL@LFFJBL@ZCL]h@MLeAdB{AzBsCfDeC`CeCtBwAtAeDpCwCfC]f@{AzAwElFaBlB}AlC]n@IHM@WEw@UqAg@mBgAaDeBq@_@a@KmASu@Ey@MOI]QmAqAY]u@o@a@k@QQ]@}@b@mBnAYZu@xAUGkFcCMEMBa@j@sBtDWf@_@v@Up@Gz@c@bEuB|NMz@AX@L`@x@XZRZHPP\\L^L`AFvALnCNdAT`AX`ATj@Z^x@~@hBdBlBxA\\HZDlDEzADf@FvDj@n@DtA@d@E|ADnAHv@VXLv@d@t@n@z@nAbAfBbA~ANRd@XRFP@RAx@YLIh@eAZ}@Ns@PoAF}B\\uF@g@Eq@EUMMMKSGe@Bc@FSTKNENAf@FNNVf@f@\\RNF~BL^?l@W`@YHKFS?QAYOo@[_@MCM?OBQLIL_@bAC^OzDQxCIpAMn@Oh@c@lAU`@{@nAo@r@q@j@oAhAs@z@qArAAL^rAnAnL^rDZvAVj@t@l@hHvDzCnBdChBlFvDzAbALDNMv@u@dBuA`B{AZi@He@Bs@Mk@m@kAqCuCkIoJMHFWyCyCc@]{@lACP?VDb@dBzD"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

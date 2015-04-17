@@ -1,0 +1,180 @@
+﻿{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 3.1757632,
+               "lng" : 101.699632
+            },
+            "southwest" : {
+               "lat" : 3.1426501,
+               "lng" : 101.668395
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "5:05pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428051938
+               },
+               "departure_time" : {
+                  "text" : "4:00pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428048000
+               },
+               "distance" : {
+                  "text" : "9.3 km",
+                  "value" : 9262
+               },
+               "duration" : {
+                  "text" : "1 hour 6 mins",
+                  "value" : 3938
+               },
+               "end_address" : "Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "end_location" : {
+                  "lat" : 3.1430348,
+                  "lng" : 101.6957531
+               },
+               "start_address" : "Mahkamah Duta, Jalan Khidmat Usaha, Kompleks Kerajaan, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+               "start_location" : {
+                  "lat" : 3.175635,
+                  "lng" : 101.67093
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "9.2 km",
+                        "value" : 9242
+                     },
+                     "duration" : {
+                        "text" : "45 mins",
+                        "value" : 2700
+                     },
+                     "end_location" : {
+                        "lat" : 3.143196,
+                        "lng" : 101.695465
+                     },
+                     "html_instructions" : "Bus towards Pasar Seni, Jalan Tun Tan Cheng Lock",
+                     "polyline" : {
+                        "points" : "wfkRirpkRGQOC?GDAXBd@Bb@Dp@Rr@PVFTFPAPGJILc@NmAf@oB@E^{@Lg@DIBC@ELULUVg@Vi@FIR_@Xi@HQBC@A@A?ABCNSNSBC@ABA@CFGFGBCFGDE@A@A@A@??A@A@?@??A@?@??A@@@?@@?@@??@@@DFBDBDBDX`@j@x@V\\BFBBLNLNBB@BDFDFBB?@@@?@@@@@?@?@@D@D@@?@@@?B@BFLFL@B@B?@@@BBHPT^LRBBBDBBJLNTHJBB@@@@?@@?@@@@DBHFHFBBB@@@B@ZPZPD@@@B@B@RHr@Xd@RB@D@D@r@Tp@TD@DBF@p@PbAT`@JNDD@@?@@@?@?@@@??@B@B@LHb@XXRDBDBBBd@\\f@^JHVRVPB@@@@@@@BBXZZXBBBBBD`@d@p@v@RTBB@@@@B@@B@@B@@@@@@@@?@@DBDBDBFBFBBB@?B@B@B@FBHDD@B@D@JBHBB@@@@?@?@@@?B?B@B?L@H@D?@?@@B?D?R?R?D?D?J?J?B?B?B?@?@?@?@AB?BADCBAB?@A@?@A@?@A?A@?@ABCJK`@e@`AgAh@k@BC@A@ABCNMPMBA@A@A@A@?@A@?BANG\\MRIBA@AB?BABAPC~A_@xA]FAFCh@Ml@ODABAFAx@Sv@ODAFAtAYdCe@v@ODAHAFAf@Il@KFAHAnAQnAQD?DAFA`AGdAKz@Gt@GD?D?DAh@Gj@GDAD?DAVETEBAB?@A@?BABAXIXKFABAPGPIDABABADCZOZQDCl@]|A}@x@e@l@]h@]FCBCJGNKFEPIPMFEDC^S`@WFCDCh@Yj@[JEj@]j@[JGd@Wb@UDCd@Wd@UBCBA@ADAVQ^WNKBABA@A@A@ABCNMd@c@XWBCBABCt@w@xA_Bj@m@BCBEBCX[z@eAf@k@BC`@g@`@i@BCBEBCNUT]JO@C@A@A?A@A@A@EHQJWDM@A?C@??A@A?A?A?A@C?C@QD[@O?C?A@A?A?A?CAC?MAUAK?EAA?A?A?AAA?A?CACEMCMACAA?A?AAA?AAAACGMMSGKACAAAAAA?AAAAACAMMWWMMCCAAAAAACAOKYQMKA?AAA?AAA?AAA?AACAQEe@OYKCAC?CACAC?UEc@IUECAA?A?CAC?SAQAE?C?A?A?A?C?W@[@E?A?A?C@C?a@D_@FE@E?E@c@Je@HE@E@C@m@Nm@NGBq@Pu@RIBk@Pk@PKBg@Le@LE@C@C@C?C@QB]FQBC@C?C@A?C?U@WBC?C?A?A?A?A?E?UAUAA?A?A?A?CAE?UE_@GOCC?CAA?AAC?CAMGQKICAAA?AAAAA??AAAA??A?AAA?AAACMEOI[IUAC?CAA?AAAAAAAACIMIKACAAAAAAA?AAAAA?CCIEIEC?AAAAA?AAA?EAGCGAAAA?AAA?A?C?CAWCUACAE?E?{@E_AEaAE{@EG?CA_@C_@EE?EAE?g@Gg@IC?C?AAEAm@Mo@MCAC?AAE?]Ka@MEAECMCKECAAAA?AAA?AAAAAACAIEIGCCAAAAAAAAAAAAIMKMAAACAA?AAA?AAAACGSGS?CAA?A?AAA?CEUGe@EWAC?A?C?CACA[Ek@AW?EAA?A?C?C@U?Q?C?C?C?A@C?A@C?CBIBK?E@A?A@A?A@A?A@C@ADIJQFI?A@A@A?A@A@A@A@ABAHENMJG@?@A?A@?@?@A@?@A@?VGTEBA@?@AB?B?^E`@C^CZCB?D?BANAPCHANCNABA@?@?BAB?BALELCDA@A@?@A@?@ABAHEJEBA@A@ABA@AHGHEBC@A@ABABCRQf@c@VUBC@A@??A@A@A@CLOJO@C@C@??A@A?CBCJYLWBGJWHUBE@C@EBIBG@C@C?A?A@A?A?A?A@E?K@M?E?C@C?E?]?[?E@g@?kA?i@?G?G?o@Ao@?G?GAc@Ag@?I?Q?O?E?A?A?A?A?A?A?A@C@C?E@C@C?A?A@??A@A?A@?@A@ABAFEHENKJIBA@A@ADAb@ULGVKBCDCBA\\SZSBA@A@ADC`@[`@YDCBCDCb@a@`Ay@TQJIDEBCVQVSBABA@A?ABABAVOXOHE`@S`@Ub@S`@SDEVOTMBABA@A@AJGJI@A@A@A@A?A?A?A?AAA?A?AAA?AA??AACCC?AAA?AAA?A?A?AAA?A?A?A?A?A?A?C?A@A?A?A?A?A@C?A@A?A?A@A@A@A?A@?@A@??A@AB?@A@A@??A?A@??A?A@A?A?A@C?C?A?A?A?A?A?A?C?MAe@A[AKCm@Ai@AC?C?E?O?O?C?C?A?A?A?A@C?C@KBI?E@C?A?A@A?A@C@CFMFM@C?A@A?A@ABCLQLQ@ABC?A@A@ABCLKTULMBC@A@ADCb@]d@]HG|@o@x@m@BA@ABCDCf@a@d@a@DE@ADCf@g@h@e@BEj@i@jAiAd@e@RURSDEDCTUVSBCFE^[b@[RQPMBC@A@ABCHGHKBC@A@A?A@A@ABEHOHOBC@A@CFIDG@C@A@A@A@?@A@A@?@?@A@?@?@?@@@?@?@@@?@?P@fA~@d@z@Dh@Bv@FjAFtARfBN`AFf@TLv@?xAAt@C`BJpAB|@NRD?VCl@Kr@M`@UNU?_@CCT"
+                     },
+                     "start_location" : {
+                        "lat" : 3.175635,
+                        "lng" : 101.67093
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 3.143196,
+                              "lng" : 101.695465
+                           },
+                           "name" : "Pasar Seni, Jalan Tun Tan Cheng Lock"
+                        },
+                        "arrival_time" : {
+                           "text" : "5:05pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428051900
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 3.175635,
+                              "lng" : 101.67093
+                           },
+                           "name" : "Mahkamah Duta, Jalan Khidmat Usaha"
+                        },
+                        "departure_time" : {
+                           "text" : "4:20pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428049200
+                        },
+                        "headsign" : "Pasar Seni, Jalan Tun Tan Cheng Lock",
+                        "headway" : 1200,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "RapidKL",
+                                 "phone" : "011 60 378852585",
+                                 "url" : "http://www.myrapid.com.my/"
+                              }
+                           ],
+                           "color" : "#f20030",
+                           "name" : "Pasar Seni to Mahkamah Duta",
+                           "short_name" : "B115",
+                           "text_color" : "#ffffff",
+                           "url" : "http://jp.myrapid.com.my/route/#route=B115",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 8
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20 m",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 3.1430348,
+                        "lng" : 101.6957531
+                     },
+                     "html_instructions" : "Walk to Jalan Hang Kasturi, City Centre, 50050 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+                     "polyline" : {
+                        "points" : "_|dRskukRCw@\\AF?"
+                     },
+                     "start_location" : {
+                        "lat" : 3.143196,
+                        "lng" : 101.695465
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "20 m",
+                              "value" : 20
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 17
+                           },
+                           "end_location" : {
+                              "lat" : 3.1430348,
+                              "lng" : 101.6957531
+                           },
+                           "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eJalan Hang Kasturi\u003c/b\u003e toward \u003cb\u003eJalan Sultan\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "_|dRskukRCw@\\AF?"
+                           },
+                           "start_location" : {
+                              "lat" : 3.143196,
+                              "lng" : 101.695465
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wfkRirpkRGQOC?GDA~@Fb@Dp@RjAXTFPAPGJILc@NmAh@uB^{@Lg@HMN[dAqBz@_Bl@w@h@i@JID?BBn@~@lBjCRZHVVn@hAdBd@l@h@^~@f@nAf@fDjAxD~@\\PfD`Ct@h@`@b@rC~CRPf@Vh@Th@Nl@FjB@XKNKdDqDl@c@nAg@fFkA`FiAzIaBrFw@tHm@rBYjA_@l@U`Ag@nHiEtBoAhFuCnDmBxA_A~AwAdFsFvDuEx@oAb@eADc@Hw@G_AU}@e@y@}@}@eAu@OGeBi@_BYy@CiADmANuAX_FpA_EhAuAT_AD{@CyAUu@[MIWcAQe@]g@a@U[KUE}DUuEYyAQy@QeCm@k@Sc@[SWS[Uw@WcBMqB@}@Ji@h@aAn@c@LGz@QnCSrAOp@Qd@Ub@[bBwAb@q@d@eAf@sADUBgB?sGCmCHi@ROvAy@pBgA|AiA`EgDbAk@fE{Bd@[DKEMIQAO@QFOTSBSC{AIqC@SHi@Tk@h@s@|@}@tEiDdBwAlGgGxBmB~AoAX_@j@_AJIL?F@R@fA~@d@z@H`BN`Db@hDFf@TLpCAt@C`BJpAB|@NRD?VCl@Kr@M`@UNu@CCTCw@d@A"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,25 @@
+application: guestbooklh
+version: 4
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /routes
+  static_dir: routes
+  
+- url: /js/
+  static_dir: js/
+  
+- url: /css
+  static_dir: css
+  
+- url: /tool.html
+  static_files: tool.html
+  upload: tool.html
+
+- url: /
+  static_files: index.html
+  upload: index.html
+
+  

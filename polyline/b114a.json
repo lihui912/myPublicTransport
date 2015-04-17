@@ -1,0 +1,180 @@
+﻿{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 3.174017,
+               "lng" : 101.7280484
+            },
+            "southwest" : {
+               "lat" : 3.12327,
+               "lng" : 101.695799
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "5:07pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428052063
+               },
+               "departure_time" : {
+                  "text" : "4:00pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428048000
+               },
+               "distance" : {
+                  "text" : "10.1 km",
+                  "value" : 10092
+               },
+               "duration" : {
+                  "text" : "1 hour 8 mins",
+                  "value" : 4063
+               },
+               "end_address" : "Jalan Pekeliling, Titiwangsa Sentral, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+               "end_location" : {
+                  "lat" : 3.172325,
+                  "lng" : 101.695799
+               },
+               "start_address" : "Jalan Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "start_location" : {
+                  "lat" : 3.1240524,
+                  "lng" : 101.7278691
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 194
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 211
+                     },
+                     "end_location" : {
+                        "lat" : 3.12327,
+                        "lng" : 101.727881
+                     },
+                     "html_instructions" : "Walk to LRT Maluri",
+                     "polyline" : {
+                        "points" : "idaRev{kRLGBA@A@A?AAA?AAA?AAAAA?A?AA??A?A@?@?@@@@@B@@?@@?@BBDJRFNR`@?@@??@A??@A?GCC?EACCAACACAACCAACrB{@HT"
+                     },
+                     "start_location" : {
+                        "lat" : 3.1240524,
+                        "lng" : 101.7278691
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 194
+                           },
+                           "duration" : {
+                              "text" : "4 mins",
+                              "value" : 211
+                           },
+                           "end_location" : {
+                              "lat" : 3.12327,
+                              "lng" : 101.727881
+                           },
+                           "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJalan Cheras\u003c/b\u003e toward \u003cb\u003eJalan Cheras\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "idaRev{kRLGBA@A@A?AAA?AAA?AAAAA?A?AA??A?A@?@?@@@@@B@@?@@?@BBDJRFNR`@?@@??@A??@A?GCC?EACCAACACAACCAACrB{@HT"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1240524,
+                              "lng" : 101.7278691
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "9.9 km",
+                        "value" : 9898
+                     },
+                     "duration" : {
+                        "text" : "45 mins",
+                        "value" : 2700
+                     },
+                     "end_location" : {
+                        "lat" : 3.172325,
+                        "lng" : 101.695799
+                     },
+                     "html_instructions" : "Bus towards Titiwangsa, Terminal Bas Titiwangsa",
+                     "polyline" : {
+                        "points" : "m_aRgv{kRMMYZc@XaAf@aCnA}@f@i@^E@a@Za@Z]`@Q^Gj@INABABA@?@A@ABABGRm@tBo@pBEPADA@?@A@?@A@ABEDCFA@A@?@A??@A@ADIPM\\c@hAs@hBITABA@A@ADuA`CuAbCCFCBAB_AvAEDgCzDYd@cAzAMRCDABC@ABEFqA|A}AjBKLGHCB?@A?A@?@A@?@A@ADGRGTABA@?@A@?@A@ABA@A@ABA@MPa@l@Y`@ABA@A@A@A@CBCDA@A??@A@A@?@A??@ABABELENABA@ABA@?@A@?@A@UVUXCDABCBMRMTGHEFA@?@A@?@A??@?@?@?@?@?@?@@@?@?@@@?@?@A@?@?@?@A@?@?@?@A@?@A??@A@A@A@A@ABA@CBCBC@A@A@A@A@A?A@A?A@A?A?A?A?A?A?AAA?A?AAC?AAA?AAA?AAA??AA?AA?AA?AA?AAAAACEACAA?AAA?AAA?A?A?A?A?A?A?A?A?A?A@C@E?A?A?A?A?AAA?AA?AAA??ACAGEKG[SYSoAy@sA}@cBiAcBiAWQYSKIEAAAAAAACACA[M[MCACAAACAAAECUO{@g@u@e@OKCCAACAAAAAECOOQMCCAAAAAAAAEAQIcAk@{@e@SKKEAACAA??AA?AAA?A?C?CAIAQCKAC?A?AAA?A?C?C?U@g@@Y@E?C?A?A?A?C@E?UDSBE?A@A?A?A?A?A?A?CAM?KACAC?A?AAA?A?AAA?AAEAIEGEA?AAAAA??AA??AAA?AAAACACAA?AAA?AAAA?A??AA?AAA?AAKAOEc@Ke@Kq@Ok@OC?CAAAA?A?AAEAQIyAm@mAg@CACACACAWIqAa@aA[EAEAECuBi@uBk@GAEAQEEAUECAC?A?A?AAA?A?C?s@Cs@AA?A?A?AAA?A?A?AAC?UGyAa@kA]kA[iAYEAA?A?EAy@Oy@MICGAIAIAEAG?g@Ge@GE?CACAGAIAEAE?[G]EEACAC?GAOAOACAC?A?A?A?C?E?S?wA?mA?M?cA@sA@W?C?A?A?A?AAA?C?EA[EYEAAC?A?A?A?AAA?A?A?C@Q?aADs@BG?E?E?o@?{@?S?C?C?A?A@C?C?OB]Dg@FYDC?A?A@A?A?A?A@A?C@UH_DfAqC`AG@E@EB_D`AkDdAUHKBC@A@A?A@A?A@A??@A?ABC@CDGDA@A@A??@A@A?A@A?A@E@IBGBCBC?A@E@e@Jg@LC@I@aB\\u@Pm@LoAVmAXQDKBC?A@A?A@A?A@A@A@?@A@GFKLOPILA@?@A@A@?@?@?@A@?@?@@N?`@?X?B?B?B?@?DC~@CjAAT?B?B?@?@A@?@?@?@A@ERSfAU`AEP?B?@A@?@?@?@?@?@?B?T?J?b@@\\?B?B?B?@?@?B@DBXDd@BP?B?@@@?@?@@@?@@@?@@BHNTf@LZ@B@B@@BB@B@@LPNRBDBDp@fAp@dADD@B@BHNLRDH@B@B?@@@?@@@?@@@?BDPJd@FT@D?@?@@@?@?@@D@NB\\@N?@?@?@?@?@?@?@?B?BAPC`@AV?B?BA@?@?@ABCR]bBUtAADAB?BADMjAOtACPAD?B?@?@A@?B?D?F?N@L?@?@A@?@?@?@A?A?A?AAA?CAGCKEOGWIOGEAAAA?AAA?CCAASMiAu@}@k@ECCAAACCWUUQMIKKCAAAAA?AAAAAACAAEKGOs@_Bs@}As@cBeB{Du@eBEGCEq@uACGo@qAIQEIACAA?AAAAAAAAACAGGMKGEACA?A??AA?AAA?A@A?A?A@A?A@IDOH}Ax@{Av@GBE@OHMFC@A?A@A?A@CBIFKHEBE@EBcB~@oBfAQHCBA?A@A@A??@C@A@ABIHSPMLCBABA@A@CBKLILCB{@bA}@dAEFCB]d@_@d@GHGH[`@e@j@gBxBgBzBKLGFABA@A@A@A@A@A?A@C@GBGBA@A?A@A??@A?A@?@A?ABIJa@f@Y`@CDCBEDa@f@k@l@wAbBMNCBA@A@ABABMRe@|@[l@CDABCDYn@a@z@KRADABABABIVOd@GNADAB?@?@ABADEVQfAMv@AFAF_@zCa@xC?FADAFa@vEc@~ECTAL?B?BA@?@?@?@?@?@@D?VB\\?J?B?B?@?@?@?@?@?@ABABAJENKh@Ol@CPADA@?@?@A@?@ABQb@Ul@GLABA@?@?@A@?@?@A@?BAHAPAJ?@?@?@?@?@?@?@?@@@?@@@@BBFBH@B@B?@?@@??B?B?B?J?H?@?@?@?@?@?@?@A@?@A@ABA@ADCBABA@A@?@A?A@A@EBCBC@?@A@A??@A@?@?@?@?@?@?B@HBTV~BVfCBT@D?BDb@V~@f@xAPh@VB~@JfCPPDBJIr@k@B"
+                     },
+                     "start_location" : {
+                        "lat" : 3.12327,
+                        "lng" : 101.727881
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 3.172325,
+                              "lng" : 101.695799
+                           },
+                           "name" : "Bus Terminal Perkeliling"
+                        },
+                        "arrival_time" : {
+                           "text" : "5:07pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428052063
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 3.12327,
+                              "lng" : 101.727881
+                           },
+                           "name" : "LRT Maluri"
+                        },
+                        "departure_time" : {
+                           "text" : "4:22pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428049363
+                        },
+                        "headsign" : "Titiwangsa, Terminal Bas Titiwangsa",
+                        "headway" : 1200,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "RapidKL",
+                                 "phone" : "011 60 378852585",
+                                 "url" : "http://www.myrapid.com.my/"
+                              }
+                           ],
+                           "color" : "#f20030",
+                           "name" : "Maluri to Titiwangsa",
+                           "short_name" : "B114",
+                           "text_color" : "#ffffff",
+                           "url" : "http://jp.myrapid.com.my/route/#route=B114",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 15
+                     },
+                     "travel_mode" : "TRANSIT"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "idaRev{kRTMCGEKBAFHn@rA@@KAOGMIACrB{@HTMM}@t@cEvBgBfAg@\\a@Z]`@Q^Gj@KRCDEJqBxGQXaAdCaAdCoDlGuHjLW^wDtE]b@Wz@aB`CORUl@gBhCELBNCLELQROJM@OEMGMSEM?OBSSO{NuJkAg@gDuBs@m@oDmBYMw@IeBBY@y@Jk@Em@YISKIgEaAg@QoDyAqBo@sAc@yFyA{@QuBE}Bm@gFuAcAQuCa@qAQoBWk@AiJBgAOQCaDJoC@{BXcEtAeDhAmJtCOHYTYLiBf@kKzBMDs@|@EL?xAItD{@hE@lBDr@LdAr@`Bl@z@hCdELZ\\|AJjA?RIxA_AdFe@bE?t@?DE?cA_@c@ScEqCy@q@{BaFuEmKiBuDWg@i@c@KAqG`DqC`BmCzAy@x@{CpDyCxDkFtGg@XwAhB{DpE}AvCiAdCOb@]fAg@|CeAdIoAtN?TBlAEZi@dCw@lBEXCh@L^DR?b@ITMNSPAN`AjJ~@xCPh@VBfE\\PDBJIr@k@B"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

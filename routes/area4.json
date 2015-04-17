@@ -1,0 +1,110 @@
+{
+  "data" : {
+    "routes" : [{
+        "code" : "BET2",
+        "title" : "BET2 Bandar Sungai Long to Mydin Sinar Kota"
+      }, {
+        "code" : "BET8",
+        "title" : "BET8 Semenyih Sentral to Mydin Sinar Kota"
+      }, {
+        "code" : "E1",
+        "title" : "E1 Putrajaya Sentral to Mydin Sinar Kota"
+      }, {
+        "code" : "T405",
+        "title" : "T405 Stesen LRT Bandar Tasik Selatan to Taman Awana Cheras"
+      }, {
+        "code" : "T408",
+        "title" : "T408 Stesen LRT Bandar Tasik Selatan to Taman Segar / Taman Bukit Supreme"
+      }, {
+        "code" : "T416",
+        "title" : "T416 UPM / Taman Sri Serdang to Stesen KTM Serdang"
+      }, {
+        "code" : "T417",
+        "title" : "T417 Taman Sri Pulai to Stesen LRT Sungai Besi"
+      }, {
+        "code" : "T418",
+        "title" : "T418 Sri Petaling to Technology Park Malaysia via Bandar Puncak Jalil"
+      }, {
+        "code" : "T421",
+        "title" : "T421 Taman Gembira to Stesen LRT Salak Selatan"
+      }, {
+        "code" : "T422",
+        "title" : "T422 Stesen LRT Bukit Jalil to Stesen LRT Salak Selatan"
+      }, {
+        "code" : "T424",
+        "title" : "T424 Desa Tasik to HUKM via LRT BTS"
+      }, {
+        "code" : "T427",
+        "title" : "T427 Cyberjaya Transport Terminal to Lim Kok Wing Universiti"
+      }, {
+        "code" : "T428",
+        "title" : "T428 Cyberjaya Transport Terminal to Cyberjaya Park & Ride"
+      }, {
+        "code" : "T430",
+        "title" : "T430 UKM to Bandar Kajang"
+      }, {
+        "code" : "T433",
+        "title" : "T433 Bandar Sri Permaisuri / HUKM to Stesen LRT Salak Selatan"
+      }, {
+        "code" : "U40",
+        "title" : "U40 Terminal Kajang to Mydin Sinar Kota, Jalan Tun Perak"
+      }, {
+        "code" : "U40 (W)",
+        "title" : "U40 (W) Terminal Kajang to Mydin Sinar Kota, Jalan Tun Perak"
+      }, {
+        "code" : "U41",
+        "title" : "U41 Bandar Sungai Long to Mydin Sinar Kota, Jalan Tun Perak"
+      }, {
+        "code" : "U410",
+        "title" : "U410 Taman Tun Perak to Kota Raya"
+      }, {
+        "code" : "U411",
+        "title" : "U411 Taman Impian Ehsan to Kota Raya"
+      }, {
+        "code" : "U412",
+        "title" : "U412 TNB Pangsun, Jalan Hulu Langat to TM Batu 10, Lebuhraya Cheras Kajang"
+      }, {
+        "code" : "U412A",
+        "title" : "U412A Kampung Ulu Lui, Jalan Sungai Lui to TM Batu 10, Lebuhraya Cheras Kajang"
+      }, {
+        "code" : "U415",
+        "title" : "U415 Beranang to Bandar Kajang Prima Saujana"
+      }, {
+        "code" : "U42",
+        "title" : "U42 Putrajaya Sentral to Stesen KTM Serdang"
+      }, {
+        "code" : "U429",
+        "title" : "U429 Cyberjaya Transport Terminal (CTT) to Putrajaya Sentral"
+      }, {
+        "code" : "U43",
+        "title" : "U43 Putrajaya Sentral to Bandar Utama"
+      }, {
+        "code" : "U432",
+        "title" : "U432 Bandar Putra Permai to Kota Raya"
+      }, {
+        "code" : "U44",
+        "title" : "U44 Bandar Sri Permaisuri to Bukit Bintang"
+      }, {
+        "code" : "U45",
+        "title" : "U45 Bandar Tun Razak to Bukit Bintang"
+      }, {
+        "code" : "U46",
+        "title" : "U46 Damai Perdana to Bukit Bintang"
+      }, {
+        "code" : "U46 (W)",
+        "title" : "U46 (W) Damai Perdana to Bukit Bintang"
+      }, {
+        "code" : "U47",
+        "title" : "U47 Awana Cheras to Menara Maybank"
+      }, {
+        "code" : "U48",
+        "title" : "U48 Desa Petaling to Bukit Bintang"
+      }, {
+        "code" : "U49",
+        "title" : "U49 Damai Perdana to Kota Raya"
+      }
+    ],
+    "area" : "Area 4"
+  },
+  "result" : "OK"
+}

@@ -1,0 +1,131 @@
+{
+  "data" : {
+    "routes" : [{
+        "code" : "BET1",
+        "title" : "BET1 Kota Damansara to HAB Pasar Seni"
+      }, {
+        "code" : "T601",
+        "title" : "T601 Hentian Bandar Shah Alam to Seksyen 7, Shah Alam"
+      }, {
+        "code" : "T602",
+        "title" : "T602 Hentian Bandar Shah Alam to Seksyen 11, 9, 8, 6, 4, 2"
+      }, {
+        "code" : "T603",
+        "title" : "T603 UiTM Seksyen 2, Shah Alam to UiTM Kampus Utama, Shah Alam"
+      }, {
+        "code" : "T604",
+        "title" : "T604 Seksyen 7, Shah Alam to UiTM Kampus Utama, Shah Alam"
+      }, {
+        "code" : "T607",
+        "title" : "T607 Stesen LRT Kelana Jaya to Ara Damansara / Lembah Subang"
+      }, {
+        "code" : "T608",
+        "title" : "T608 Subang Perdana to Bukit Subang"
+      }, {
+        "code" : "T610",
+        "title" : "T610 Subang Bistari / Mahsing to Subang Perdana"
+      }, {
+        "code" : "T622",
+        "title" : "T622 Stesen LRT Kelana Jaya to Taman Mayang Mas"
+      }, {
+        "code" : "T624",
+        "title" : "T624 Stesen LRT Kelana Jaya to Kelana Centre Point / Stadium MBPJ"
+      }, {
+        "code" : "T625",
+        "title" : "T625 Stesen LRT Taman Bahagia to SS6, SS5, SS3"
+      }, {
+        "code" : "T626",
+        "title" : "T626 Stesen LRT Taman Bahagia to Damansara Utama"
+      }, {
+        "code" : "T627",
+        "title" : "T627 Stesen LRT Taman Paramount to Kg Tunku Sg Way Seksyen 51A"
+      }, {
+        "code" : "T628",
+        "title" : "T628 Stesen LRT Asia Jaya to Sek 14, Sek 17"
+      }, {
+        "code" : "T628B",
+        "title" : "T628B Stesen LRT Asia Jaya to Sek 14, Sek 17"
+      }, {
+        "code" : "T629",
+        "title" : "T629 Stesen LRT Asia Jaya to Eastin Hotel"
+      }, {
+        "code" : "T629B",
+        "title" : "T629B Stesen LRT Asia Jaya to Eastin Hotel"
+      }, {
+        "code" : "T631",
+        "title" : "T631 Stesen LRT Universiti to Mid Valley"
+      }, {
+        "code" : "T632",
+        "title" : "T632 Bukit Angkasa to Universiti Malaya"
+      }, {
+        "code" : "T633",
+        "title" : "T633 Stesen LRT Kerinchi to Pantai Hill Park"
+      }, {
+        "code" : "T634",
+        "title" : "T634 Stesen LRT Bangsar to Pusat Bandar Damansara"
+      }, {
+        "code" : "T635",
+        "title" : "T635 Stesen LRT Universiti to PPUM"
+      }, {
+        "code" : "U605",
+        "title" : "U605 Seksyen 2, Shah Alam to Puncak Perdana"
+      }, {
+        "code" : "U618",
+        "title" : "U618 Titiwangsa / Chow Kit to Solaris Duta Kiara"
+      }, {
+        "code" : "U623",
+        "title" : "U623 Stesen LRT Kelana Jaya to Sunway Subang Parade"
+      }, {
+        "code" : "U623 (W)",
+        "title" : "U623 (W) Stesen LRT Kelana Jaya to Sunway Subang Parade"
+      }, {
+        "code" : "U67",
+        "title" : "U67 USJ 8 / Taipan to HAB Pasar Seni"
+      }, {
+        "code" : "U80",
+        "title" : "U80 UiTM Seksyen 2, Shah Alam to HAB Pasar Seni"
+      }, {
+        "code" : "U80 (W)",
+        "title" : "U80 (W) UiTM Seksyen 2, Shah Alam to HAB Pasar Seni"
+      }, {
+        "code" : "U81",
+        "title" : "U81 Subang Suria / Mahsing to HAB Pasar Seni"
+      }, {
+        "code" : "U81 (W)",
+        "title" : "U81 (W) Subang Suria / Mahsing to HAB Pasar Seni"
+      }, {
+        "code" : "U82",
+        "title" : "U82 Bandar Utama to KL Sentral"
+      }, {
+        "code" : "U82 (W)",
+        "title" : "U82 (W) Bandar Utama to KL Sentral"
+      }, {
+        "code" : "U83",
+        "title" : "U83 KL Sentral to Kompleks Kerajaan Jalan Duta"
+      }, {
+        "code" : "U84",
+        "title" : "U84 Kelana Jaya to HAB Pasar Seni"
+      }, {
+        "code" : "U85",
+        "title" : "U85 Stesen LRT Taman Paramount / SS2 (SEAPARK) to HAB Pasar Seni"
+      }, {
+        "code" : "U86",
+        "title" : "U86 Bandar Utama to Metro Prima"
+      }, {
+        "code" : "U87",
+        "title" : "U87 HAB Pasar Seni to Bangsar Park"
+      }, {
+        "code" : "U88",
+        "title" : "U88 Kota Damansara to HAB Pasar Seni"
+      }, {
+        "code" : "U89",
+        "title" : "U89 Stesen LRT Kelana Jaya to Kota Damansara Seksyen 11, 13, 5, 4"
+      }, {
+        "code" : "U90",
+        "title" : "U90 UiTM, Puncak Alam to UiTM Seksyen 2 / Hentian Bandar Shah Alam"
+      }
+    ],
+    "area" : "Area 6"
+  },
+  "result" : "OK"
+}

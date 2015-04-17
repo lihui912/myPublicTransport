@@ -1,0 +1,130 @@
+﻿{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 3.1741428,
+               "lng" : 101.7160133
+            },
+            "southwest" : {
+               "lat" : 3.158923,
+               "lng" : 101.695799
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "4:50pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428051000
+               },
+               "departure_time" : {
+                  "text" : "4:00pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428048000
+               },
+               "distance" : {
+                  "text" : "4.6 km",
+                  "value" : 4579
+               },
+               "duration" : {
+                  "text" : "50 mins",
+                  "value" : 3000
+               },
+               "end_address" : "Jalan Pekeliling, Titiwangsa Sentral, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+               "end_location" : {
+                  "lat" : 3.172325,
+                  "lng" : 101.695799
+               },
+               "start_address" : "KLCC Jalan Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+               "start_location" : {
+                  "lat" : 3.158923,
+                  "lng" : 101.712599
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4.6 km",
+                        "value" : 4579
+                     },
+                     "duration" : {
+                        "text" : "30 mins",
+                        "value" : 1800
+                     },
+                     "end_location" : {
+                        "lat" : 3.172325,
+                        "lng" : 101.695799
+                     },
+                     "html_instructions" : "Bus towards Titiwangsa, Terminal Bas Titiwangsa",
+                     "polyline" : {
+                        "points" : "g~gRwvxkRE?W`BQbAMv@Gr@KdA?z@Cb@KNYAYCWM{A_AiBiAaA_ASQQOCCCAAAAA?AAAA??AAAACAAAEACCEAEEKSg@o@}Ao@_BQc@EGCG?CAACEAEAACGCECGGKCGEIGKCEACCGEIEIACCCAC?ACCEOGMKYO_@IQCGACCEGQIOYm@Ug@GQMUCGCEAACEEIACACEGEICEACCECC?AAAAAAA?AA??AAAAAA?CCCAAACCECCCA?AAA?AAA?A?A?AAA@A?A?A?A??@A?A@A?A@A@C@EBEBC@CBE@CBMFMFID]P]RGDQHQHEBIDKFEBA?C@A@EBKBIDC@A?C@A@A@C@IFIDIDEDC@OH[P_Ah@{@d@QJa@TC@EBCBC@A@A??@A@A?A@ABEDKJIJIHKJKJGHCBEFGFIJQRMLOPUXOPGFCBCB?BA?A@ABA@?@A@A@ABCDCJCFCDADCB?B?@A@?@?@?@?@?@?@?@?F?H?D?F?F?D@^@`A@j@?d@@x@?P?J?F?F@F?D?D?FCxGAxG?H?|H?hA?tH?dB?\\?D?B?B?B?@@D?F?B?@@@?B?D?L?N?HCbBCrDAzA?F?D?B?D@^BfA@n@?H?D?B?B@@?@?@?@@B?D@DBFVlAR~@XlAThABLBJ@B?B@B?B@D?@@H?F?@@@?@?@?@?@A@?@A@?@A?A@A?A@A?A?A?A?C?I?M?K?I?I?o@?iB@wA@_@?K?E?O?]A[?M?E?K?K?C?A?CAI?E?C?G?E?CAE?G?A?MAYAQAC?C?AAC?A?C?CAC?CAA?CAEAGCKCKCCACACAE?EACAOCa@GgASy@O[EWEIAICIAEAQEOCm@Mm@OQCQEEAICGACAE?CAA?A?A?AAC?E?C?A?G?E?IAK?K?I?IAK?C?E?A?A?A?A??@A?A?A?A@A?A@A?A@A@A@GDGBCBA@?@A??@A??@A??@A@?@?@A@?@A@?FAFA@?@?@?@?@?B?@?B?F?F?B?H?L@D?@?B?@@D@L@N@H@B?B@B?@@B@DBH@B@FBHBFBJ@FBD@D@FBD@FBHBDBJBF@B@D@B?B@@?@?@@@?@?B?@HZV~@f@xAPh@VB~@JfCPPDBJIr@k@B"
+                     },
+                     "start_location" : {
+                        "lat" : 3.158923,
+                        "lng" : 101.712599
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 3.172325,
+                              "lng" : 101.695799
+                           },
+                           "name" : "Bus Terminal Perkeliling"
+                        },
+                        "arrival_time" : {
+                           "text" : "4:50pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428051000
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 3.158923,
+                              "lng" : 101.712599
+                           },
+                           "name" : "KLCC Jalan Ampang"
+                        },
+                        "departure_time" : {
+                           "text" : "4:20pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428049200
+                        },
+                        "headsign" : "Titiwangsa, Terminal Bas Titiwangsa",
+                        "headway" : 1200,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "RapidKL",
+                                 "phone" : "011 60 378852585",
+                                 "url" : "http://www.myrapid.com.my/"
+                              }
+                           ],
+                           "color" : "#f20030",
+                           "name" : "Titiwangsa to KLCC",
+                           "short_name" : "B103",
+                           "text_color" : "#ffffff",
+                           "url" : "http://jp.myrapid.com.my/route/#route=B103",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 10
+                     },
+                     "travel_mode" : "TRANSIT"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g~gRwvxkRE?W`B_@zBSxBC~AKNYAYCWMeEiCuAqA[WEEMYmDuIi@eA_@y@aA_CsAsCk@cAYSOGK?OH{DrBu@\\e@VeGjD{BdCsA~AMPUn@ALFjI@ZEzZ?tOB`@IhLFtDBThBlIFh@?LEFaFBaF?w@AsBIcBa@uF_AgDs@i@Ka@AwAAg@ZEHGZ?^Bn@Jx@V`Ad@|A@H`@zAx@bCvANfCPPDBJIr@k@B"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,724 @@
+{
+  "status" : "OK",
+  "data" : {
+    "areas" : [1, 2, 3, 4, 5, 6],
+    "routes" : [{
+        "code" : "B103",
+        "title" : "B103 Titiwangsa to KLCC",
+        "area" : 1
+      }, {
+        "code" : "B112",
+        "title" : "B112 Maluri to KL Sentral",
+        "area" : 1
+      }, {
+        "code" : "B114",
+        "title" : "B114 Maluri to Titiwangsa via KLCC",
+        "area" : 1
+      }, {
+        "code" : "B115",
+        "title" : "B115 HAB Pasar Seni to Jalan Duta",
+        "area" : 1
+      }, {
+        "code" : "E11A",
+        "title" : "E11A Warta Baru, Jalan Ipoh to Wisma Sumber Asli, Persiaran Perdana",
+        "area" : 2
+      }, {
+        "code" : "E11B",
+        "title" : "E11B Pinggiran Batu Caves to Persiaran Perdana",
+        "area" : 2
+      }, {
+        "code" : "T203",
+        "title" : "T203 Stesen LRT Gombak, Jalan Terminal Duta to Pinggiran Batu Caves",
+        "area" : 2
+      }, {
+        "code" : "T204",
+        "title" : "T204 Taman Greenwood, Jalan Batu Caves to Kampung Nakhoda, Jalan Nakhoda Kanan via Taman Samudera",
+        "area" : 2
+      }, {
+        "code" : "T205",
+        "title" : "T205 Stesen LRT Taman Melati, Persiaran Pertahanan to Setapak Garden",
+        "area" : 2
+      }, {
+        "code" : "T223",
+        "title" : "T223 Taman Dato Senu, Jalan Dato Senu 26 to Titiwangsa, Jalan Tun Razak",
+        "area" : 2
+      }, {
+        "code" : "T225",
+        "title" : "T225 Kompleks Sungai Mas, Jalan Ipoh to Taman Mastiara, Jalan 1/18B",
+        "area" : 2
+      }, {
+        "code" : "T226",
+        "title" : "T226 Stesen LRT Taman Melati to Taman Melewar",
+        "area" : 2
+      }, {
+        "code" : "T229",
+        "title" : "T229 Metro Prima to Bandar Baru Selayang",
+        "area" : 2
+      }, {
+        "code" : "T231",
+        "title" : "T231 Stesen LRT Gombak to UIA",
+        "area" : 2
+      }, {
+        "code" : "U1",
+        "title" : "U1 Pinggiran Batu Caves to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U1W",
+        "title" : "U1 (W) Pinggiran Batu Caves to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U10",
+        "title" : "U10 Pinggiran Batu Caves to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U11",
+        "title" : "U11 Taman Sri Sinar to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U12",
+        "title" : "U12 UIA Gombak to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U13",
+        "title" : "U13 Taman Ehsan to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U14",
+        "title" : "U14 Sri Segambut to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U2",
+        "title" : "U2 Greenwood to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U201",
+        "title" : "U201 Batu 12, Gombak to Chow Kit",
+        "area" : 2
+      }, {
+        "code" : "U209",
+        "title" : "U209 Taman Selayang jaya to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U222",
+        "title" : "U222 Jinjang Utara to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U224",
+        "title" : "U224 Bandar Dato Senu to Kotaraya",
+        "area" : 2
+      }, {
+        "code" : "U224W",
+        "title" : "U224 (W) Bandar Dato Senu to Kotaraya, Jalan Tun Tan Cheng",
+        "area" : 2
+      }, {
+        "code" : "U2A",
+        "title" : "U2A Pinggiran Batu Caves to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U3",
+        "title" : "U3 Bandar Baru Selayang to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U4",
+        "title" : "U4 Desa Aman Puri to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U5",
+        "title" : "U5 Stesen LRT Taman Melati to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U6",
+        "title" : "U6 Pinggiran Batu Caves to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U6W",
+        "title" : "U6 (W) Taman Jasa Utama to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U7",
+        "title" : "U7 Segambut / Desa Sri Hartamas to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U8",
+        "title" : "U8 Damansara Damai to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "U8W",
+        "title" : "U8 (W) Damansara Damai to Medan Pasar",
+        "area" : 2
+      }, {
+        "code" : "BET7",
+        "title" : "BET7 Sri Nilam to Jalan Hang Lekiu",
+        "area" : 3
+      }, {
+        "code" : "T302",
+        "title" : "T302 Stesen LRT Sri Rampai to Desa Rejang via Seksyen 10",
+        "area" : 3
+      }, {
+        "code" : "T304",
+        "title" : "T304 Taman Melawati to Stesen LRT Sri Rampai",
+        "area" : 3
+      }, {
+        "code" : "T305",
+        "title" : "T305 Ukay Perdana to Stesen LRT Sri Rampai",
+        "area" : 3
+      }, {
+        "code" : "T307",
+        "title" : "T307 Stesen LRT Dato Keramat to Ampang Point",
+        "area" : 3
+      }, {
+        "code" : "T309",
+        "title" : "T309 Stesen LRT Setiawangsa to Taman Setiawangsa",
+        "area" : 3
+      }, {
+        "code" : "T312",
+        "title" : "T312 Stesen LRT Wangsa Maju to Danau Kota - PV12,PV10,PV15",
+        "area" : 3
+      }, {
+        "code" : "T320",
+        "title" : "T320 Bukit Indah to Ampang Point",
+        "area" : 3
+      }, {
+        "code" : "T323",
+        "title" : "T323 Stesen LRT Cempaka to Tasik Tambahan via Taman Mawar",
+        "area" : 3
+      }, {
+        "code" : "T324",
+        "title" : "T324 Stesen LRT Cempaka to Taman Bukit Permai",
+        "area" : 3
+      }, {
+        "code" : "T327",
+        "title" : "T327 Taman Shamelin to Maluri",
+        "area" : 3
+      }, {
+        "code" : "T328",
+        "title" : "T328 Ampang Point to Stesen LRT Pandan Indah",
+        "area" : 3
+      }, {
+        "code" : "T329",
+        "title" : "T329 Taman Dagang to Maluri",
+        "area" : 3
+      }, {
+        "code" : "T330",
+        "title" : "T330 Stesen LRT Dato Keramat to Desa Pandan",
+        "area" : 3
+      }, {
+        "code" : "U20",
+        "title" : "U20 Taman Melawati to Titiwangsa / Chow Kit",
+        "area" : 3
+      }, {
+        "code" : "U21",
+        "title" : "U21 Ukay Perdana, Jalan Ukay Perdana to Chow Kit, Jalan Chow Kit",
+        "area" : 3
+      }, {
+        "code" : "U23",
+        "title" : "U23 Taman Melawati to Medan Pasar via MINDEF",
+        "area" : 3
+      }, {
+        "code" : "U24",
+        "title" : "U24 Seksyen 2 Wangsa Maju, Jalan 4/27A to Bukit Bintang/UTAR",
+        "area" : 3
+      }, {
+        "code" : "U25",
+        "title" : "U25 Seksyen 10, Wangsa Maju / Stesen LRT Sri Rampai to Lebuh Ampang via Setapak Jaya",
+        "area" : 3
+      }, {
+        "code" : "U26",
+        "title" : "U26 Bukit Indah, Ampang to Jalan Hang Lekiu (Lin Ho)",
+        "area" : 3
+      }, {
+        "code" : "U27",
+        "title" : "U27 Sri Nilam to Menara Maybank",
+        "area" : 3
+      }, {
+        "code" : "U28",
+        "title" : "U28 Taman Mulia Jaya to Jalan Hang Lekiu (Lin Ho)",
+        "area" : 3
+      }, {
+        "code" : "U29",
+        "title" : "U29 Taman Mulia Jaya to Jalan Hang Lekiu (Lin Ho)",
+        "area" : 3
+      }, {
+        "code" : "U30",
+        "title" : "U30 Pandan Mewah to Jalan Hang Lekiu (Lin Ho)",
+        "area" : 3
+      }, {
+        "code" : "U30W",
+        "title" : "U30 (W) Pandan Mewah to Jalan Hang Lekiu (Lin Ho)",
+        "area" : 3
+      }, {
+        "code" : "U31",
+        "title" : "U31 Pandan Indah to Menara Maybank",
+        "area" : 3
+      }, {
+        "code" : "U31W",
+        "title" : "U31 (W) Pandan Indah to Menara Maybank",
+        "area" : 3
+      }, {
+        "code" : "U32",
+        "title" : "U32 Taman Dagang to Menara Maybank",
+        "area" : 3
+      }, {
+        "code" : "U33",
+        "title" : "U33 Ayer Panas to Lebuh Ampang",
+        "area" : 3
+      }, {
+        "code" : "U332",
+        "title" : "U332 Lembah Jaya Utara to Garden City Hotel",
+        "area" : 3
+      }, {
+        "code" : "U34",
+        "title" : "U34 Stesen LRT Wangsa Maju to Ampang Point",
+        "area" : 3
+      }, {
+        "code" : "U36",
+        "title" : "U36 Taman Dagang to Chow Kit",
+        "area" : 3
+      }, {
+        "code" : "BET2",
+        "title" : "BET2 Bandar Sungai Long to Mydin Sinar Kota",
+        "area" : 4
+      }, {
+        "code" : "BET8",
+        "title" : "BET8 Semenyih Sentral to Mydin Sinar Kota",
+        "area" : 4
+      }, {
+        "code" : "E1",
+        "title" : "E1 Putrajaya Sentral to Mydin Sinar Kota",
+        "area" : 4
+      }, {
+        "code" : "T405",
+        "title" : "T405 Stesen LRT Bandar Tasik Selatan to Taman Awana Cheras",
+        "area" : 4
+      }, {
+        "code" : "T408",
+        "title" : "T408 Stesen LRT Bandar Tasik Selatan to Taman Segar / Taman Bukit Supreme",
+        "area" : 4
+      }, {
+        "code" : "T416",
+        "title" : "T416 UPM / Taman Sri Serdang to Stesen KTM Serdang",
+        "area" : 4
+      }, {
+        "code" : "T417",
+        "title" : "T417 Taman Sri Pulai to Stesen LRT Sungai Besi",
+        "area" : 4
+      }, {
+        "code" : "T418",
+        "title" : "T418 Sri Petaling to Technology Park Malaysia via Bandar Puncak Jalil",
+        "area" : 4
+      }, {
+        "code" : "T421",
+        "title" : "T421 Taman Gembira to Stesen LRT Salak Selatan",
+        "area" : 4
+      }, {
+        "code" : "T422",
+        "title" : "T422 Stesen LRT Bukit Jalil to Stesen LRT Salak Selatan",
+        "area" : 4
+      }, {
+        "code" : "T424",
+        "title" : "T424 Desa Tasik to HUKM via LRT BTS",
+        "area" : 4
+      }, {
+        "code" : "T427",
+        "title" : "T427 Cyberjaya Transport Terminal to Lim Kok Wing Universiti",
+        "area" : 4
+      }, {
+        "code" : "T428",
+        "title" : "T428 Cyberjaya Transport Terminal to Cyberjaya Park & Ride",
+        "area" : 4
+      }, {
+        "code" : "T430",
+        "title" : "T430 UKM to Bandar Kajang",
+        "area" : 4
+      }, {
+        "code" : "T433",
+        "title" : "T433 Bandar Sri Permaisuri / HUKM to Stesen LRT Salak Selatan",
+        "area" : 4
+      }, {
+        "code" : "U40",
+        "title" : "U40 Terminal Kajang to Mydin Sinar Kota, Jalan Tun Perak",
+        "area" : 4
+      }, {
+        "code" : "U40W",
+        "title" : "U40 (W) Terminal Kajang to Mydin Sinar Kota, Jalan Tun Perak",
+        "area" : 4
+      }, {
+        "code" : "U41",
+        "title" : "U41 Bandar Sungai Long to Mydin Sinar Kota, Jalan Tun Perak",
+        "area" : 4
+      }, {
+        "code" : "U410",
+        "title" : "U410 Taman Tun Perak to Kota Raya",
+        "area" : 4
+      }, {
+        "code" : "U411",
+        "title" : "U411 Taman Impian Ehsan to Kota Raya",
+        "area" : 4
+      }, {
+        "code" : "U412",
+        "title" : "U412 TNB Pangsun, Jalan Hulu Langat to TM Batu 10, Lebuhraya Cheras Kajang",
+        "area" : 4
+      }, {
+        "code" : "U412A",
+        "title" : "U412A Kampung Ulu Lui, Jalan Sungai Lui to TM Batu 10, Lebuhraya Cheras Kajang",
+        "area" : 4
+      }, {
+        "code" : "U415",
+        "title" : "U415 Beranang to Bandar Kajang Prima Saujana",
+        "area" : 4
+      }, {
+        "code" : "U42",
+        "title" : "U42 Putrajaya Sentral to Stesen KTM Serdang",
+        "area" : 4
+      }, {
+        "code" : "U429",
+        "title" : "U429 Cyberjaya Transport Terminal (CTT) to Putrajaya Sentral",
+        "area" : 4
+      }, {
+        "code" : "U43",
+        "title" : "U43 Putrajaya Sentral to Bandar Utama",
+        "area" : 4
+      }, {
+        "code" : "U432",
+        "title" : "U432 Bandar Putra Permai to Kota Raya",
+        "area" : 4
+      }, {
+        "code" : "U44",
+        "title" : "U44 Bandar Sri Permaisuri to Bukit Bintang",
+        "area" : 4
+      }, {
+        "code" : "U45",
+        "title" : "U45 Bandar Tun Razak to Bukit Bintang",
+        "area" : 4
+      }, {
+        "code" : "U46",
+        "title" : "U46 Damai Perdana to Bukit Bintang",
+        "area" : 4
+      }, {
+        "code" : "U46W",
+        "title" : "U46 (W) Damai Perdana to Bukit Bintang",
+        "area" : 4
+      }, {
+        "code" : "U47",
+        "title" : "U47 Awana Cheras to Menara Maybank",
+        "area" : 4
+      }, {
+        "code" : "U48",
+        "title" : "U48 Desa Petaling to Bukit Bintang",
+        "area" : 4
+      }, {
+        "code" : "U49",
+        "title" : "U49 Damai Perdana to Kota Raya",
+        "area" : 4
+      }, {
+        "code" : "BET3",
+        "title" : "BET3 Subang Mewah to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "BET4",
+        "title" : "BET4 Taman Sri Muda to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "T505",
+        "title" : "T505 Stesen LRT Taman Jaya to Taman Sri Sentosa",
+        "area" : 5
+      }, {
+        "code" : "T507",
+        "title" : "T507 Bandar Kinrara to Tesco / IOI Mall",
+        "area" : 5
+      }, {
+        "code" : "T508",
+        "title" : "T508 Taman Wawasan Puchong to IOI Mall",
+        "area" : 5
+      }, {
+        "code" : "T509",
+        "title" : "T509 Puchong Utama to IOI Mall",
+        "area" : 5
+      }, {
+        "code" : "T510",
+        "title" : "T510 Puchong Prima to Puchong Utama",
+        "area" : 5
+      }, {
+        "code" : "T511",
+        "title" : "T511 Puchong Prima to IOI Mall",
+        "area" : 5
+      }, {
+        "code" : "T513",
+        "title" : "T513 Puchong Utama to Saujana Puchong",
+        "area" : 5
+      }, {
+        "code" : "T515",
+        "title" : "T515 Puchong Utama to Pulau Meranti",
+        "area" : 5
+      }, {
+        "code" : "T523",
+        "title" : "T523 USJ 8 to Subang Parade",
+        "area" : 5
+      }, {
+        "code" : "T527",
+        "title" : "T527 Hentian Bandar Shah Alam to Stesen KTM Batu 3 / Subang Mas",
+        "area" : 5
+      }, {
+        "code" : "T528",
+        "title" : "T528 Sri Muda to Hentian Bandar Shah Alam",
+        "area" : 5
+      }, {
+        "code" : "T529",
+        "title" : "T529 Hentian Bandar Shah Alam to Seksyen 16 - 17, Shah Alam via Stesen Komuter",
+        "area" : 5
+      }, {
+        "code" : "T530",
+        "title" : "T530 Taman Sri Muda to Kota Kemuning",
+        "area" : 5
+      }, {
+        "code" : "T600",
+        "title" : "T600 UiTM, Puncak Alam to Bandar Puncak Alam",
+        "area" : 5
+      }, {
+        "code" : "U504",
+        "title" : "U504 OG Height to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U60",
+        "title" : "U60 Puchong Utama to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U60W",
+        "title" : "U60 (W) Puchong Utama to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U62",
+        "title" : "U62 Klang to Sunway Pyramid",
+        "area" : 5
+      }, {
+        "code" : "U63",
+        "title" : "U63 USJ 8 / Subang Mewah to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U64",
+        "title" : "U64 Taman Sri Muda to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U65",
+        "title" : "U65 Putra Heights / Alam Megah to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U66",
+        "title" : "U66 Taman Medan to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U66W",
+        "title" : "U66 (W) Taman Medan to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U68",
+        "title" : "U68 Sri Manja / Sentosa to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U68W",
+        "title" : "U68 (W) Sri Manja / Sentosa to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U69",
+        "title" : "U69 Putra Perdana to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U70",
+        "title" : "U70 Puchong Prima to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U71",
+        "title" : "U71 Bukit Jalil to Pasarama Kota",
+        "area" : 5
+      }, {
+        "code" : "U72",
+        "title" : "U72 Taman Desa to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U73",
+        "title" : "U73 Taman Overseas Union to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U74",
+        "title" : "U74 Pantai Hill Park to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U75",
+        "title" : "U75 PJ Old Town to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U75A",
+        "title" : "U75A Pantai Dalam 22, Jalan Pantai Dalam to HAB Pasar Seni",
+        "area" : 5
+      }, {
+        "code" : "U76",
+        "title" : "U76 Subang Parade to Pasar Seni via KL Sentral",
+        "area" : 5
+      }, {
+        "code" : "BET1",
+        "title" : "BET1 Kota Damansara to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "T601",
+        "title" : "T601 Hentian Bandar Shah Alam to Seksyen 7, Shah Alam",
+        "area" : 6
+      }, {
+        "code" : "T602",
+        "title" : "T602 Hentian Bandar Shah Alam to Seksyen 11, 9, 8, 6, 4, 2",
+        "area" : 6
+      }, {
+        "code" : "T603",
+        "title" : "T603 UiTM Seksyen 2, Shah Alam to UiTM Kampus Utama, Shah Alam",
+        "area" : 6
+      }, {
+        "code" : "T604",
+        "title" : "T604 Seksyen 7, Shah Alam to UiTM Kampus Utama, Shah Alam",
+        "area" : 6
+      }, {
+        "code" : "T607",
+        "title" : "T607 Stesen LRT Kelana Jaya to Ara Damansara / Lembah Subang",
+        "area" : 6
+      }, {
+        "code" : "T608",
+        "title" : "T608 Subang Perdana to Bukit Subang",
+        "area" : 6
+      }, {
+        "code" : "T610",
+        "title" : "T610 Subang Bistari / Mahsing to Subang Perdana",
+        "area" : 6
+      }, {
+        "code" : "T622",
+        "title" : "T622 Stesen LRT Kelana Jaya to Taman Mayang Mas",
+        "area" : 6
+      }, {
+        "code" : "T624",
+        "title" : "T624 Stesen LRT Kelana Jaya to Kelana Centre Point / Stadium MBPJ",
+        "area" : 6
+      }, {
+        "code" : "T625",
+        "title" : "T625 Stesen LRT Taman Bahagia to SS6, SS5, SS3",
+        "area" : 6
+      }, {
+        "code" : "T626",
+        "title" : "T626 Stesen LRT Taman Bahagia to Damansara Utama",
+        "area" : 6
+      }, {
+        "code" : "T627",
+        "title" : "T627 Stesen LRT Taman Paramount to Kg Tunku Sg Way Seksyen 51A",
+        "area" : 6
+      }, {
+        "code" : "T628",
+        "title" : "T628 Stesen LRT Asia Jaya to Sek 14, Sek 17",
+        "area" : 6
+      }, {
+        "code" : "T628B",
+        "title" : "T628B Stesen LRT Asia Jaya to Sek 14, Sek 17",
+        "area" : 6
+      }, {
+        "code" : "T629",
+        "title" : "T629 Stesen LRT Asia Jaya to Eastin Hotel",
+        "area" : 6
+      }, {
+        "code" : "T629B",
+        "title" : "T629B Stesen LRT Asia Jaya to Eastin Hotel",
+        "area" : 6
+      }, {
+        "code" : "T631",
+        "title" : "T631 Stesen LRT Universiti to Mid Valley",
+        "area" : 6
+      }, {
+        "code" : "T632",
+        "title" : "T632 Bukit Angkasa to Universiti Malaya",
+        "area" : 6
+      }, {
+        "code" : "T633",
+        "title" : "T633 Stesen LRT Kerinchi to Pantai Hill Park",
+        "area" : 6
+      }, {
+        "code" : "T634",
+        "title" : "T634 Stesen LRT Bangsar to Pusat Bandar Damansara",
+        "area" : 6
+      }, {
+        "code" : "T635",
+        "title" : "T635 Stesen LRT Universiti to PPUM",
+        "area" : 6
+      }, {
+        "code" : "U605",
+        "title" : "U605 Seksyen 2, Shah Alam to Puncak Perdana",
+        "area" : 6
+      }, {
+        "code" : "U618",
+        "title" : "U618 Titiwangsa / Chow Kit to Solaris Duta Kiara",
+        "area" : 6
+      }, {
+        "code" : "U623",
+        "title" : "U623 Stesen LRT Kelana Jaya to Sunway Subang Parade",
+        "area" : 6
+      }, {
+        "code" : "U623W",
+        "title" : "U623 (W) Stesen LRT Kelana Jaya to Sunway Subang Parade",
+        "area" : 6
+      }, {
+        "code" : "U67",
+        "title" : "U67 USJ 8 / Taipan to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U80",
+        "title" : "U80 UiTM Seksyen 2, Shah Alam to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U80W",
+        "title" : "U80 (W) UiTM Seksyen 2, Shah Alam to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U81",
+        "title" : "U81 Subang Suria / Mahsing to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U81W",
+        "title" : "U81 (W) Subang Suria / Mahsing to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U82",
+        "title" : "U82 Bandar Utama to KL Sentral",
+        "area" : 6
+      }, {
+        "code" : "U82W",
+        "title" : "U82 (W) Bandar Utama to KL Sentral",
+        "area" : 6
+      }, {
+        "code" : "U83",
+        "title" : "U83 KL Sentral to Kompleks Kerajaan Jalan Duta",
+        "area" : 6
+      }, {
+        "code" : "U84",
+        "title" : "U84 Kelana Jaya to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U85",
+        "title" : "U85 Stesen LRT Taman Paramount / SS2 (SEAPARK) to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U86",
+        "title" : "U86 Bandar Utama to Metro Prima",
+        "area" : 6
+      }, {
+        "code" : "U87",
+        "title" : "U87 HAB Pasar Seni to Bangsar Park",
+        "area" : 6
+      }, {
+        "code" : "U88",
+        "title" : "U88 Kota Damansara to HAB Pasar Seni",
+        "area" : 6
+      }, {
+        "code" : "U89",
+        "title" : "U89 Stesen LRT Kelana Jaya to Kota Damansara Seksyen 11, 13, 5, 4",
+        "area" : 6
+      }, {
+        "code" : "U90",
+        "title" : "U90 UiTM, Puncak Alam to UiTM Seksyen 2 / Hentian Bandar Shah Alam",
+        "area" : 6
+      }
+    ]
+  }
+}

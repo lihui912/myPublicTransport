@@ -1,0 +1,228 @@
+﻿{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 3.1746547,
+               "lng" : 101.7278691
+            },
+            "southwest" : {
+               "lat" : 3.1240524,
+               "lng" : 101.6928405
+            }
+         },
+         "copyrights" : "Map data ©2015 Google",
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "5:05pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428051945
+               },
+               "departure_time" : {
+                  "text" : "4:00pm",
+                  "time_zone" : "Asia/Kuala_Lumpur",
+                  "value" : 1428048000
+               },
+               "distance" : {
+                  "text" : "13.9 km",
+                  "value" : 13873
+               },
+               "duration" : {
+                  "text" : "1 hour 6 mins",
+                  "value" : 3945
+               },
+               "end_address" : "Jalan Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+               "end_location" : {
+                  "lat" : 3.1240524,
+                  "lng" : 101.7278691
+               },
+               "start_address" : "Jalan Pekeliling, Titiwangsa Sentral, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+               "start_location" : {
+                  "lat" : 3.172325,
+                  "lng" : 101.695799
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "13.8 km",
+                        "value" : 13829
+                     },
+                     "duration" : {
+                        "text" : "45 mins",
+                        "value" : 2700
+                     },
+                     "end_location" : {
+                        "lat" : 3.124209,
+                        "lng" : 101.727583
+                     },
+                     "html_instructions" : "Bus towards Maluri, Hab Bas Maluri, Jalan Cheras",
+                     "polyline" : {
+                        "points" : "_rjRwmukRb@EHq@MKuCUOBQNOPT~@z@pCLh@Ph@\\pAV|@Vz@Vn@Zr@T\\HNHCRI~@gAJMnBuCrB{Cd@q@lAeBpBmCvBqCh@w@`@a@LMVUR]JWDc@G[OIkACgJ?g@A[?w@IyAU{Cm@sBc@UEmBa@kAW_AEq@Lq@Jo@Ea@_@Ii@Bi@N_@j@]VW^w@p@eBd@cB`@gCRiCR_DT_Cx@}DJa@`@yC@E@IRiATwADU@E?A?A@A@A@EFSRi@JY@C@C@A?CBCR_@Rc@FKVk@Vg@BC?C@ABC?AT]R]@A?A@A?A@??A@A?C@CFUFU@E?A?A@A?A@A?ABCHSP[JUFM@C@C@A@A@A@ABCPSjAuA`AiAHIhAuAdAqADE|AsB`DaEvAkB\\a@JO@ABC@A@A@ABAPOt@i@f@_@BCBABADCLIZQPKDABABCPGPIDCBADCp@]r@_@DAFERIp@[d@UDADEt@_@|@g@NIBABABA@ABCFEFGBA@A@A@??A@A?A@??A@C@C@IDKPm@Pk@@C@E@Ed@gBd@gB@GDMBM@A@C?C@A@A@EFMLUFM@A@C?A@A@A?A@?@ABCFINKTUPQBC@A@?@ABCVOd@[PKBCBA@A@?@ABARI`@QRIBABABABAxAe@xAg@XIVGHEHC@?@A@?@?@?@@?@?@@B?B?D@D?H@F?@?B@F?H?D@N@L?B@B?@?B?B?B?R@f@?\\?F?D?D?b@An@?P?B?B?@?@?@?@A@?B?BENG`@ET?BABAFK`@Mj@CLAD?@A@?@?@?@AB?BATAh@ABAX?B?B?B?@?@?D@PB\\?N@B?D?@?@@@?DDLDTBL@B?B@@?@@B@BHRRb@JT@B@@?@@@@B@B@@JLb@p@Xd@DDBDTZTZ@B@@@@@BHNLTDJB@@B?@@@?@@@?@@BDRPv@Nl@DRBJ@B?@?@?@@@?@?@?@?@?@A@?JAPEl@Ed@?B?B?BA@?BABCP[~AUnA?DAB?BMlAMpACPAJ?@?@?@A@?@@@?@?@?@@??@?@@@@B@@?@@@@??@@@@?@@BBDB@@B@@@@@@?@@B?B@@@B@@?@?@@@?@?@?@?B?B?HANApAKjCSPAv@GPCLAB?B?@?@?@?@?@?@?D?D@D@@?@?@?@@@?@?@@@??@@@@?@@@BJLJLB@@B@@@??@@?@@@?@@@?B?B@@@@?@??@@?@@@??@@@@@NNTTFD@B@@@?@@?@@?@?@@@?@?@?@@@?F?J?F@B?@?B?@?@A@?@?@A@A@AHEJKr@i@n@g@BC@ABA|AcA~AeAJG~AeAdBeANKJG@A@?@A?A@?@A?A@A@??C@CDKJSFM@C?A@A?A?A@A@C?CBMDUBO?E@A?A?A?EBUBa@@O@C?A?A?A?A?A?A?C?CASGaBGsA?GEw@Eu@?C?A?A?C?E?U@u@?[@cA?K@e@@a@?E?A?A@C?CBQBQ@C?C@A?A@C@CFSFSBEBG`@aA`@eAFODI@A?A?A@A?AAA?AAAAAA?A?AAECIEGCMEIECCA?A?AACAC?CAKCOCCAC?A?AAE?OA]EQACAA?A?A?C?C?U?yA@mA?G?A?C?E?yBEaCGQ?I?C?A?AAA?A?A??AAA?A?A?A?A?C?I?MAu@?q@?E?CAC?EEs@Cs@AKAk@Cm@AMEaAEcA?QAI?A?A?A?AAA?A?AA??AA?AAA?A?AAOEOCC?AAC?A?A?CAM?SAM?C?C?A?A?A?A@C?C@G@ODK@A@C@A?A@A?A@A?A@EDCBC@?@A@A?A@A?CBGBGBC@A@A?A@C@E?QFiAX{@RC@E@E@s@Na@H[FODA?A?A@A?A?A?A?A?AAA?C?EACAE?AAA?A?AAAA?AA??AAA?A?A?A?A?CA??A@A?A?A?A?A@A@??CBC@C@A@C@?@A?A@?@A@?@A@?BAHCNChA[fAYDCFAhCm@dBc@`@IFChAYfA[DADADAbA[hA]RGLCBA@A@?@?@?@A@?@?@?D?HAH?B?@?@?@A@?@?@A@?BAB?LG~@[v@YFCDC^M^OBABA@AB?BALCTGLC@A@?@?@?@A@?@?B?B?RApBC\\A|BEjACT?D?BA@?@?@?@?DATETCDAB?@?@?B?BAVAjCIzBIF?D?P?^ANAB?B?@?@@@?@?@?B@RBhALx@JD@B@D?l@Ln@JD@HBzATfBXTDD@@?@@@?D@hFdB|CbA|@NxAHrANfAT|A^dB`@zAf@t@\\lAd@lANvAL`BKlBUbA]j@a@vAiAbA_@l@AVL^^Dl@A`@Y^eB`@gAHKRIP@l@RZ\\Px@RbBx@zAb@lBZpD|@@?`Cl@`B`@bCf@hANhANjBVlB\\X?VBPO\\g@|AkBNSrB{CxAaCd@u@lAmBdBcC|AgCP]p@sAf@cAj@uAn@iBb@mANm@PaA@_A@i@Du@J_@N]Zg@r@i@jBmA~Au@jBiAGK"
+                     },
+                     "start_location" : {
+                        "lat" : 3.172325,
+                        "lng" : 101.695799
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 3.124209,
+                              "lng" : 101.727583
+                           },
+                           "name" : "LRT Maluri"
+                        },
+                        "arrival_time" : {
+                           "text" : "5:05pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428051900
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 3.172325,
+                              "lng" : 101.695799
+                           },
+                           "name" : "Bus Terminal Perkeliling"
+                        },
+                        "departure_time" : {
+                           "text" : "4:20pm",
+                           "time_zone" : "Asia/Kuala_Lumpur",
+                           "value" : 1428049200
+                        },
+                        "headsign" : "Maluri, Hab Bas Maluri, Jalan Cheras",
+                        "headway" : 1200,
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "RapidKL",
+                                 "phone" : "011 60 378852585",
+                                 "url" : "http://www.myrapid.com.my/"
+                              }
+                           ],
+                           "color" : "#f20030",
+                           "name" : "Maluri to Titiwangsa",
+                           "short_name" : "B114",
+                           "text_color" : "#ffffff",
+                           "url" : "http://jp.myrapid.com.my/route/#route=B114",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw/6/bus.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 22
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 3.1240524,
+                        "lng" : 101.7278691
+                     },
+                     "html_instructions" : "Walk to Jalan Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+                     "polyline" : {
+                        "points" : "ieaRkt{kREIVMIUVK"
+                     },
+                     "start_location" : {
+                        "lat" : 3.124209,
+                        "lng" : 101.727583
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "15 m",
+                              "value" : 15
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 11
+                           },
+                           "end_location" : {
+                              "lat" : 3.1241211,
+                              "lng" : 101.7276974
+                           },
+                           "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eJalan Cheras\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "ieaRkt{kREIVM"
+                           },
+                           "start_location" : {
+                              "lat" : 3.124209,
+                              "lng" : 101.727583
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "14 m",
+                              "value" : 14
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 15
+                           },
+                           "end_location" : {
+                              "lat" : 3.1241718,
+                              "lng" : 101.7278121
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "wdaRcu{kRIU"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1241211,
+                              "lng" : 101.7276974
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "15 m",
+                              "value" : 15
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 19
+                           },
+                           "end_location" : {
+                              "lat" : 3.1240524,
+                              "lng" : 101.7278691
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eTake the stairs\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-right",
+                           "polyline" : {
+                              "points" : "aeaRyu{kRVK"
+                           },
+                           "start_location" : {
+                              "lat" : 3.1241718,
+                              "lng" : 101.7278121
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_rjRwmukRb@EHq@MKuCUOBQNOPT~@hAzDn@zBn@xBr@bB^l@\\MjAuAbFqHrBwChF_Hh@w@`@a@d@c@^u@Dc@G[OIkACoKAsAIuFcAcIcB_AEq@Lq@Jo@Ea@_@Ii@Bi@N_@j@]VWpA}Cd@cB`@gCf@iHT_Cx@}Dl@{Dl@qDT}@b@kAXi@tAqCn@eAT_AbAqBbIoJfKyM|BeBrAs@xIiEfBcARSp@yB|AcG^w@P[jAiA~AcAvAm@zFkBREDXHvB?~DATc@|BUhAIlBFpAPbAPf@h@jA`CjDh@~@Ld@l@nC?XOvBw@dEOzAUxBDLHLVPTFP@`Js@R?ZDLJb@d@RF`A~@NBd@@LGxBcBfBkApIoFHM^{@P_ALmB]gIByDDeBNw@hBwE@MgAg@o@MoAKsE@eHOE?AEAiCc@uKEKm@Om@C]@s@NSNWNm@RgGtA]F[GIGCMDMLUVIfD}@xG}AxHyBn@Qd@ANEvEcBbAWPClKQ|@MxDOrEMjBThANlB^jFz@fKhD|@NxAHrANfATbE`AzAf@t@\\lAd@lANvAL`BKlBUbA]bCkBbA_@l@AVL^^BnAY^eB`@gAHKRIP@l@RZ\\Px@RbBx@zAb@lBZrD|@bFnAbCf@hANtDf@lB\\X?VBPOzBsCbCoD~BwDrDqFnBeDxAwCzA_Eb@mANm@PaA@_AF_BZ}@Zg@r@i@jBmA~Au@jBiAGKEIVMIUVK"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

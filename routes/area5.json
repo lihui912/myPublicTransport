@@ -1,0 +1,116 @@
+{
+  "data" : {
+    "routes" : [{
+        "code" : "BET3",
+        "title" : "BET3 Subang Mewah to HAB Pasar Seni"
+      }, {
+        "code" : "BET4",
+        "title" : "BET4 Taman Sri Muda to HAB Pasar Seni"
+      }, {
+        "code" : "T505",
+        "title" : "T505 Stesen LRT Taman Jaya to Taman Sri Sentosa"
+      }, {
+        "code" : "T507",
+        "title" : "T507 Bandar Kinrara to Tesco / IOI Mall"
+      }, {
+        "code" : "T508",
+        "title" : "T508 Taman Wawasan Puchong to IOI Mall"
+      }, {
+        "code" : "T509",
+        "title" : "T509 Puchong Utama to IOI Mall"
+      }, {
+        "code" : "T510",
+        "title" : "T510 Puchong Prima to Puchong Utama"
+      }, {
+        "code" : "T511",
+        "title" : "T511 Puchong Prima to IOI Mall"
+      }, {
+        "code" : "T513",
+        "title" : "T513 Puchong Utama to Saujana Puchong"
+      }, {
+        "code" : "T515",
+        "title" : "T515 Puchong Utama to Pulau Meranti"
+      }, {
+        "code" : "T523",
+        "title" : "T523 USJ 8 to Subang Parade"
+      }, {
+        "code" : "T527",
+        "title" : "T527 Hentian Bandar Shah Alam to Stesen KTM Batu 3 / Subang Mas"
+      }, {
+        "code" : "T528",
+        "title" : "T528 Sri Muda to Hentian Bandar Shah Alam"
+      }, {
+        "code" : "T529",
+        "title" : "T529 Hentian Bandar Shah Alam to Seksyen 16 - 17, Shah Alam via Stesen Komuter"
+      }, {
+        "code" : "T530",
+        "title" : "T530 Taman Sri Muda to Kota Kemuning"
+      }, {
+        "code" : "T600",
+        "title" : "T600 UiTM, Puncak Alam to Bandar Puncak Alam"
+      }, {
+        "code" : "U504",
+        "title" : "U504 OG Height to HAB Pasar Seni"
+      }, {
+        "code" : "U60",
+        "title" : "U60 Puchong Utama to HAB Pasar Seni"
+      }, {
+        "code" : "U60 (W)",
+        "title" : "U60 (W) Puchong Utama to HAB Pasar Seni"
+      }, {
+        "code" : "U62",
+        "title" : "U62 Klang to Sunway Pyramid"
+      }, {
+        "code" : "U63",
+        "title" : "U63 USJ 8 / Subang Mewah to HAB Pasar Seni"
+      }, {
+        "code" : "U64",
+        "title" : "U64 Taman Sri Muda to HAB Pasar Seni"
+      }, {
+        "code" : "U65",
+        "title" : "U65 Putra Heights / Alam Megah to HAB Pasar Seni"
+      }, {
+        "code" : "U66",
+        "title" : "U66 Taman Medan to HAB Pasar Seni"
+      }, {
+        "code" : "U66 (W)",
+        "title" : "U66 (W) Taman Medan to HAB Pasar Seni"
+      }, {
+        "code" : "U68",
+        "title" : "U68 Sri Manja / Sentosa to HAB Pasar Seni"
+      }, {
+        "code" : "U68 (W)",
+        "title" : "U68 (W) Sri Manja / Sentosa to HAB Pasar Seni"
+      }, {
+        "code" : "U69",
+        "title" : "U69 Putra Perdana to HAB Pasar Seni"
+      }, {
+        "code" : "U70",
+        "title" : "U70 Puchong Prima to HAB Pasar Seni"
+      }, {
+        "code" : "U71",
+        "title" : "U71 Bukit Jalil to Pasarama Kota"
+      }, {
+        "code" : "U72",
+        "title" : "U72 Taman Desa to HAB Pasar Seni"
+      }, {
+        "code" : "U73",
+        "title" : "U73 Taman Overseas Union to HAB Pasar Seni"
+      }, {
+        "code" : "U74",
+        "title" : "U74 Pantai Hill Park to HAB Pasar Seni"
+      }, {
+        "code" : "U75",
+        "title" : "U75 PJ Old Town to HAB Pasar Seni"
+      }, {
+        "code" : "U75A",
+        "title" : "U75A Pantai Dalam 22, Jalan Pantai Dalam to HAB Pasar Seni"
+      }, {
+        "code" : "U76",
+        "title" : "U76 Subang Parade to Pasar Seni via KL Sentral"
+      }
+    ],
+    "area" : "Area 5"
+  },
+  "result" : "OK"
+}

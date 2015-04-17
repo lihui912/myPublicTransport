@@ -1,0 +1,104 @@
+{
+  "data" : {
+    "routes" : [{
+        "code" : "E11A",
+        "title" : "E11A Warta Baru, Jalan Ipoh to Wisma Sumber Asli, Persiaran Perdana"
+      }, {
+        "code" : "E11B",
+        "title" : "E11B Pinggiran Batu Caves to Persiaran Perdana"
+      }, {
+        "code" : "T203",
+        "title" : "T203 Stesen LRT Gombak, Jalan Terminal Duta to Pinggiran Batu Caves"
+      }, {
+        "code" : "T204",
+        "title" : "T204 Taman Greenwood, Jalan Batu Caves to Kampung Nakhoda, Jalan Nakhoda Kanan via Taman Samudera"
+      }, {
+        "code" : "T205",
+        "title" : "T205 Stesen LRT Taman Melati, Persiaran Pertahanan to Setapak Garden"
+      }, {
+        "code" : "T223",
+        "title" : "T223 Taman Dato Senu, Jalan Dato Senu 26 to Titiwangsa, Jalan Tun Razak"
+      }, {
+        "code" : "T225",
+        "title" : "T225 Kompleks Sungai Mas, Jalan Ipoh to Taman Mastiara, Jalan 1/18B"
+      }, {
+        "code" : "T226",
+        "title" : "T226 Stesen LRT Taman Melati to Taman Melewar"
+      }, {
+        "code" : "T229",
+        "title" : "T229 Metro Prima to Bandar Baru Selayang"
+      }, {
+        "code" : "T231",
+        "title" : "T231 Stesen LRT Gombak to UIA"
+      }, {
+        "code" : "U1",
+        "title" : "U1 Pinggiran Batu Caves to Medan Pasar"
+      }, {
+        "code" : "U1(W)",
+        "title" : "U1 (W) Pinggiran Batu Caves to Medan Pasar"
+      }, {
+        "code" : "U10",
+        "title" : "U10 Pinggiran Batu Caves to Medan Pasar"
+      }, {
+        "code" : "U11",
+        "title" : "U11 Taman Sri Sinar to Medan Pasar"
+      }, {
+        "code" : "U12",
+        "title" : "U12 UIA Gombak to Medan Pasar"
+      }, {
+        "code" : "U13",
+        "title" : "U13 Taman Ehsan to Medan Pasar"
+      }, {
+        "code" : "U14",
+        "title" : "U14 Sri Segambut to Medan Pasar"
+      }, {
+        "code" : "U2",
+        "title" : "U2 Greenwood to Medan Pasar"
+      }, {
+        "code" : "U201",
+        "title" : "U201 Batu 12, Gombak to Chow Kit"
+      }, {
+        "code" : "U209",
+        "title" : "U209 Taman Selayang jaya to Medan Pasar"
+      }, {
+        "code" : "U222",
+        "title" : "U222 Jinjang Utara to Medan Pasar"
+      }, {
+        "code" : "U224",
+        "title" : "U224 Bandar Dato Senu to Kotaraya"
+      }, {
+        "code" : "U224(W)",
+        "title" : "U224 (W) Bandar Dato Senu to Kotaraya, Jalan Tun Tan Cheng"
+      }, {
+        "code" : "U2A",
+        "title" : "U2A Pinggiran Batu Caves to Medan Pasar"
+      }, {
+        "code" : "U3",
+        "title" : "U3 Bandar Baru Selayang to Medan Pasar"
+      }, {
+        "code" : "U4",
+        "title" : "U4 Desa Aman Puri to Medan Pasar"
+      }, {
+        "code" : "U5",
+        "title" : "U5 Stesen LRT Taman Melati to Medan Pasar"
+      }, {
+        "code" : "U6",
+        "title" : "U6 Pinggiran Batu Caves to Medan Pasar"
+      }, {
+        "code" : "U6(W)",
+        "title" : "U6 (W) Taman Jasa Utama to Medan Pasar"
+      }, {
+        "code" : "U7",
+        "title" : "U7 Segambut / Desa Sri Hartamas to Medan Pasar"
+      }, {
+        "code" : "U8",
+        "title" : "U8 Damansara Damai to Medan Pasar"
+      }, {
+        "code" : "U8(W)",
+        "title" : "U8 (W) Damansara Damai to Medan Pasar"
+      }
+    ],
+    "area" : "Area 2"
+  },
+  "result" : "OK"
+}
