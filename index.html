@@ -42,7 +42,16 @@ function initialize(){
   } catch(e) {console.error(e);}
   HCL.busLine.loadData(HCL.busLine.generateDOMRows);
   
+  HCL.searchController = HCL.searchController || new HCL.UI.search("inSearch");
   
+  // preload images
+  var image = [];
+  image[0] = new Image();
+  image[1] = new Image();
+  image[2] = new Image();
+  image[0].src = "//maps.gstatic.com/mapfiles/ms2/micons/green-dot.png";
+  image[1].src = "//maps.gstatic.com/mapfiles/ms2/micons/pink-dot.png";
+  image[2].src = "//maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png";
 }
 window.onload = loadScript;
 // ====================================
@@ -300,6 +309,7 @@ function generateDOMRow(inBusLineCode, inTitle) {
   </div>
   <div id="search">
     <input type="text" id="inSearch" placeholder="bus stop name or bus line code"></input><button type="button" id="inSearchButton">Search</button>
+    <div id="displaySearchResult"><div id="displaySearchResultBusStop"></div><hr><div id="displaySearchResultBusLine"></div></div>
   </div>
 
   <hr>

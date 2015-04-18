@@ -18,6 +18,27 @@ HCL.UI.search = function(inInputDomId, inOutputDomId) {
   var inputDom = document.getElementById(inInputDomId);
   var outputDom = document.getElementById(inOutputDomId);
   
+  inputDom.addEventListener('input', _search);
+  if(inputDom.value != "") {
+    _search();
+  }
+  
+  function _search() {
+    var inputText = inputDom.value;
+    console.log(inputText);
+    var resultBusStops = null;
+    var resultBusLines = null;
+    if(inputText.length > 0) {
+      // do search
+      resultBusLines = _searchBusLineByCode(inputText);
+      resultBusStops = _searchBusStopByName(inputText);
+      // display on DOM
+    } else {
+      return;
+    }
+    console.log("search", inputText, resultBusStops, resultBusLines);
+  }
+  
   /**
     Return array of bus line index.
   */
