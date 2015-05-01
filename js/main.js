@@ -183,6 +183,9 @@ HCL.busStop.addBusStop = function(inBusObject) {
   return index;
 };
 
+/**
+ *  Return index in the cache
+ */
 HCL.busStop.searchBusStop = function(inId) {
   var busStopsArray = HCL.busStop.cache;
   var arrayLength = busStopsArray.length;
@@ -193,6 +196,20 @@ HCL.busStop.searchBusStop = function(inId) {
     }
   }
   return -1;
+};
+
+HCL.busStop.toggleDisplayMarkerById = function(inId) {
+  
+};
+
+HCL.busStop.displayMarkerById = function(inId) {
+  
+  
+};
+
+HCL.busStop.hideMarkerById = function(inId) {
+  
+  
 };
 
 HCL.busStop.displayMarkerByIndex = function(inIndex) {
@@ -235,6 +252,60 @@ HCL.busStop.toggleDisplayAllMarker = function () {
   }
 };
 
+HCL.busStop.forcedHideAllMarker = function(inExceptStopId) {
+  var busStopsArray = HCL.busStop.cache;
+  var arrayLength = busStopsArray.length;
+  console.log("forcedHideAllMarker", inExceptStopId);
+  for(var i = 0; i < arrayLength; i++) {
+    if(undefined != inExceptStopId) {
+      if(busStopsArray[i].getId() == inExceptStopId) {
+        continue;
+      }
+    }
+    busStopsArray[i].forcedHideMarker();
+  }
+}
+
+HCL.busStop.loadStopData = function(inArray) {
+  
+  
+  $.ajax({
+    type: "GET",
+    dataType: "json",
+    url: "api/busStop/id/" + inArray.toString(),
+    success: function(inJson) {
+      console.log(inJson);
+      if(!inJson.data) {
+        console.error("Some error here.");
+        return ;
+      }
+      var dataLength = inJson.data.length;
+      for(var i = 0; i < dataLength; i++) {
+        var thisStop = inJson.data[i];
+        var cacheIndex = HCL.busStop.searchBusStop(thisStop.id);
+        
+        HCL.busStop.cache[cacheIndex].loadMoreData(thisStop);
+      }
+
+    },
+    error: function(xhr, status, errorThrown) {
+      console.error("error");
+    }
+  });
+}
+
+HCL.busStop.BusStopController = function(inId, inCode, inName, inLat, inLng, inMap) {
+  
+  
+  function _displayBusStop() {
+    
+  }
+  
+  function _hideBusStop() {
+    
+  }
+};
+
 HCL.busStop.BusStop = function() {
   var _code = "";
   var _id = 0;
@@ -254,6 +325,11 @@ HCL.busStop.BusStop = function() {
   var _displayingBusLegs = [];
   
   var _listenerZoomChanged = null;
+  var _listenerMouseOver = null;
+  var _listenerMouseOut = null;
+  var _listenerMouseClick = null;
+  
+  
   
   function _setCode(inCode) {
     _code = inCode.trim();
@@ -265,6 +341,7 @@ HCL.busStop.BusStop = function() {
   
   function _setId(inId) {
     _id = inId;
+    // HCL.busLine.loadStopData(inId, _loadMoreData);
   };
   
   function _getId() {
@@ -296,6 +373,15 @@ HCL.busStop.BusStop = function() {
     _map = inMap;
   }
   
+  function _loadMoreData(inJson) {
+    // console.log(inJson.busLine.length);
+    var allLegs = inJson.busLine;
+    var legsCount = inJson.busLine.length;
+    for(var i = 0; i < legsCount; i++) {
+      _addBusLine(allLegs[i].id, allLegs[i].code, allLegs[i].direction);
+    }
+  }
+  
   function _buildMarker() {
     if(_markerIsBuilt == true) {return;}
     
@@ -303,7 +389,7 @@ HCL.busStop.BusStop = function() {
     try {
       _marker = new google.maps.Marker();
       _markerOptions.position = new google.maps.LatLng(_lat, _lng);
-      
+      _markerOptions.clickable = true;
       var zoom = HCL.map._map.getZoom();
       if(zoom > 15) {
         _markerOptions.icon = '//maps.gstatic.com/mapfiles/ms2/micons/green-dot.png';
@@ -314,23 +400,6 @@ HCL.busStop.BusStop = function() {
       _markerIsBuilt = true;
       
       _markerIcon = _marker.getIcon();
-
-     
-      google.maps.event.addListener(_marker, 'mouseover', function(event) {
-        var domDisplayStopName = document.getElementById("displayBusStop");
-        domDisplayStopName.textContent = _name + " " + _getBusLineString();
-        
-        _markerIcon = _marker.getIcon();
-        _markerOptions.icon = '//maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png';
-        _marker.setOptions(_markerOptions);
-      });
-      
-      google.maps.event.addListener(_marker, 'mouseout', function(event) {
-        
-        _markerOptions.icon = _markerIcon;
-        _marker.setOptions(_markerOptions);
-      });
-
     } catch (error) {
       console.error(error);
     }
@@ -354,51 +423,69 @@ HCL.busStop.BusStop = function() {
       }
     }
     _displayingBusLegs.push(inBusLegIndex);
+    
     try {
       _marker.setMap(_map);
+      _listenerMouseOver = google.maps.event.addListener(_marker, 'mouseover', function(event) {
+        var domDisplayStopName = document.getElementById("displayBusStop");
+        var domDisplayBusLines = document.getElementById("displayBusLines");
+        
+        domDisplayStopName.textContent = _name;
+        domDisplayBusLines.textContent = _getBusLineString();
+        
+        _markerIcon = _marker.getIcon();
+        _markerOptions.icon = '//maps.gstatic.com/mapfiles/ms2/micons/ltblue-dot.png';
+        _marker.setOptions(_markerOptions);
+      });
+      
+      _listenerMouseOut = google.maps.event.addListener(_marker, 'mouseout', function(event) {
+        
+        _markerOptions.icon = _markerIcon;
+        _marker.setOptions(_markerOptions);
+      });
+      
+      _listenerMouseClick = google.maps.event.addListener(_marker, 'click', function(event) {
+        // event.latLng
+        // load bus legs
+        // HCL.busLeg.searchBusLegById();
+        console.log(event, "clicked");
+        HCL.busStop.forcedHideAllMarker(_getId());
+        console.log(_getBusLine());
+        var arrayBusLine = _getBusLine();
+        var arrayLength = arrayBusLine.length;
+        for(var i = 0; i < arrayLength; i++) {
+          console.log(arrayBusLine[i]);
+          HCL.busLine.toggleDisplay(arrayBusLine[i].lineCode, arrayBusLine[i].direction, false);
+        }
+      });
+
     } catch(error) {
       console.error(error);
     }
     
     _markerIsDisplaying = true;
-    /*
-    _listenerZoomChanged = google.maps.event.addListener(HCL.map._map, 'zoom_changed', function(){
-      
-      var zoom = HCL.map._map.getZoom();
-      console.log("zoom changed: ", zoom);
-      if(zoom > 15) {
-        _markerOptions.icon = '//maps.gstatic.com/mapfiles/ms2/micons/green-dot.png';
-      } else {
-        _markerOptions.icon = '//maps.gstatic.com/mapfiles/ms2/micons/pink-dot.png';
-      }
-      
-      _marker.setOptions(_markerOptions);
-      _markerIcon = _marker.getIcon();
-    });
-    */
   }
   
-  function _hideMarker(inBusLegIndex) { // console.log("_hideMarker", inBusLegIndex); //console.trace();
+  function _hideMarker(inBusLegIndex) {
     if(_markerIsDisplaying === false) { return; }
-    // console.log(_displayingBusLegs);
+    // console.trace();console.log(arguments);
     var index = _displayingBusLegs.indexOf(inBusLegIndex);
-    var removed = _displayingBusLegs.splice(index, 1);  // remove 1 item at index
-    // console.log("_displayingBusLegs.length", _displayingBusLegs.length, "removed", removed, _displayingBusLegs);
+    var removed = _displayingBusLegs.splice(index, 1);  // remove 1 item at "index"
+    
     if(_displayingBusLegs.length > 0) { return; }
     
     try {
       _marker.setMap(null);
+      google.maps.event.removeListener(_listenerMouseOver);
+      google.maps.event.removeListener(_listenerMouseOut);
     } catch(error) {console.error(error);}
     _markerIsDisplaying = false;
     
-    // google.maps.event.removeListener(_listenerZoomChanged);
   }
   
   function _toggleDisplayMarker(inBusLegIndex) {
-    
-    
     var index = _displayingBusLegs.indexOf(inBusLegIndex);
-    // console.log("_markerIsDisplaying: ", _markerIsDisplaying, inBusLegIndex, "at index", index);
+
     if(-1 < index) {
       // already in list, so hide it
       _hideMarker(inBusLegIndex);
@@ -406,27 +493,58 @@ HCL.busStop.BusStop = function() {
       // not found in list, so display it
       _displayMarker(inBusLegIndex);
     }
-    /*
-    if(_markerIsDisplaying === true) {
-      _hideMarker(inBusLegIndex);
-    } else {
-      _displayMarker(inBusLegIndex);
-    }
-    */
+  };
+  
+  function _forcedHideMarker() {
+    if(_markerIsDisplaying === false) { return; }
+    _displayingBusLegs.length = 0;
+    try {
+      _marker.setMap(null);
+      google.maps.event.removeListener(_listenerMouseOver);
+      google.maps.event.removeListener(_listenerMouseOut);
+
+    } catch(error) {console.error(error);}
+    _markerIsDisplaying = false;
+  }
+  
+  function _isDisplaying() {
+    return _markerIsDisplaying;
   };
   
   function _showDisplayingBusLegs() {
     return _displayingBusLegs.toString();
   };
   
-  function _addBusLine(inLineCode, inDirection) {
+  function _toggleDisplayBusLeg(inIndex) {
+    if(_isDisplayingBusLeg) {
+      _hideBusLeg(inIndex);
+    } else {
+      _displayBusLeg(inIndex);
+    }
+  }
+  
+  function _displayBusLeg(inIndex) {
+    HCL.busLeg.displayBusLegByIndex(inIndex);
+    
+  }
+  
+  function _hideBusLeg(inIndex) {
+    HCL.busLeg.hideBusLegByIndex(inIndex);
+  }
+  
+  function _displayBusLegById(inId, inDirection) {
+    
+  }
+  
+  function _addBusLine(inLineId, inLineCode, inDirection) {
+    // console.log(arguments);console.trace()
     //example: {lineCode: "B123", direction: 1}
     if(inLineCode == undefined) { console.error("Line code must be defined."); return; }
     if(inDirection == undefined) { console.error("Direction must be defined."); return; }
     
-    var index = _searchBusLine(inLineCode, inDirection);
+    var index = _searchBusLineById(inLineId, inDirection);
     if(-1 == index) {
-      index = _busLines.push({lineCode: inLineCode, direction: inDirection}) - 1;
+      index = _busLines.push({"lineId": inLineId, "lineCode": inLineCode, "direction": inDirection}) - 1;
     }
     // console.log("busstop", _id, "_addBusLine", inLineCode, "inDirection", inDirection, "at index", index);
     return index;
@@ -437,6 +555,17 @@ HCL.busStop.BusStop = function() {
     
     for(var i = 0; i < arrayLength; i++) {
      if(_busLines[i].lineCode == inLineCode && _busLines[i].direction == inDirection) {
+       return i;
+     } 
+    }
+    return -1;
+  };
+  
+  function _searchBusLineById(inLineId, inDirection) {
+    var arrayLength = _busLines.length;
+    
+    for(var i = 0; i < arrayLength; i++) {
+     if(_busLines[i].lineId == inLineId && _busLines[i].direction == inDirection) {
        return i;
      } 
     }
@@ -498,7 +627,8 @@ HCL.busStop.BusStop = function() {
   }
   
   function _toString() {
-    return "BusStop " + _name + " code: " + _code + " at " + _lat + "," + _lng + ".";
+    // return "BusStop " + _name + " code: " + _code + " at " + _lat + "," + _lng + ".";
+    return JSON.serialize(this);
   };
   
   return {
@@ -515,8 +645,10 @@ HCL.busStop.BusStop = function() {
     buildMarker: _buildMarker,
     displayMarker: _displayMarker,
     hideMarker: _hideMarker,
+    forcedHideMarker: _forcedHideMarker,
     toggleDisplayMarker: _toggleDisplayMarker,
     showDisplayingBusLegs: _showDisplayingBusLegs,
+    loadMoreData: _loadMoreData,
     addBusLine: _addBusLine,
     searchBusLine: _searchBusLine,
     getBusLine: _getBusLine,
@@ -611,7 +743,21 @@ HCL.busLeg.searchBusLeg = function(inLineCode, inDirection) {
   return -1;
 };
 
-HCL.busLeg.displayBugLegByIndex = function(inIndex) {
+HCL.busLeg.searchBusLegById = function(inRouteId, inDirection) {
+  var cacheArray = HCL.busLeg.cache;
+  var cacheLength = cacheArray.length;
+  
+  for(var i = 0; i < cacheLength; i++) {
+    console.log(cacheArray[i])
+    if(cacheArray[i].getRouteId() == inRouteId && cacheArray[i].getDirection() == inDirection) {
+      return i;
+    }
+  }
+  
+  return -1;
+};
+
+HCL.busLeg.displayBusLegByIndex = function(inIndex) {
   if(HCL.busLeg.cache[inIndex] == undefined) {
     console.error("Index " + inIndex + " has nothing here!");
     return;
@@ -619,3 +765,13 @@ HCL.busLeg.displayBugLegByIndex = function(inIndex) {
   
   HCL.busLeg.cache[inIndex].displayPolyline();
 };
+
+HCL.busLeg.hideBusLegByIndex = function(inIndex) {
+  if(HCL.busLeg.cache[inIndex] == undefined) {
+    console.error("Index " + inIndex + " has nothing here!");
+    return;
+  }
+  
+  HCL.busLeg.cache[inIndex].removePolyline();
+
+}

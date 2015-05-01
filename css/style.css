@@ -4,15 +4,34 @@ html, body {
   padding: 0px;
 }
 
+#content-container {
+  height: 100%;
+  margin: 0px;
+}
+
+#outer-map-canvas {
+  padding-left: 300px;
+}
+
 #map-canvas {
   height: 100%;
-  width: 900px;
-  float: left;
+  width: inherit;
+  
+  
+  
+  position: absolute;
+  margin: 0px;
+  z-index: 500;
+  
 }
 
 #tools {
   height: 100%;
   overflow-y: scroll;
+  
+  position: absolute;
+  width: 300px;
+  z-index: 1000;
 }
 
 #businfodisplay {

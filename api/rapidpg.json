@@ -1,0 +1,4729 @@
+{
+  "bstop" : [{
+      "id" : "B0615",
+      "code" : "3\/A\/GLCE01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0629",
+      "code" : "3\/B\/GLCE01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0002",
+      "code" : "1\/A\/LCHU01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0139",
+      "code" : "1\/B\/LCHU01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0613",
+      "code" : "3\/A\/GMCM01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0631",
+      "code" : "3\/B\/GMCM01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0417",
+      "code" : "3\/B\/HLPM01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0418",
+      "code" : "3\/B\/HLPM02",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0419",
+      "code" : "3\/B\/HLPM03",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0423",
+      "code" : "3\/A\/HLPM01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0422",
+      "code" : "3\/A\/HLPM02",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0421",
+      "code" : "3\/A\/HLPM03",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0424",
+      "code" : "3\/A\/HLPM04",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0371",
+      "code" : "2\/B\/JANG01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0370",
+      "code" : "2\/B\/JANG02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0359",
+      "code" : "2\/A\/JANG01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0242",
+      "code" : "1\/B\/JANS01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0915",
+      "code" : "1\/B\/JANS02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0916",
+      "code" : "1\/B\/JANS03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0928",
+      "code" : "1\/A\/JANS01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0913",
+      "code" : "1\/A\/JARR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0288",
+      "code" : "2\/A\/JAYI01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0346",
+      "code" : "2\/B\/JAYI01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0345",
+      "code" : "2\/B\/JAYI02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0344",
+      "code" : "2\/B\/JAYI03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0343",
+      "code" : "2\/B\/JAYI04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0342",
+      "code" : "2\/B\/JAYI05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0353",
+      "code" : "2\/B\/JAYI06",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0335",
+      "code" : "2\/B\/JAYI07",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0334",
+      "code" : "2\/B\/JAYI08",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0333",
+      "code" : "2\/B\/JAYI09",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0332",
+      "code" : "2\/B\/JAYI10",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0378",
+      "code" : "2\/B\/JAYI11",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0379",
+      "code" : "2\/B\/JAYI12",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0293",
+      "code" : "2\/B\/JAYI13",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0289",
+      "code" : "2\/A\/JAYI02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0290",
+      "code" : "2\/A\/JAYI03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0291",
+      "code" : "2\/A\/JAYI04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0292",
+      "code" : "2\/A\/JAYI05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0300",
+      "code" : "2\/A\/JAYI07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0301",
+      "code" : "2\/A\/JAYI08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0302",
+      "code" : "2\/A\/JAYI09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0304",
+      "code" : "2\/A\/JAYI11",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0377",
+      "code" : "2\/A\/JAYI12",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0303",
+      "code" : "H\/A\/JAYI00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0646",
+      "code" : "3\/B\/JAIB01",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0640",
+      "code" : "3\/A\/JAIB01",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0273",
+      "code" : "1\/B\/JAZY01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0254",
+      "code" : "1\/A\/JAZY01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0023",
+      "code" : "1\/A\/JBGJ01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0024",
+      "code" : "1\/A\/JBGJ02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0117",
+      "code" : "1\/B\/JBGJ01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0116",
+      "code" : "1\/B\/JBGJ02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0115",
+      "code" : "1\/B\/JBGJ03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0331",
+      "code" : "2\/B\/JBLP01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0735",
+      "code" : "4\/A\/JBPL03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0736",
+      "code" : "4\/A\/JBPL04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0737",
+      "code" : "4\/A\/JBPL05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0738",
+      "code" : "4\/A\/JBPL06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0739",
+      "code" : "4\/A\/JBPL08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0740",
+      "code" : "4\/A\/JBPL09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0741",
+      "code" : "4\/A\/JBPL10",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0742",
+      "code" : "4\/A\/JBPL11",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0733",
+      "code" : "4\/A\/JBPL13",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0734",
+      "code" : "H\/A\/PKGT00",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0753",
+      "code" : "4\/B\/JBPL02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0752",
+      "code" : "4\/B\/JBPL03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0751",
+      "code" : "4\/B\/JBPL04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0750",
+      "code" : "4\/B\/JBPL05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0749",
+      "code" : "4\/B\/JBPL06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0748",
+      "code" : "4\/B\/JBPL07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0747",
+      "code" : "4\/B\/JBPL08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0746",
+      "code" : "4\/B\/JBPL09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0745",
+      "code" : "4\/B\/JBPL10",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0754",
+      "code" : "4\/B\/JBPL12",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0755",
+      "code" : "4\/B\/JBPL13",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0800",
+      "code" : "4\/B\/JBAR16",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0799",
+      "code" : "4\/B\/JBAR17",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0804",
+      "code" : "4\/B\/JBAR12",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0803",
+      "code" : "4\/B\/JBAR13",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0802",
+      "code" : "4\/B\/JBAR14",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0801",
+      "code" : "4\/B\/JBAR15",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0818",
+      "code" : "4\/B\/JBAR01",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0817",
+      "code" : "4\/B\/JBAR02",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0815",
+      "code" : "4\/B\/JBAR03",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0814",
+      "code" : "4\/B\/JBAR04",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0813",
+      "code" : "4\/B\/JBAR05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0811",
+      "code" : "4\/B\/JBAR06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0809",
+      "code" : "4\/B\/JBAR07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0816",
+      "code" : "4\/B\/JBAR09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0812",
+      "code" : "4\/B\/JBAR10",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0810",
+      "code" : "4\/B\/JBAR11",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0768",
+      "code" : "4\/A\/JBAR01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0769",
+      "code" : "4\/A\/JBAR02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0770",
+      "code" : "4\/A\/JBAR03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0771",
+      "code" : "4\/A\/JBAR04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0772",
+      "code" : "4\/A\/JBAR05",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0779",
+      "code" : "4\/A\/JBAR06",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0780",
+      "code" : "4\/A\/JBAR07",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0781",
+      "code" : "4\/A\/JBAR08",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0564",
+      "code" : "3\/B\/JBBM01",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0563",
+      "code" : "3\/B\/JBBM03",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0558",
+      "code" : "3\/A\/JBBM01",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0559",
+      "code" : "3\/A\/JBBM02",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0649",
+      "code" : "3\/A\/JBBM03",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0650",
+      "code" : "3\/A\/JBBM04",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0651",
+      "code" : "3\/A\/JBBM05",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0560",
+      "code" : "3\/A\/JBTM03",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0561",
+      "code" : "3\/A\/JBTM04",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0562",
+      "code" : "3\/A\/JBTM05",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0097",
+      "code" : "1\/B\/JBTF01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0096",
+      "code" : "1\/B\/JBTF02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0095",
+      "code" : "1\/B\/JBTF03",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0094",
+      "code" : "1\/B\/JBTF04",
+      "zone" : "Batu Maung",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0093",
+      "code" : "1\/B\/JBTF05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0092",
+      "code" : "1\/B\/JBTF06",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0091",
+      "code" : "1\/B\/JBTF07",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0090",
+      "code" : "1\/B\/JBTF08",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0088",
+      "code" : "1\/B\/JBTF09",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0087",
+      "code" : "1\/B\/JBTF10",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0086",
+      "code" : "1\/B\/JBTF11",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0085",
+      "code" : "1\/B\/JBTF12",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0084",
+      "code" : "1\/B\/JBTF13",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0083",
+      "code" : "1\/B\/JBTF14",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0082",
+      "code" : "1\/B\/JBTF15",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0081",
+      "code" : "1\/B\/JBTF16",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0080",
+      "code" : "1\/B\/JBTF17",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0079",
+      "code" : "1\/B\/JBTF19",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0078",
+      "code" : "1\/B\/JBTF20",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0089",
+      "code" : "1\/B\/JBTF21",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0044",
+      "code" : "1\/A\/JBTF01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0045",
+      "code" : "1\/A\/JBTF02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0046",
+      "code" : "1\/A\/JBTF03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0047",
+      "code" : "1\/A\/JBTF04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0048",
+      "code" : "1\/A\/JBTF05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0049",
+      "code" : "1\/A\/JBTF06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0050",
+      "code" : "1\/A\/JBTF07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0051",
+      "code" : "1\/A\/JBTF08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0052",
+      "code" : "1\/A\/JBTF09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0053",
+      "code" : "1\/A\/JBTF10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0054",
+      "code" : "1\/A\/JBTF11",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0055",
+      "code" : "1\/A\/JBTF12",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10400"
+    }, {
+      "id" : "B0056",
+      "code" : "1\/A\/JBTF13",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0057",
+      "code" : "1\/A\/JBTF14",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0058",
+      "code" : "1\/A\/JBTF15",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0059",
+      "code" : "1\/A\/JBTF16",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0060",
+      "code" : "1\/A\/JBTF17",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0061",
+      "code" : "1\/A\/JBTF18",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0062",
+      "code" : "1\/A\/JBTF19",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0063",
+      "code" : "1\/A\/JBTF20",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0556",
+      "code" : "3\/A\/JBTM01",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0557",
+      "code" : "3\/A\/JBTM02",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0567",
+      "code" : "3\/B\/JBTM01",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0566",
+      "code" : "3\/B\/JBTM02",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0565",
+      "code" : "H\/A\/HBTM00",
+      "zone" : "Batu Maung",
+      "pcode" : "11960"
+    }, {
+      "id" : "B0536",
+      "code" : "4\/B\/JBYL01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0535",
+      "code" : "4\/B\/JBYL02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0708",
+      "code" : "4\/B\/JBYL04",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0707",
+      "code" : "4\/B\/JBYL05",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0706",
+      "code" : "4\/B\/JBYL06",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0704",
+      "code" : "4\/B\/JBYL07",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0705",
+      "code" : "4\/B\/JBYL08",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0537",
+      "code" : "4\/A\/JBYL01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0538",
+      "code" : "4\/A\/JBYL02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0539",
+      "code" : "4\/A\/JBYL03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0710",
+      "code" : "4\/A\/JBYL04",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0711",
+      "code" : "4\/A\/JBYL05",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0712",
+      "code" : "4\/A\/JBYL06",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0713",
+      "code" : "4\/A\/JBYL07",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0404",
+      "code" : "2\/A\/JBSI01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0405",
+      "code" : "2\/A\/JBSI02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0249",
+      "code" : "1\/A\/JBTG01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0278",
+      "code" : "1\/B\/JBTG01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0446",
+      "code" : "3\/B\/JBKL01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0389",
+      "code" : "H\/A\/JBKT00",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0388",
+      "code" : "2\/A\/JBKT03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0386",
+      "code" : "2\/A\/JBKT01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0387",
+      "code" : "2\/A\/JBKT02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0390",
+      "code" : "2\/B\/JBKT02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0415",
+      "code" : "2\/A\/JBGB01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0464",
+      "code" : "3\/A\/JBGB11",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0465",
+      "code" : "3\/A\/JBGB12",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0426",
+      "code" : "3\/A\/JBGB01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0507",
+      "code" : "3\/A\/JBGB02",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0508",
+      "code" : "3\/A\/JBGB03",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0509",
+      "code" : "3\/A\/JBGB04",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0510",
+      "code" : "3\/A\/JBGB05",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0511",
+      "code" : "3\/A\/JBGB06",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0512",
+      "code" : "3\/A\/JBGB07",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0513",
+      "code" : "3\/A\/JBGB08",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0514",
+      "code" : "3\/A\/JBGB09",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0463",
+      "code" : "3\/A\/JBGB10",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0604",
+      "code" : "3\/B\/JBGB09",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0606",
+      "code" : "3\/B\/JBGB07",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0605",
+      "code" : "3\/B\/JBGB08",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0610",
+      "code" : "3\/B\/JBGB03",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0609",
+      "code" : "3\/B\/JBGB04",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0608",
+      "code" : "3\/B\/JBGB05",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0607",
+      "code" : "3\/B\/JBGB06",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0119",
+      "code" : "1\/B\/JBRM11",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0118",
+      "code" : "1\/B\/JBRM12",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0123",
+      "code" : "1\/B\/JBRM07",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0122",
+      "code" : "1\/B\/JBRM08",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0121",
+      "code" : "1\/B\/JBRM09",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0120",
+      "code" : "1\/B\/JBRM10",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0124",
+      "code" : "1\/B\/JBRM06",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0022",
+      "code" : "1\/A\/JBRM11",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0011",
+      "code" : "1\/A\/JBRM01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0012",
+      "code" : "1\/A\/JBRM02",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0013",
+      "code" : "1\/A\/JBRM03",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0014",
+      "code" : "1\/A\/JBRM04",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0015",
+      "code" : "1\/A\/JBRM05",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0017",
+      "code" : "1\/A\/JBRM06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0018",
+      "code" : "1\/A\/JBRM07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0019",
+      "code" : "1\/A\/JBRM08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0020",
+      "code" : "1\/A\/JBRM09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0021",
+      "code" : "1\/A\/JBRM10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0637",
+      "code" : "1\/A\/JCAN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0638",
+      "code" : "1\/A\/JCAN02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0231",
+      "code" : "1\/A\/JCST01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0521",
+      "code" : "3\/A\/JDIH01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0522",
+      "code" : "3\/A\/JDIH02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0523",
+      "code" : "3\/A\/JDIH03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0524",
+      "code" : "3\/A\/JDIH04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0525",
+      "code" : "3\/A\/JDIH05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0526",
+      "code" : "3\/A\/JDIH06",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0527",
+      "code" : "3\/A\/JDIH07",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0528",
+      "code" : "3\/A\/JDIH08",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0531",
+      "code" : "3\/A\/JDIH09",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0532",
+      "code" : "3\/A\/JDIH10",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0533",
+      "code" : "3\/A\/JDIH11",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0534",
+      "code" : "3\/A\/JDIH12",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0471",
+      "code" : "3\/A\/JDIH15",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0594",
+      "code" : "3\/B\/JDIH01",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0593",
+      "code" : "3\/B\/JDIH02",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0592",
+      "code" : "3\/B\/JDIH03",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0591",
+      "code" : "3\/B\/JDIH04",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0590",
+      "code" : "3\/B\/JDIH05",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0588",
+      "code" : "3\/B\/JDIH06",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0587",
+      "code" : "3\/B\/JDIH08",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0586",
+      "code" : "3\/B\/JDIH09",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0585",
+      "code" : "3\/B\/JDIH10",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0584",
+      "code" : "3\/B\/JDIH11",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0583",
+      "code" : "3\/B\/JDIH12",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0589",
+      "code" : "3\/B\/JDIH13",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0481",
+      "code" : "3\/B\/JDIH15",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0282",
+      "code" : "2\/A\/JDTK01",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0283",
+      "code" : "2\/A\/JDTK02",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0284",
+      "code" : "2\/A\/JDTK03",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0285",
+      "code" : "2\/A\/JDTK04",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0286",
+      "code" : "2\/A\/JDTK05",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0287",
+      "code" : "2\/A\/JDTK06",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0351",
+      "code" : "2\/B\/JDTK01",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0350",
+      "code" : "2\/B\/JDTK02",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0349",
+      "code" : "2\/B\/JDTK03",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0348",
+      "code" : "2\/B\/JDTK04",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0347",
+      "code" : "2\/B\/JDTK05",
+      "zone" : "Perai",
+      "pcode" : "13600"
+    }, {
+      "id" : "B0428",
+      "code" : "2\/B\/JDLM04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0427",
+      "code" : "2\/B\/JDLM05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0430",
+      "code" : "2\/B\/JDLM02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0429",
+      "code" : "2\/B\/JDLM03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0411",
+      "code" : "2\/A\/JDLM02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0412",
+      "code" : "2\/A\/JDLM03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0413",
+      "code" : "2\/A\/JDLM04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0414",
+      "code" : "2\/A\/JDLM05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0410",
+      "code" : "2\/A\/JDLM01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0503",
+      "code" : "3\/B\/JLCL01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0248",
+      "code" : "1\/A\/JEVG01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0279",
+      "code" : "1\/B\/JEVG01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0280",
+      "code" : "1\/B\/JFTS01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0247",
+      "code" : "1\/A\/JFTS01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0250",
+      "code" : "1\/A\/JGJH01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0276",
+      "code" : "1\/B\/JGJH02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0277",
+      "code" : "1\/B\/JGJH03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0406",
+      "code" : "2\/A\/JGSA01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0407",
+      "code" : "2\/A\/JGSA02",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0455",
+      "code" : "3\/A\/JGLG01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0456",
+      "code" : "3\/A\/JGLG02",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0625",
+      "code" : "3\/B\/JGLG01",
+      "zone" : "Gelugor",
+      "pcode" : "11700"
+    }, {
+      "id" : "B0690",
+      "code" : "3\/B\/JGSG01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0688",
+      "code" : "3\/B\/JGSG02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0687",
+      "code" : "3\/B\/JGSG03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0691",
+      "code" : "3\/B\/JGSG05",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0689",
+      "code" : "3\/B\/JGSG06",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0686",
+      "code" : "3\/B\/JGSG07",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0703",
+      "code" : "3\/B\/JGTS01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0702",
+      "code" : "3\/B\/JGTS02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0685",
+      "code" : "H\/A\/GTSG00",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0724",
+      "code" : "3\/A\/JGSG01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0726",
+      "code" : "3\/A\/JGSG02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0727",
+      "code" : "3\/A\/JGSG03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0725",
+      "code" : "3\/A\/JGSG04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0714",
+      "code" : "3\/A\/JGTS01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0715",
+      "code" : "3\/A\/JGTS02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11910"
+    }, {
+      "id" : "B0181",
+      "code" : "1\/B\/JGTB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0179",
+      "code" : "1\/B\/JGTB02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0180",
+      "code" : "1\/B\/JGTB03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0177",
+      "code" : "1\/A\/JGTB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0178",
+      "code" : "1\/A\/JGTB02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0506",
+      "code" : "3\/A\/JGUR01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0402",
+      "code" : "2\/A\/JHML01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0403",
+      "code" : "2\/A\/JHML02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0433",
+      "code" : "2\/B\/JHML01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0066",
+      "code" : "1\/A\/JHSA01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0067",
+      "code" : "1\/A\/JHSA02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0068",
+      "code" : "1\/A\/JHSA03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0069",
+      "code" : "1\/A\/JHSA04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0070",
+      "code" : "1\/A\/JHSA05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0074",
+      "code" : "1\/B\/JHSA01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0073",
+      "code" : "1\/B\/JHSA02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0072",
+      "code" : "1\/B\/JHSA03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0071",
+      "code" : "1\/B\/JHSA04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0929",
+      "code" : "1\/A\/JHTN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0448",
+      "code" : "3\/A\/JJLT01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0449",
+      "code" : "3\/A\/JJLT02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0450",
+      "code" : "3\/A\/JJLT03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0451",
+      "code" : "3\/A\/JJLT04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0452",
+      "code" : "3\/A\/JJLT05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0453",
+      "code" : "3\/A\/JJLT06",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0454",
+      "code" : "3\/A\/JJLT07",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0501",
+      "code" : "3\/B\/JJLT02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0500",
+      "code" : "3\/B\/JJLT03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0499",
+      "code" : "3\/B\/JJLT04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0498",
+      "code" : "3\/B\/JJLT05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0497",
+      "code" : "3\/B\/JJLT06",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0627",
+      "code" : "3\/B\/JJLT07",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0626",
+      "code" : "3\/B\/JJLT08",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0505",
+      "code" : "3\/B\/JKKL01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0442",
+      "code" : "3\/A\/JKKL01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0719",
+      "code" : "3\/A\/JKPM01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0720",
+      "code" : "3\/A\/JKPM02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0721",
+      "code" : "3\/A\/JKPM03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0722",
+      "code" : "3\/A\/JKPM04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0723",
+      "code" : "3\/A\/JKPM05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0697",
+      "code" : "3\/B\/JKPM01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0695",
+      "code" : "3\/B\/JKPM02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0694",
+      "code" : "3\/B\/JKPM03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0693",
+      "code" : "3\/B\/JKPM04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0692",
+      "code" : "3\/B\/JKPM05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0696",
+      "code" : "3\/B\/JKPM06",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0393",
+      "code" : "2\/B\/JKPM02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0392",
+      "code" : "2\/B\/JKPM03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0380",
+      "code" : "2\/A\/JKPM01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0381",
+      "code" : "2\/A\/JKPM02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0382",
+      "code" : "2\/A\/JKPM03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0384",
+      "code" : "2\/A\/JKPP01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0385",
+      "code" : "2\/A\/JKPP02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0391",
+      "code" : "2\/B\/JKPP01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0485",
+      "code" : "3\/B\/JKPR01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0486",
+      "code" : "3\/B\/JKPR02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0785",
+      "code" : "4\/A\/JKTR01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0786",
+      "code" : "4\/A\/JKTR02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0787",
+      "code" : "4\/A\/JKTR03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0788",
+      "code" : "4\/A\/JKTR04",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0795",
+      "code" : "H\/A\/HPLB00",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0798",
+      "code" : "4\/B\/JKTR08",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0797",
+      "code" : "4\/B\/JKTR09",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0796",
+      "code" : "4\/B\/JKTR10",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0789",
+      "code" : "4\/A\/JKTR05",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0790",
+      "code" : "4\/A\/JKTR06",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0791",
+      "code" : "4\/A\/JKTR07",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0792",
+      "code" : "4\/A\/JKTR08",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0793",
+      "code" : "4\/A\/JKTR09",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0794",
+      "code" : "4\/A\/JKTR10",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0922",
+      "code" : "H\/A\/HKBG00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0921",
+      "code" : "1\/A\/JKBG01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0925",
+      "code" : "1\/B\/JKBG02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0924",
+      "code" : "1\/B\/JKBG03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0923",
+      "code" : "1\/B\/JKBG04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0239",
+      "code" : "1\/B\/JKLW01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0238",
+      "code" : "1\/B\/JKLW02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0237",
+      "code" : "1\/B\/JKLW03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0236",
+      "code" : "1\/B\/JKLW04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0235",
+      "code" : "1\/B\/JKLW06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0234",
+      "code" : "1\/B\/JKLW07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0225",
+      "code" : "1\/A\/JKLW01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0226",
+      "code" : "1\/A\/JKLW02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0227",
+      "code" : "1\/A\/JKLW03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0228",
+      "code" : "1\/A\/JKLW04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0229",
+      "code" : "1\/A\/JKLW05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0230",
+      "code" : "1\/A\/JKLW06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0773",
+      "code" : "4\/A\/JKJB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0774",
+      "code" : "4\/A\/JKJB02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0775",
+      "code" : "4\/A\/JKJB03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0776",
+      "code" : "4\/A\/JKJB04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0777",
+      "code" : "4\/A\/JKJB05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0778",
+      "code" : "4\/A\/JKJB06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0838",
+      "code" : "4\/A\/JKSP01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0839",
+      "code" : "4\/A\/JKSP02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0840",
+      "code" : "4\/A\/JKSP03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0841",
+      "code" : "4\/A\/JKSP04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0842",
+      "code" : "4\/A\/JKSP05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0843",
+      "code" : "4\/A\/JKSP06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0914",
+      "code" : "1\/A\/JLAR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0425",
+      "code" : "3\/A\/JLMB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0416",
+      "code" : "3\/B\/JLMB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0259",
+      "code" : "1\/A\/JLPM01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0260",
+      "code" : "1\/A\/JLPM02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0261",
+      "code" : "1\/A\/JLPM03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0262",
+      "code" : "1\/A\/JLPM04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0263",
+      "code" : "1\/A\/JLPM05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0264",
+      "code" : "1\/A\/JLPM06",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0268",
+      "code" : "1\/B\/JLPM01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0267",
+      "code" : "1\/B\/JLPM02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0266",
+      "code" : "1\/B\/JLPM03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0265",
+      "code" : "1\/B\/JLPM05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0274",
+      "code" : "1\/B\/JLPH01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0253",
+      "code" : "1\/A\/JLPH01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0918",
+      "code" : "1\/A\/JMCA09",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0185",
+      "code" : "1\/B\/JMCA01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0127",
+      "code" : "1\/B\/JMCA02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0128",
+      "code" : "1\/B\/JMCA03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0129",
+      "code" : "1\/B\/JMCA04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0130",
+      "code" : "1\/B\/JMCA05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0131",
+      "code" : "1\/B\/JMCA06",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0186",
+      "code" : "1\/B\/JMCA07",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0187",
+      "code" : "1\/B\/JMCA08",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0632",
+      "code" : "3\/A\/JMGN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0633",
+      "code" : "3\/A\/JMGN02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0516",
+      "code" : "3\/A\/JMAH02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0515",
+      "code" : "3\/A\/JMAH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0601",
+      "code" : "3\/B\/JMAH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0600",
+      "code" : "3\/B\/JMAH02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0910",
+      "code" : "1\/B\/JMKL01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0165",
+      "code" : "2\/B\/JMJN01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0166",
+      "code" : "2\/B\/JMJN02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0167",
+      "code" : "2\/B\/JMJN03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0168",
+      "code" : "2\/B\/JMJN04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0169",
+      "code" : "2\/B\/JMJN05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0170",
+      "code" : "2\/B\/JMJN06",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0171",
+      "code" : "2\/B\/JMJN07",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0198",
+      "code" : "2\/A\/JMJN01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0197",
+      "code" : "2\/A\/JMJN02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0196",
+      "code" : "2\/A\/JMJN03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0195",
+      "code" : "2\/A\/JMJN04",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0194",
+      "code" : "2\/A\/JMJN05",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0193",
+      "code" : "2\/A\/JMJN07",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0517",
+      "code" : "3\/A\/JMYP01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0518",
+      "code" : "3\/A\/JMYP02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0620",
+      "code" : "3\/A\/JMYP04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0599",
+      "code" : "3\/B\/JMYP01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0597",
+      "code" : "3\/B\/JMYP02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0598",
+      "code" : "3\/B\/JMYP03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0624",
+      "code" : "3\/B\/JMYP04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0623",
+      "code" : "H\/B\/JMYP00",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0675",
+      "code" : "H\/A\/HBBR00",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0437",
+      "code" : "2\/B\/JPRL01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0436",
+      "code" : "2\/B\/JPRL02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0435",
+      "code" : "2\/B\/JPRL03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0398",
+      "code" : "2\/A\/JPRL01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0399",
+      "code" : "2\/A\/JPRL02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0400",
+      "code" : "2\/A\/JPRL03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0297",
+      "code" : "2\/A\/JPDT04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0294",
+      "code" : "2\/A\/JPDT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0295",
+      "code" : "2\/A\/JPDT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0296",
+      "code" : "2\/A\/JPDT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0341",
+      "code" : "2\/B\/JPDT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0340",
+      "code" : "2\/B\/JPDT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0339",
+      "code" : "2\/B\/JPDT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11400"
+    }, {
+      "id" : "B0224",
+      "code" : "1\/A\/JPKR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0853",
+      "code" : "H\/B\/HPTA00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0846",
+      "code" : "4\/A\/JPAC01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0847",
+      "code" : "4\/A\/JPAC02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0848",
+      "code" : "4\/A\/JPAC03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0849",
+      "code" : "4\/A\/JPAC04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0850",
+      "code" : "4\/A\/JPAC05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0851",
+      "code" : "4\/A\/JPAC06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0852",
+      "code" : "4\/A\/JPAC07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0861",
+      "code" : "4\/B\/JPAC01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0860",
+      "code" : "4\/B\/JPAC02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0859",
+      "code" : "4\/B\/JPAC03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0858",
+      "code" : "4\/B\/JPAC04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0856",
+      "code" : "4\/B\/JPAC05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0855",
+      "code" : "4\/B\/JPAC06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0854",
+      "code" : "4\/B\/JPAC07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0857",
+      "code" : "4\/B\/JPAC08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0330",
+      "code" : "2\/B\/JPSR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0441",
+      "code" : "2\/B\/JPTN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0440",
+      "code" : "2\/B\/JPTN03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0394",
+      "code" : "2\/A\/JPTN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0395",
+      "code" : "2\/A\/JPTN02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0305",
+      "code" : "2\/A\/JPYT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0306",
+      "code" : "2\/A\/JPYT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0307",
+      "code" : "2\/A\/JPYT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0308",
+      "code" : "2\/A\/JPYT04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0309",
+      "code" : "2\/A\/JPYT05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0310",
+      "code" : "2\/A\/JPYT06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0311",
+      "code" : "2\/A\/JPYT07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0312",
+      "code" : "2\/A\/JPYT08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0313",
+      "code" : "2\/A\/JPYT09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0314",
+      "code" : "2\/A\/JPYT10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0663",
+      "code" : "2\/A\/JPYT12",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0664",
+      "code" : "2\/A\/JPYT13",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0328",
+      "code" : "2\/B\/JPYT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0327",
+      "code" : "2\/B\/JPYT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0326",
+      "code" : "2\/B\/JPYT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0325",
+      "code" : "2\/B\/JPYT04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0324",
+      "code" : "2\/B\/JPYT05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0323",
+      "code" : "2\/B\/JPYT06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0322",
+      "code" : "2\/B\/JPYT07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0321",
+      "code" : "2\/B\/JPYT08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0320",
+      "code" : "2\/B\/JPYT09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0329",
+      "code" : "2\/B\/JPYT10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0905",
+      "code" : "2\/B\/JPYT11",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0665",
+      "code" : "2\/B\/JPYT12",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0319",
+      "code" : "H\/A\/JPYT00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0480",
+      "code" : "3\/B\/JPYT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0479",
+      "code" : "3\/B\/JPYT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0478",
+      "code" : "3\/B\/JPYT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0477",
+      "code" : "3\/B\/JPYT04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0472",
+      "code" : "3\/A\/JPYT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0473",
+      "code" : "3\/A\/JPYT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0474",
+      "code" : "3\/A\/JPYT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0475",
+      "code" : "3\/A\/JPYT04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0636",
+      "code" : "1\/A\/JPMN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0223",
+      "code" : "1\/A\/JPNG01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0007",
+      "code" : "1\/A\/JPNG02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0008",
+      "code" : "1\/A\/JPNG03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0010",
+      "code" : "1\/B\/JPNG01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0243",
+      "code" : "1\/B\/JPNG04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0140",
+      "code" : "1\/B\/JPKW01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0141",
+      "code" : "1\/B\/JPKW02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0142",
+      "code" : "1\/B\/JPKW03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0666",
+      "code" : "3\/A\/JPKW01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0667",
+      "code" : "3\/A\/JPKW02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0668",
+      "code" : "3\/A\/JPKW03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0683",
+      "code" : "3\/B\/JPKW01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0684",
+      "code" : "3\/B\/JPKW02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0682",
+      "code" : "3\/B\/JPKW03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0281",
+      "code" : "T\/A\/JTTY01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0001",
+      "code" : "T\/A\/JTTY02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0352",
+      "code" : "T\/B\/JTTY01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0143",
+      "code" : "T\/B\/JTTY02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0906",
+      "code" : "H\/A\/HCAT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0935",
+      "code" : "1\/B\/JPRK02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0934",
+      "code" : "1\/B\/JPRK03",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0933",
+      "code" : "1\/B\/JPRK04",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0932",
+      "code" : "1\/B\/JPRK05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0931",
+      "code" : "1\/B\/JPRK06",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0930",
+      "code" : "1\/B\/JPRK07",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0126",
+      "code" : "1\/B\/JPRK09",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0125",
+      "code" : "1\/B\/JPRK10",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0939",
+      "code" : "1\/A\/JPRK01",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0940",
+      "code" : "1\/A\/JPRK02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0941",
+      "code" : "1\/A\/JPRK03",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0942",
+      "code" : "1\/A\/JPRK04",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0943",
+      "code" : "1\/A\/JPRK05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0944",
+      "code" : "1\/A\/JPRK06",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0945",
+      "code" : "1\/A\/JPRK07",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0917",
+      "code" : "1\/A\/JPRK08",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0927",
+      "code" : "1\/A\/JPRK09",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0016",
+      "code" : "1\/A\/JPRK10",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0546",
+      "code" : "3\/A\/JPDL07",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0547",
+      "code" : "3\/A\/JPDL08",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0548",
+      "code" : "3\/A\/JPDL09",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0549",
+      "code" : "3\/A\/JPDL10",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0540",
+      "code" : "3\/A\/JPDL01",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0541",
+      "code" : "3\/A\/JPDL02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0542",
+      "code" : "3\/A\/JPDL03",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0543",
+      "code" : "3\/A\/JPDL04",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0544",
+      "code" : "3\/A\/JPDL05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0545",
+      "code" : "3\/A\/JPDL06",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0582",
+      "code" : "3\/B\/JPDL01",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0581",
+      "code" : "3\/B\/JPDL02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0580",
+      "code" : "3\/B\/JPDL03",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0579",
+      "code" : "3\/B\/JPDL04",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0578",
+      "code" : "3\/B\/JPDL05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0577",
+      "code" : "3\/B\/JPDL06",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0576",
+      "code" : "3\/B\/JPDL08",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0575",
+      "code" : "3\/B\/JPDL10",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0574",
+      "code" : "3\/B\/JPLA01",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0573",
+      "code" : "3\/B\/JPLA02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0571",
+      "code" : "3\/B\/JPLA03",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0570",
+      "code" : "3\/B\/JPLA05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0568",
+      "code" : "3\/B\/JPLA06",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0569",
+      "code" : "3\/B\/JPLA07",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0572",
+      "code" : "3\/B\/JPLA08",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0555",
+      "code" : "3\/A\/JPLA06",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0551",
+      "code" : "3\/A\/JPLA02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0552",
+      "code" : "3\/A\/JPLA03",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0553",
+      "code" : "3\/A\/JPLA04",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0554",
+      "code" : "3\/A\/JPLA05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0550",
+      "code" : "3\/A\/JPLA01",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0383",
+      "code" : "2\/A\/JPSE01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0188",
+      "code" : "1\/A\/JRSD01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0189",
+      "code" : "1\/A\/JRSD02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0190",
+      "code" : "1\/A\/JRSD03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0909",
+      "code" : "I\/A\/KMTR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0009",
+      "code" : "I\/A\/KMTR00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0192",
+      "code" : "2\/A\/JSCT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0172",
+      "code" : "2\/B\/JSCT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0173",
+      "code" : "2\/B\/JSCT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0360",
+      "code" : "2\/A\/JSMA01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0298",
+      "code" : "2\/A\/JSPD01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0299",
+      "code" : "2\/A\/JSPD02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0338",
+      "code" : "2\/B\/JSDP01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0337",
+      "code" : "2\/B\/JSPD02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0336",
+      "code" : "2\/B\/JSPD03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0919",
+      "code" : "1\/A\/JSPL01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0432",
+      "code" : "2\/B\/JSIB01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0134",
+      "code" : "1\/B\/JSBH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0135",
+      "code" : "1\/B\/JSBH02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0240",
+      "code" : "1\/B\/JSAS01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0241",
+      "code" : "1\/B\/JSAS02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0220",
+      "code" : "3\/A\/JSAZ01",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0218",
+      "code" : "3\/A\/JSAZ02",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0217",
+      "code" : "3\/A\/JSAZ04",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0216",
+      "code" : "3\/A\/JSAZ05",
+      "zone" : "Kepala Batas",
+      "pcode" : "13220"
+    }, {
+      "id" : "B0214",
+      "code" : "3\/A\/JSAZ06",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0213",
+      "code" : "3\/A\/JSAZ07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0212",
+      "code" : "3\/A\/JSAZ08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0211",
+      "code" : "3\/A\/JSAZ09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0210",
+      "code" : "3\/A\/JSAZ10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0209",
+      "code" : "3\/A\/JSAZ11",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0208",
+      "code" : "3\/A\/JSAZ12",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0207",
+      "code" : "3\/A\/JSAZ13",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0206",
+      "code" : "3\/A\/JSAZ14",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0205",
+      "code" : "3\/A\/JSAZ15",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0204",
+      "code" : "3\/A\/JSAZ16",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0203",
+      "code" : "3\/A\/JSAZ17",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0201",
+      "code" : "3\/A\/JSAZ18",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0200",
+      "code" : "3\/A\/JSAZ19",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0199",
+      "code" : "3\/A\/JSAZ20",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0202",
+      "code" : "3\/A\/JSAZ21",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0215",
+      "code" : "3\/A\/JSAZ22",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0219",
+      "code" : "3\/A\/JSAZ23",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0145",
+      "code" : "3\/B\/JSAZ01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0146",
+      "code" : "3\/B\/JSAZ02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0147",
+      "code" : "3\/B\/JSAZ03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0148",
+      "code" : "3\/B\/JSAZ04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0149",
+      "code" : "3\/B\/JSAZ05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0150",
+      "code" : "3\/B\/JSAZ06",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0151",
+      "code" : "3\/B\/JSAZ07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10000"
+    }, {
+      "id" : "B0152",
+      "code" : "3\/B\/JSAZ08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0153",
+      "code" : "3\/B\/JSAZ09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0154",
+      "code" : "3\/B\/JSAZ10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10450"
+    }, {
+      "id" : "B0155",
+      "code" : "3\/B\/JSAZ11",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0156",
+      "code" : "3\/B\/JSAZ12",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0157",
+      "code" : "3\/B\/JSAZ13",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0158",
+      "code" : "3\/B\/JSAZ14",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0159",
+      "code" : "3\/B\/JSAZ15",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0160",
+      "code" : "3\/B\/JSAZ16",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0161",
+      "code" : "3\/B\/JSAZ17",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0162",
+      "code" : "3\/B\/JSAZ18",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0163",
+      "code" : "3\/B\/JSAZ19",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0164",
+      "code" : "3\/B\/JSAZ20",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0445",
+      "code" : "3\/B\/JSGI01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0828",
+      "code" : "4\/A\/JSAP01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0829",
+      "code" : "4\/A\/JSAP02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0830",
+      "code" : "4\/A\/JSAP03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0782",
+      "code" : "4\/A\/JSBR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0783",
+      "code" : "4\/A\/JSBR02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0808",
+      "code" : "4\/B\/JSBR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0806",
+      "code" : "4\/B\/JSBR02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0805",
+      "code" : "4\/B\/JSBR03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0807",
+      "code" : "4\/B\/JSBR04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0709",
+      "code" : "D\/A\/DSGN00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0492",
+      "code" : "3\/B\/JSGD01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0491",
+      "code" : "3\/B\/JSGD02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0490",
+      "code" : "3\/B\/JSGD03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0489",
+      "code" : "3\/B\/JSGD04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0488",
+      "code" : "3\/B\/JSGD05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0487",
+      "code" : "3\/B\/JSGD06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0457",
+      "code" : "3\/A\/JSGD01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0458",
+      "code" : "3\/A\/JSGD02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0459",
+      "code" : "3\/A\/JSGD03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0460",
+      "code" : "3\/A\/JSGD04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0618",
+      "code" : "3\/A\/JSGD05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0619",
+      "code" : "3\/A\/JSGD06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0275",
+      "code" : "1\/B\/JSKL01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0251",
+      "code" : "1\/A\/JSKL01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0252",
+      "code" : "1\/A\/JSKL02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0784",
+      "code" : "4\/A\/JSNP01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0628",
+      "code" : "2\/B\/JSGP04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0439",
+      "code" : "2\/B\/JSGP01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0438",
+      "code" : "2\/B\/JSGP02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0396",
+      "code" : "2\/A\/JSGP01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0397",
+      "code" : "2\/A\/JSGP02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0502",
+      "code" : "2\/A\/JSGP03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0617",
+      "code" : "2\/A\/JSGP04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0760",
+      "code" : "4\/A\/JSGP01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0761",
+      "code" : "4\/A\/JSGP02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0762",
+      "code" : "4\/A\/JSGP03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0763",
+      "code" : "4\/A\/JSGP04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0764",
+      "code" : "4\/A\/JSGP05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0765",
+      "code" : "4\/A\/JSGP06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0766",
+      "code" : "4\/A\/JSGP07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0767",
+      "code" : "4\/A\/JSGP08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0826",
+      "code" : "4\/B\/JSGP01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0825",
+      "code" : "4\/B\/JSGP02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0824",
+      "code" : "4\/B\/JSGP03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0823",
+      "code" : "4\/B\/JSGP04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0822",
+      "code" : "4\/B\/JSGP05",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0820",
+      "code" : "4\/B\/JSGP06",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0819",
+      "code" : "4\/B\/JSGP07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0821",
+      "code" : "4\/B\/JSGP09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0876",
+      "code" : "4\/B\/JSGR01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0874",
+      "code" : "4\/B\/JSGR02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0873",
+      "code" : "4\/B\/JSGR03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0871",
+      "code" : "4\/B\/JSGR04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0868",
+      "code" : "4\/B\/JSGR05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0867",
+      "code" : "4\/B\/JSGR06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0866",
+      "code" : "4\/B\/JSGR07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0865",
+      "code" : "4\/B\/JSGR08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0864",
+      "code" : "4\/B\/JSGR09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0862",
+      "code" : "4\/B\/JSGR10",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0863",
+      "code" : "4\/B\/JSGR11",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0869",
+      "code" : "4\/B\/JSGR12",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0870",
+      "code" : "4\/B\/JSGR13",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0872",
+      "code" : "4\/B\/JSGR14",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0875",
+      "code" : "4\/B\/JSGR15",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0827",
+      "code" : "4\/A\/JSGR01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0831",
+      "code" : "4\/A\/JSGR02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0832",
+      "code" : "4\/A\/JSGR03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0833",
+      "code" : "4\/A\/JSGR04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0834",
+      "code" : "4\/A\/JSGR05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0835",
+      "code" : "4\/A\/JSGR06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0836",
+      "code" : "4\/A\/JSGR07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0837",
+      "code" : "4\/A\/JSGR08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0844",
+      "code" : "4\/A\/JSGR09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0845",
+      "code" : "4\/A\/JSGR10",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0937",
+      "code" : "2\/A\/JTEH03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0938",
+      "code" : "2\/A\/JTEH04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0431",
+      "code" : "2\/B\/JTEH01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0496",
+      "code" : "2\/B\/JTEH02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0025",
+      "code" : "1\/A\/JTKG01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0026",
+      "code" : "1\/A\/JTKG02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0027",
+      "code" : "1\/A\/JTKG03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0028",
+      "code" : "1\/A\/JTKG04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0029",
+      "code" : "1\/A\/JTKG05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0030",
+      "code" : "1\/A\/JTKG06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0031",
+      "code" : "1\/A\/JTKG07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0032",
+      "code" : "1\/A\/JTKG08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0033",
+      "code" : "1\/A\/JTKG09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0034",
+      "code" : "1\/A\/JTKG10",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0114",
+      "code" : "1\/B\/JTKG01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0113",
+      "code" : "1\/B\/JTKG02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0112",
+      "code" : "1\/B\/JTKG03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0111",
+      "code" : "1\/B\/JTKG05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0110",
+      "code" : "1\/B\/JTKG06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0109",
+      "code" : "1\/B\/JTKG07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0108",
+      "code" : "1\/B\/JTKG09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0107",
+      "code" : "1\/B\/JTKG10",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0106",
+      "code" : "1\/B\/JTGB01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0105",
+      "code" : "1\/B\/JTGB02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0104",
+      "code" : "1\/B\/JTGB03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0103",
+      "code" : "1\/B\/JTGB04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0102",
+      "code" : "1\/B\/JTGB05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0101",
+      "code" : "1\/B\/JTGB06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0100",
+      "code" : "1\/B\/JTGB07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0099",
+      "code" : "1\/B\/JTGB08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0098",
+      "code" : "1\/B\/JTGB09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0042",
+      "code" : "1\/A\/JTGB08",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0043",
+      "code" : "1\/A\/JTGB09",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0035",
+      "code" : "1\/A\/JTGB01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0036",
+      "code" : "1\/A\/JTGB02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0037",
+      "code" : "1\/A\/JTGB03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0038",
+      "code" : "1\/A\/JTGB04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0039",
+      "code" : "1\/A\/JTGB05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0040",
+      "code" : "1\/A\/JTGB06",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0041",
+      "code" : "1\/A\/JTGB07",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0232",
+      "code" : "D\/A\/DTGB01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0233",
+      "code" : "D\/B\/DTGB01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11010"
+    }, {
+      "id" : "B0896",
+      "code" : "4\/B\/JTLB03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0895",
+      "code" : "4\/B\/JTLB04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0894",
+      "code" : "4\/B\/JTLB06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0893",
+      "code" : "4\/B\/JTLB07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0892",
+      "code" : "4\/B\/JTLB08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0891",
+      "code" : "4\/B\/JTLB09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0890",
+      "code" : "4\/B\/JTLB10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0888",
+      "code" : "4\/B\/JTLB11",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0889",
+      "code" : "4\/B\/JTLB12",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0075",
+      "code" : "H\/B\/JTLB00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0065",
+      "code" : "H\/A\/JTLB00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0877",
+      "code" : "4\/A\/JTLB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0878",
+      "code" : "4\/A\/JTLB02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0879",
+      "code" : "4\/A\/JTLB03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0880",
+      "code" : "4\/A\/JTLB04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0881",
+      "code" : "4\/A\/JTLB05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0882",
+      "code" : "4\/A\/JTLB06",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0883",
+      "code" : "4\/A\/JTLB07",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0884",
+      "code" : "4\/A\/JTLB08",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0885",
+      "code" : "4\/A\/JTLB09",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0886",
+      "code" : "4\/A\/JTLB10",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0887",
+      "code" : "4\/A\/JTLB11",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0898",
+      "code" : "4\/B\/JTLB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0897",
+      "code" : "4\/B\/JTLB02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0064",
+      "code" : "1\/A\/JTLB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0076",
+      "code" : "1\/B\/JTLB01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0077",
+      "code" : "1\/B\/JTLB02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11050"
+    }, {
+      "id" : "B0732",
+      "code" : "4\/A\/JTLK05",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0728",
+      "code" : "4\/A\/JTLK01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0729",
+      "code" : "4\/A\/JTLK02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0730",
+      "code" : "4\/A\/JTLK03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0731",
+      "code" : "4\/A\/JTLK04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0759",
+      "code" : "4\/B\/JTLK01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0758",
+      "code" : "4\/B\/JTLK02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0757",
+      "code" : "4\/B\/JTLK03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0756",
+      "code" : "4\/B\/JTLK04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0652",
+      "code" : "3\/A\/JTPY01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0653",
+      "code" : "3\/A\/JTPY02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0654",
+      "code" : "3\/A\/JTPY03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0655",
+      "code" : "3\/A\/JTPY04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0656",
+      "code" : "3\/A\/JTPY05",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0657",
+      "code" : "3\/A\/JTPY06",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0661",
+      "code" : "3\/B\/JTPY02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0660",
+      "code" : "3\/B\/JTPY03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0658",
+      "code" : "3\/B\/JTPY05",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0659",
+      "code" : "3\/B\/JTPY07",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0409",
+      "code" : "2\/A\/JTBG02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0408",
+      "code" : "2\/A\/JTBG01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0596",
+      "code" : "3\/B\/JTGH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0595",
+      "code" : "3\/B\/JTGH02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0662",
+      "code" : "3\/B\/JTGH03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0519",
+      "code" : "3\/A\/JTGH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0520",
+      "code" : "3\/A\/JTGH02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0648",
+      "code" : "3\/A\/JTGH03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0401",
+      "code" : "2\/A\/JTRN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0434",
+      "code" : "2\/B\/JTRN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10460"
+    }, {
+      "id" : "B0372",
+      "code" : "2\/B\/JTHT05",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0374",
+      "code" : "2\/B\/JTHT03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0373",
+      "code" : "2\/B\/JTHT04",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0376",
+      "code" : "2\/B\/JTHT01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0375",
+      "code" : "2\/B\/JTHT02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0354",
+      "code" : "2\/A\/JTHT01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0355",
+      "code" : "2\/A\/JTHT02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0356",
+      "code" : "2\/A\/JTHT03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0357",
+      "code" : "2\/A\/JTHT04",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0358",
+      "code" : "2\/A\/JTHT05",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0132",
+      "code" : "1\/B\/JTSF01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0133",
+      "code" : "1\/B\/JTSF02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10050"
+    }, {
+      "id" : "B0470",
+      "code" : "3\/A\/JTDA04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0467",
+      "code" : "3\/A\/JTDA01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0468",
+      "code" : "3\/A\/JTDA02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0469",
+      "code" : "3\/A\/JTDA03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0602",
+      "code" : "3\/B\/JTDA05",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0484",
+      "code" : "3\/B\/JTDA02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0483",
+      "code" : "3\/B\/JTDA03",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0482",
+      "code" : "3\/B\/JTDA04",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0466",
+      "code" : "H\/B\/HKBJ01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0899",
+      "code" : "5\/A\/JTSD01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0900",
+      "code" : "5\/A\/JTSD02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0904",
+      "code" : "5\/B\/JTSD01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0744",
+      "code" : "D\/A\/DBPL00",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0901",
+      "code" : "5\/B\/JTSD02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0903",
+      "code" : "5\/B\/JTSD03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0902",
+      "code" : "5\/B\/JTSD04",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0743",
+      "code" : "5\/B\/JTSD05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0184",
+      "code" : "1\/B\/JUTM01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0183",
+      "code" : "1\/B\/JUTM02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0182",
+      "code" : "1\/B\/JUTM03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0647",
+      "code" : "1\/B\/JUTM05",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0191",
+      "code" : "1\/A\/JUTM01",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0174",
+      "code" : "1\/A\/JUTM02",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0175",
+      "code" : "1\/A\/JUTM03",
+      "zone" : "Balik Pulau",
+      "pcode" : "11000"
+    }, {
+      "id" : "B0176",
+      "code" : "1\/A\/JUTM04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0444",
+      "code" : "3\/B\/JVTN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0504",
+      "code" : "3\/B\/LCNV01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10150"
+    }, {
+      "id" : "B0003",
+      "code" : "1\/A\/LCHU02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0004",
+      "code" : "1\/A\/LCHU03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0005",
+      "code" : "1\/A\/LCHU04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0006",
+      "code" : "1\/A\/LCHU05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0138",
+      "code" : "1\/B\/LCHU02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0137",
+      "code" : "1\/B\/LCHU04",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0136",
+      "code" : "1\/B\/LCHU05",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0911",
+      "code" : "1\/B\/LDWN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0244",
+      "code" : "1\/B\/LFQR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0222",
+      "code" : "1\/A\/LFQR01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0221",
+      "code" : "1\/A\/LLGH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0245",
+      "code" : "1\/B\/LLGH01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0246",
+      "code" : "1\/B\/LLGH02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0443",
+      "code" : "3\/B\/LLTG01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0612",
+      "code" : "3\/A\/LMCM01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0447",
+      "code" : "3\/A\/LMCN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0611",
+      "code" : "3\/B\/LMCN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0603",
+      "code" : "3\/B\/LNIP01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10200"
+    }, {
+      "id" : "B0912",
+      "code" : "1\/B\/LPTI03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0907",
+      "code" : "1\/A\/LPTI01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0908",
+      "code" : "1\/A\/LPTI02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10300"
+    }, {
+      "id" : "B0476",
+      "code" : "H\/A\/RELA00",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0420",
+      "code" : "H\/A\/LTKD00",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11900"
+    }, {
+      "id" : "B0495",
+      "code" : "H\/B\/BTLC00",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0644",
+      "code" : "3\/B\/LBYL02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0678",
+      "code" : "3\/B\/LBYL01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0672",
+      "code" : "3\/A\/LBYL01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0643",
+      "code" : "3\/A\/LBYL02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0920",
+      "code" : "1\/A\/LCOD01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0926",
+      "code" : "1\/B\/LCOD01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0494",
+      "code" : "3\/B\/LBRG02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0493",
+      "code" : "3\/B\/LBRG01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0639",
+      "code" : "1\/A\/LPEL01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0362",
+      "code" : "2\/A\/LTHT01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0363",
+      "code" : "2\/A\/LTHT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0364",
+      "code" : "2\/A\/LTHT03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0367",
+      "code" : "2\/B\/LTHT01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0366",
+      "code" : "2\/B\/LTHT02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0365",
+      "code" : "2\/B\/LTHT03",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0616",
+      "code" : "3\/A\/GLCE02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0679",
+      "code" : "3\/B\/LLCE03",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0681",
+      "code" : "3\/B\/LLCE01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0680",
+      "code" : "3\/B\/LLCE02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10350"
+    }, {
+      "id" : "B0669",
+      "code" : "3\/A\/LLCE01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0670",
+      "code" : "3\/A\/LLCE02",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0671",
+      "code" : "3\/A\/LLCE03",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0461",
+      "code" : "3\/A\/LNIP01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0462",
+      "code" : "3\/A\/LNIP02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0368",
+      "code" : "2\/B\/LANG01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0369",
+      "code" : "2\/B\/LANG02",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0361",
+      "code" : "2\/A\/LANG01",
+      "zone" : "Ayer Itam",
+      "pcode" : "11500"
+    }, {
+      "id" : "B0936",
+      "code" : "3\/A\/LBTL01",
+      "zone" : "Jelutong",
+      "pcode" : "11600"
+    }, {
+      "id" : "B0716",
+      "code" : "3\/A\/LKGM02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0701",
+      "code" : "3\/B\/LKGM01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0700",
+      "code" : "3\/B\/LKGM02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0258",
+      "code" : "1\/A\/LTLP01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0269",
+      "code" : "1\/B\/LTLP01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0630",
+      "code" : "3\/B\/LTMC01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0614",
+      "code" : "3\/A\/LTMC01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0272",
+      "code" : "1\/B\/LLP301",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0271",
+      "code" : "1\/B\/LLP302",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0270",
+      "code" : "1\/B\/LLP303",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0255",
+      "code" : "1\/A\/LLP301",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0256",
+      "code" : "1\/A\/LLP302",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0257",
+      "code" : "1\/A\/LLP303",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0144",
+      "code" : "4\/A\/LTAB01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0673",
+      "code" : "3\/A\/PBYI01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0674",
+      "code" : "3\/A\/PBYI02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0641",
+      "code" : "3\/A\/PBYI03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0642",
+      "code" : "3\/A\/PBYI04",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0677",
+      "code" : "3\/B\/PBYI01",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0676",
+      "code" : "3\/B\/PBYI02",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0645",
+      "code" : "3\/B\/PBYI03",
+      "zone" : "Tanjong Bungah",
+      "pcode" : "11200"
+    }, {
+      "id" : "B0634",
+      "code" : "H\/A\/GURN00",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0635",
+      "code" : "1\/A\/GURN01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0529",
+      "code" : "3\/A\/PRKL01",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0530",
+      "code" : "3\/A\/PRKL02",
+      "zone" : "Pulau Pinang",
+      "pcode" : "10250"
+    }, {
+      "id" : "B0621",
+      "code" : "3\/A\/PMYP01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0622",
+      "code" : "3\/A\/PMYP02",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11950"
+    }, {
+      "id" : "B0316",
+      "code" : "2\/A\/TPY201",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11060"
+    }, {
+      "id" : "B0317",
+      "code" : "2\/A\/TPY202",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11060"
+    }, {
+      "id" : "B0318",
+      "code" : "2\/A\/TPY203",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11060"
+    }, {
+      "id" : "B0315",
+      "code" : "2\/A\/TPY401",
+      "zone" : "Pulau Pinang",
+      "pcode" : "11060"
+    }, {
+      "id" : "B0717",
+      "code" : "3\/A\/TTLK01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0699",
+      "code" : "3\/B\/TTLK01",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0698",
+      "code" : "3\/B\/TLK101",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }, {
+      "id" : "B0718",
+      "code" : "3\/A\/TLK101",
+      "zone" : "Bayan Lepas",
+      "pcode" : "11920"
+    }
+  ]
+}

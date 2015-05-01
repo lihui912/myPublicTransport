@@ -5,6 +5,7 @@ function RouteLeg(inId, inHeadSign, inRouteCode) {
   this._id = inId;
   this._headSign = inHeadSign;
   this._routeCode = "";
+  this._routeId = "";
   this._vertex = [];
   try {
   this._bounds = new google.maps.LatLngBounds();
@@ -30,6 +31,14 @@ RouteLeg.prototype.setLegId = function(inId) {
 
 RouteLeg.prototype.getLegId = function() {
   return this._id;
+}
+
+RouteLeg.prototype.setRouteId = function(inRouteId) {
+  this._routeId = inRouteId;
+}
+
+RouteLeg.prototype.getRouteId = function() {
+  return this._routeId;
 }
 
 RouteLeg.prototype.setHeadSign = function(inHeadSign) {
@@ -86,7 +95,7 @@ RouteLeg.prototype.buildPolyline = function() {
   
   this._polylineOptions.geodesic = true;
   this._polylineOptions.strokeOpacity = 0.75;
-  this._polylineOptions.strokeWeight = 2.0;
+  this._polylineOptions.strokeWeight = 5.0;
   this._polylineOptions.strokeColor = (this._direction == 0) ? Utils.Color.RED : Utils.Color.GREEN;
   
   this._polylineOptions.path = [];
@@ -97,11 +106,24 @@ RouteLeg.prototype.buildPolyline = function() {
     
   }
   
+  var lineSymbol = {
+    path: 'M 1.5 1 L 1 0 L 1 2 M 0.5 1 L 1 0',
+    fillColor: 'black',
+    strokeColor: 'black',
+    strokeWeight: 2,
+    strokeOpacity: 0.8
+  };
+  
   this._polylineOptions.icons = [{
-    icon: {path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW},
+    // icon: [lineSymbol, {path: google.maps.SymbolPath.FORWARD_CLOSED_ARROW}],
+    icon: lineSymbol,
+    // strokeWidth: 2.0,
+    // strokeColor: 'black',
+    // strokeOpacity: 0.75,
     repeat: '35px',
     offset: '100%'
   }];
+  
   
   this._polyline.setOptions(this._polylineOptions);
   
@@ -116,6 +138,9 @@ RouteLeg.prototype.displayPolyline = function() {
   } catch(error) {console.error(error);}
   this._polylineIsDisplaying = true;
   // console.log("displayPolyline", this._polylineIsDisplaying);
+  this._mouseOverListener = google.maps.event.addListener(this._polyline, 'mouseover', function(event) {
+    console.log(event, event.vertex);
+  });
 }
 
 RouteLeg.prototype.removePolyline = function() {
@@ -124,6 +149,7 @@ RouteLeg.prototype.removePolyline = function() {
     this._polyline.setMap(null);
   } catch(error) {console.error(error);}
   this._polylineIsDisplaying = false;
+  google.maps.events.removeListener(this._mouseOverListener);
 }
 
 RouteLeg.prototype.toggleDisplay = function() {
@@ -145,6 +171,10 @@ RouteLeg.prototype.setDirection = function(inDirection) {
 
 RouteLeg.prototype.getDirection = function() {
   return this._direction;
+};
+
+RouteLeg.prototype.getBounds = function() {
+  return this._bounds;
 };
 
 RouteLeg.prototype.setRouteCode = function(inRouteCode) {

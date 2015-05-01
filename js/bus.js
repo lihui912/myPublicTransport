@@ -26,8 +26,6 @@ HCL.busLine.addToCache = function(inObj) {
   } else {
     return searchResult;
   }
-  
-  
 };
 
 HCL.busLine.searchCache = function(inRouteCode) {
@@ -35,14 +33,13 @@ HCL.busLine.searchCache = function(inRouteCode) {
   var cacheLength = cache.length;
   for(var i = 0; i < cacheLength; i++) {
     if(cache[i]._routeCode == inRouteCode) {
-      // console.log("BusLine " + inRouteCode + " found at index " + i);
       return i;  // return the index
     }
   }
   return HCL.busLine.cache.NOTFOUND;
 }
 
-HCL.busLine.loadBusLine = function(inRouteCode, inCallback, inDirection) {
+HCL.busLine.loadBusLine = function(inRouteCode, inCallback, inDirection, inDisplayStops) {
   var searchResult = HCL.busLine.searchCache(inRouteCode);
   if(searchResult > HCL.busLine.cache.NOTFOUND) {
     console.log("BusLine " + inRouteCode + " found at index " + searchResult);
@@ -50,16 +47,22 @@ HCL.busLine.loadBusLine = function(inRouteCode, inCallback, inDirection) {
   }
   console.log("BusLine " + inRouteCode + " not found. Load from server.");
   $.ajax({
-    url: "routes/" + inRouteCode + ".json",
+    // url: "routes/" + inRouteCode + ".json",
+    url: "api/busLine/code/" + inRouteCode,
     type: "GET",
     dataType: "json",
     success: function(inJson) {
-      // console.log(inJson);
-      var busLine = new BusLine(HCL.map._map, inJson);
+      console.log(inJson);
+      if(!inJson.data || inJson.data.length == 0) {
+        console.error("No bus line loaded: ", inRouteCode);
+        return;
+      }
+      // var busLine = new BusLine(HCL.map._map, inJson);
+      var busLine = new BusLine(HCL.map._map, inJson.data[0]);
       
       var busLineIndex = HCL.busLine.addToCache(busLine);
-      console.log("busLineIndex: " + busLineIndex);
-      inCallback(inRouteCode, inDirection);
+      console.log(inRouteCode + " at index " + busLineIndex);
+      inCallback(inRouteCode, inDirection, inDisplayStops);
       return busLineIndex;
     },
     error: function(xhr, status, errorThrown) {
@@ -69,20 +72,21 @@ HCL.busLine.loadBusLine = function(inRouteCode, inCallback, inDirection) {
 }
 
 
-HCL.busLine.toggleDisplay = function(inRouteCode, inDirection) {
+HCL.busLine.toggleDisplay = function(inRouteCode, inDirection, inDisplayStops) {
   console.log("toggleDisplay", inRouteCode, inDirection);
   var busLineIndex = HCL.busLine.searchCache(inRouteCode);
   if(busLineIndex == HCL.busLine.cache.NOTFOUND) {
-    HCL.busLine.loadBusLine(inRouteCode, HCL.busLine._toggleDisplay, inDirection);
+    // load bus line data
+    HCL.busLine.loadBusLine(inRouteCode, HCL.busLine._toggleDisplay, inDirection, inDisplayStops);
   } else {
-    HCL.busLine._toggleDisplay(inRouteCode, inDirection);
+    HCL.busLine._toggleDisplay(inRouteCode, inDirection, inDisplayStops);
   }
 }
 
-HCL.busLine._toggleDisplay = function(inRouteCode, inDirection) {
+HCL.busLine._toggleDisplay = function(inRouteCode, inDirection, inDisplayStops) {
   var busLineIndex = HCL.busLine.searchCache(inRouteCode);
   var thisLine = HCL.busLine.cache[busLineIndex];
-  thisLine.toggleDisplay(inDirection);
+  thisLine.toggleDisplay(inDirection, inDisplayStops);
 }
 
 HCL.busLine.hideBusLine = function(inRouteCode, inDirection) {
@@ -97,7 +101,8 @@ HCL.busLine.loadData = function(inCallback) {
   $.ajax({
     type: "GET",
     dataType: "json",
-    url: "routes/area.json",
+    // url: "routes/areaq.json",
+    url: "api/area",
     success: function(inJson) {
       inCallback(inJson);
 
@@ -126,6 +131,23 @@ HCL.busLine.loadRouteData = function(inRouteCode, inCallback) {
   });
 }
 
+HCL.busLine.loadStopData = function(inStopId, inCallback) {
+  $.ajax({
+    type: "GET",
+    dataType: "json",
+    url: "stops/" + inStopId + ".json",
+    success: function(inJson) {
+      // console.log(inJson);
+      inCallback(inJson);
+
+    },
+    error: function(xhr, status, errorThrown) {
+      console.error("error");
+    }
+  });
+  
+}
+
 HCL.busLine.generateDOMRows = function(inJson) {
   console.log(inJson);
   var routesData = inJson.data.routes;
@@ -141,6 +163,7 @@ HCL.busLine.generateDOMRows = function(inJson) {
   }
   
   for(var i = 0; i < routesCount; i++) {
+    // push into cache
     HCL.area.cache.push(routesData[i]);
     tempDomFragments[routesData[i].area].appendChild(HCL.busLine._generateDOMRow(routesData[i].code, routesData[i].title));
     if(i < routesCount - 1) {

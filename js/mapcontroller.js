@@ -3,6 +3,7 @@ function MapController() {
   this._mapCurrentOptions = {};
   this._mapLayerId = "";
   
+  
   // this._searchResultDom = document.getElementById('search-result');
   // this._lastSearchResult = null;
   
@@ -22,13 +23,45 @@ MapController.prototype.defaultLocationOptions = function() {
   return KL;
 }
 
-MapController.prototype.initializeMap = function(inDivId) {
+MapController.prototype.initializeMap = function(inDivId, inMapOptions) {
   this._mapLayerId = inDivId;
-  this._map = new google.maps.Map(document.getElementById(inDivId), this.defaultLocationOptions());
-  
+  if(inMapOptions) {
+    this._mapCurrentOptions.zoom = parseInt(inMapOptions.zoom);
+    this._mapCurrentOptions.center = new google.maps.LatLng(parseFloat(inMapOptions.lat), parseFloat(inMapOptions.lng));
+    console.log(this._mapCurrentOptions);
+    this._map = new google.maps.Map(document.getElementById(inDivId), this._mapCurrentOptions);
+  } else {
+    this._map = new google.maps.Map(document.getElementById(inDivId), this.defaultLocationOptions());
+  }
   this.addListeners();
   
   
+}
+
+MapController.prototype.setOptions = function(inOptions) {
+  if(!inOptions) {
+    console.error("options is empty.");
+    return;
+  }
+  console.log("setOptions");
+  var newCenter = new google.maps.LatLng(inOptions.lat, inOptions.lng);
+  var newZoom = inOptions.zoom;
+  
+  this._mapCurrentOptions.center = newCenter;
+  this._mapCurrentOptions.zoom = newZoom;
+  
+  this._map.setOptions(this._mapCurrentOptions);
+}
+
+MapController.prototype.setZoom = function(inZoom) {
+  
+  this._map.setZoom = inZoom;
+  this._mapCurrentOptions.zoom = inZoom;
+}
+
+MapController.prototype.setCenter = function(inLat, inLng) {
+  this._map.panTo(inLat, inLng);
+  this._mapCurrentOptions.center = this._map.getCenter();
 }
 
 MapController.prototype.addListeners = function() {
@@ -60,6 +93,8 @@ MapController.prototype.addListeners = function() {
     for(var i = 0; i < busStopArrayLength; i++) {
       busStopArray[i].evZoomChanged(newZoom);
     }
+    console.log("zoom_changed");
+    HCL.UI.history.update();
   });
   
   // 'idle' event is fired after panning or zooming
@@ -79,11 +114,16 @@ MapController.prototype.addListeners = function() {
     for(var i = 0; i < busLegArrayLength; i++) {
       busLegArray[i].evIdle(newZoom, newBound);
     }
-    
+    console.log("idle");
+    // var newCenter = _mapObj.getCenter();
+    // history.pushState({"lat": newCenter.lat(), "lng": newCenter.lng(), "zoom": newZoom}, document.title, "#" + newCenter.lat() + "," + newCenter.lng() +  "," + newZoom);
   });
   
   google.maps.event.addListener(this._map, 'click', function(event) {
     domClicked.textContent = event.latLng.toString();
+    // event.latLng
+    // hide everything
+    // load bus stop at nearby
   });
 
   google.maps.event.addListener(this._map, 'mousemove', function(event){
@@ -99,6 +139,7 @@ MapController.prototype.addListeners = function() {
     domCenter.textContent = _mapObj.getCenter().toString();
     _mapObj.fitBounds(_boundLatLng);
     _boundLatLng = _mapObj.getBounds();
+    console.log("resize");
   });
   
   google.maps.event.addListener(this._map, 'center_changed', function() {
@@ -106,7 +147,10 @@ MapController.prototype.addListeners = function() {
     centerChangeTimer = setTimeout(function(){
       _boundLatLng = _mapObj.getBounds();
       domCenter.textContent = _mapObj.getCenter().toString();
-    }, 80);
+      console.log("center_changed");
+      // HCL.UI.history.update();
+    }, 100);
+    
   });
 };
 

@@ -6,6 +6,7 @@
 <script src="js/jquery.js"></script>
 <script src="js/main.js"></script>
 <script src="js/bus.js"></script>
+<script src="js/ui.js"></script>
 <script>
 function initialize() {
   var analyzBusStopsLinesDom = document.getElementById("inBusLineButton");
@@ -28,6 +29,7 @@ function initialize() {
     
     HCL.busLine.loadRouteData(inBusLineText.value, HCL.tools.generateGoogleMapsDirectionUrl);
   });
+  HCL.UI.history = new HCL.UI.historyClass();
 }
 
 window.onload = initialize;

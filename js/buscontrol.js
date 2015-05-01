@@ -57,7 +57,9 @@ BusLine.prototype.extractData = function() {
   }
 */
   var routeLeg, busStop;
-  var singleLeg, thisRoute;
+  var singleLeg;//, thisRoute;
+  
+  var busStopIds = []; // for loading extra data
   
   var routeInfo = this._originalData.routes[0].route[0].route;
 
@@ -88,6 +90,7 @@ BusLine.prototype.extractData = function() {
     routeLeg.setMap(this._map);
     routeLeg.setDirection(thisLegDirection);
     routeLeg.setRouteCode(this._routeCode);
+    routeLeg.setRouteId(this._routeId);
     console.log(this._routeCode, thisLegDirection, thisLeg.stops.length);
 
     for(var j = 0; j < thisLeg.stops.length; j++) {
@@ -97,14 +100,14 @@ BusLine.prototype.extractData = function() {
       var busStopIndex = HCL.busStop.searchBusStop(bstop.id);
       // console.log("busstop", bstop.id,  "found: ", busStopIndex);
       if(-1 != busStopIndex) {
-        HCL.busStop.cache[busStopIndex].addBusLine(routeInfo.code, thisLegDirection);
+        HCL.busStop.cache[busStopIndex].addBusLine(routeInfo.id, routeInfo.code, thisLegDirection);
         this._busStops[i][j] = busStopIndex;
         continue;
       }
       busStop = null;
       busStop = new HCL.busStop.BusStop();
       busStop.setCode(bstop.code);
-      busStop.setId(bstop.id);
+      busStop.setId(bstop.id); busStopIds.push(bstop.id);
       busStop.setLatLng(bstop.location[HCL.location.LATITUDE], bstop.location[HCL.location.LONGITUDE]);
       busStop.setName(bstop.name);
       busStop.setMap(this._map);
@@ -112,7 +115,7 @@ BusLine.prototype.extractData = function() {
         // Add a flag is the stop is the start stop or last stop
         busStop.setIsTerminal();
       }
-      busStop.addBusLine(routeInfo.code, thisLegDirection);
+      busStop.addBusLine(routeInfo.id, routeInfo.code, thisLegDirection);
       busStopIndex = HCL.busStop.addBusStop(busStop);   // all bus stops are stored in this global array
       this._busStops[i][j] = busStopIndex;
       
@@ -123,6 +126,7 @@ BusLine.prototype.extractData = function() {
     busLegIndex = HCL.busLeg.addBusLeg(routeLeg);
     this._legs[i] = busLegIndex;
   }
+  HCL.busStop.loadStopData(busStopIds);
 }
 
 BusLine.prototype.getLeg = function(inI) {
@@ -211,7 +215,7 @@ BusLine.prototype.isDisplaying = function() {
   return (HCL.busLeg.cache[this._legs[HCL.busLine.direction.DEPART]].isDisplaying()  || HCL.busLeg.cache[this._legs[HCL.busLine.direction.RETURN]].isDisplaying());
 }
 
-BusLine.prototype.toggleDisplay = function(inDirection) {
+BusLine.prototype.toggleDisplay = function(inDirection, inDisplayStops) {
   if(inDirection == HCL.busLine.direction.BOTH) {
     HCL.busLeg.cache[this._legs[HCL.busLine.direction.DEPART]].toggleDisplay();
     if(HCL.busLeg.cache[this._legs[HCL.busLine.direction.RETURN]]){
@@ -220,7 +224,10 @@ BusLine.prototype.toggleDisplay = function(inDirection) {
   } else {
     HCL.busLeg.cache[this._legs[inDirection]].toggleDisplay();
   }
-  this.toggleDisplayBusStops(inDirection);
+  if(inDisplayStops == false) {
+  } else {
+    this.toggleDisplayBusStops(inDirection);
+  }
 }
 
 BusLine.prototype.printLegs = function() {

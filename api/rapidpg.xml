@@ -1,0 +1,5673 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<busstop>
+  <bstop>
+    <id>B0615</id>
+    <code>3/A/GLCE01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0629</id>
+    <code>3/B/GLCE01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0002</id>
+    <code>1/A/LCHU01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0139</id>
+    <code>1/B/LCHU01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0613</id>
+    <code>3/A/GMCM01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0631</id>
+    <code>3/B/GMCM01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0417</id>
+    <code>3/B/HLPM01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0418</id>
+    <code>3/B/HLPM02</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0419</id>
+    <code>3/B/HLPM03</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0423</id>
+    <code>3/A/HLPM01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0422</id>
+    <code>3/A/HLPM02</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0421</id>
+    <code>3/A/HLPM03</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0424</id>
+    <code>3/A/HLPM04</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0371</id>
+    <code>2/B/JANG01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0370</id>
+    <code>2/B/JANG02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0359</id>
+    <code>2/A/JANG01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0242</id>
+    <code>1/B/JANS01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0915</id>
+    <code>1/B/JANS02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0916</id>
+    <code>1/B/JANS03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0928</id>
+    <code>1/A/JANS01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0913</id>
+    <code>1/A/JARR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0288</id>
+    <code>2/A/JAYI01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0346</id>
+    <code>2/B/JAYI01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0345</id>
+    <code>2/B/JAYI02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0344</id>
+    <code>2/B/JAYI03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0343</id>
+    <code>2/B/JAYI04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0342</id>
+    <code>2/B/JAYI05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0353</id>
+    <code>2/B/JAYI06</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0335</id>
+    <code>2/B/JAYI07</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0334</id>
+    <code>2/B/JAYI08</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0333</id>
+    <code>2/B/JAYI09</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0332</id>
+    <code>2/B/JAYI10</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0378</id>
+    <code>2/B/JAYI11</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0379</id>
+    <code>2/B/JAYI12</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0293</id>
+    <code>2/B/JAYI13</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0289</id>
+    <code>2/A/JAYI02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0290</id>
+    <code>2/A/JAYI03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0291</id>
+    <code>2/A/JAYI04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0292</id>
+    <code>2/A/JAYI05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0300</id>
+    <code>2/A/JAYI07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0301</id>
+    <code>2/A/JAYI08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0302</id>
+    <code>2/A/JAYI09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0304</id>
+    <code>2/A/JAYI11</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0377</id>
+    <code>2/A/JAYI12</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0303</id>
+    <code>H/A/JAYI00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0646</id>
+    <code>3/B/JAIB01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0640</id>
+    <code>3/A/JAIB01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0273</id>
+    <code>1/B/JAZY01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0254</id>
+    <code>1/A/JAZY01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0023</id>
+    <code>1/A/JBGJ01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0024</id>
+    <code>1/A/JBGJ02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0117</id>
+    <code>1/B/JBGJ01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0116</id>
+    <code>1/B/JBGJ02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0115</id>
+    <code>1/B/JBGJ03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0331</id>
+    <code>2/B/JBLP01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0735</id>
+    <code>4/A/JBPL03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0736</id>
+    <code>4/A/JBPL04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0737</id>
+    <code>4/A/JBPL05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0738</id>
+    <code>4/A/JBPL06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0739</id>
+    <code>4/A/JBPL08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0740</id>
+    <code>4/A/JBPL09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0741</id>
+    <code>4/A/JBPL10</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0742</id>
+    <code>4/A/JBPL11</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0733</id>
+    <code>4/A/JBPL13</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0734</id>
+    <code>H/A/PKGT00</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0753</id>
+    <code>4/B/JBPL02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0752</id>
+    <code>4/B/JBPL03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0751</id>
+    <code>4/B/JBPL04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0750</id>
+    <code>4/B/JBPL05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0749</id>
+    <code>4/B/JBPL06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0748</id>
+    <code>4/B/JBPL07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0747</id>
+    <code>4/B/JBPL08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0746</id>
+    <code>4/B/JBPL09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0745</id>
+    <code>4/B/JBPL10</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0754</id>
+    <code>4/B/JBPL12</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0755</id>
+    <code>4/B/JBPL13</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0800</id>
+    <code>4/B/JBAR16</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0799</id>
+    <code>4/B/JBAR17</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0804</id>
+    <code>4/B/JBAR12</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0803</id>
+    <code>4/B/JBAR13</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0802</id>
+    <code>4/B/JBAR14</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0801</id>
+    <code>4/B/JBAR15</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0818</id>
+    <code>4/B/JBAR01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0817</id>
+    <code>4/B/JBAR02</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0815</id>
+    <code>4/B/JBAR03</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0814</id>
+    <code>4/B/JBAR04</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0813</id>
+    <code>4/B/JBAR05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0811</id>
+    <code>4/B/JBAR06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0809</id>
+    <code>4/B/JBAR07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0816</id>
+    <code>4/B/JBAR09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0812</id>
+    <code>4/B/JBAR10</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0810</id>
+    <code>4/B/JBAR11</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0768</id>
+    <code>4/A/JBAR01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0769</id>
+    <code>4/A/JBAR02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0770</id>
+    <code>4/A/JBAR03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0771</id>
+    <code>4/A/JBAR04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0772</id>
+    <code>4/A/JBAR05</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0779</id>
+    <code>4/A/JBAR06</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0780</id>
+    <code>4/A/JBAR07</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0781</id>
+    <code>4/A/JBAR08</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0564</id>
+    <code>3/B/JBBM01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0563</id>
+    <code>3/B/JBBM03</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0558</id>
+    <code>3/A/JBBM01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0559</id>
+    <code>3/A/JBBM02</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0649</id>
+    <code>3/A/JBBM03</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0650</id>
+    <code>3/A/JBBM04</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0651</id>
+    <code>3/A/JBBM05</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0560</id>
+    <code>3/A/JBTM03</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0561</id>
+    <code>3/A/JBTM04</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0562</id>
+    <code>3/A/JBTM05</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0097</id>
+    <code>1/B/JBTF01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0096</id>
+    <code>1/B/JBTF02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0095</id>
+    <code>1/B/JBTF03</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0094</id>
+    <code>1/B/JBTF04</code>
+    <zone>Batu Maung</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0093</id>
+    <code>1/B/JBTF05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0092</id>
+    <code>1/B/JBTF06</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0091</id>
+    <code>1/B/JBTF07</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0090</id>
+    <code>1/B/JBTF08</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0088</id>
+    <code>1/B/JBTF09</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0087</id>
+    <code>1/B/JBTF10</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0086</id>
+    <code>1/B/JBTF11</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0085</id>
+    <code>1/B/JBTF12</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0084</id>
+    <code>1/B/JBTF13</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0083</id>
+    <code>1/B/JBTF14</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0082</id>
+    <code>1/B/JBTF15</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0081</id>
+    <code>1/B/JBTF16</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0080</id>
+    <code>1/B/JBTF17</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0079</id>
+    <code>1/B/JBTF19</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0078</id>
+    <code>1/B/JBTF20</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0089</id>
+    <code>1/B/JBTF21</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0044</id>
+    <code>1/A/JBTF01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0045</id>
+    <code>1/A/JBTF02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0046</id>
+    <code>1/A/JBTF03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0047</id>
+    <code>1/A/JBTF04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0048</id>
+    <code>1/A/JBTF05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0049</id>
+    <code>1/A/JBTF06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0050</id>
+    <code>1/A/JBTF07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0051</id>
+    <code>1/A/JBTF08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0052</id>
+    <code>1/A/JBTF09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0053</id>
+    <code>1/A/JBTF10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0054</id>
+    <code>1/A/JBTF11</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0055</id>
+    <code>1/A/JBTF12</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0056</id>
+    <code>1/A/JBTF13</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0057</id>
+    <code>1/A/JBTF14</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0058</id>
+    <code>1/A/JBTF15</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0059</id>
+    <code>1/A/JBTF16</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0060</id>
+    <code>1/A/JBTF17</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0061</id>
+    <code>1/A/JBTF18</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0062</id>
+    <code>1/A/JBTF19</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0063</id>
+    <code>1/A/JBTF20</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0556</id>
+    <code>3/A/JBTM01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0557</id>
+    <code>3/A/JBTM02</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0567</id>
+    <code>3/B/JBTM01</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0566</id>
+    <code>3/B/JBTM02</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0565</id>
+    <code>H/A/HBTM00</code>
+    <zone>Batu Maung</zone>
+    <pcode>11960</pcode>
+  </bstop>
+  <bstop>
+    <id>B0536</id>
+    <code>4/B/JBYL01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0535</id>
+    <code>4/B/JBYL02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0708</id>
+    <code>4/B/JBYL04</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0707</id>
+    <code>4/B/JBYL05</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0706</id>
+    <code>4/B/JBYL06</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0704</id>
+    <code>4/B/JBYL07</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0705</id>
+    <code>4/B/JBYL08</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0537</id>
+    <code>4/A/JBYL01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0538</id>
+    <code>4/A/JBYL02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0539</id>
+    <code>4/A/JBYL03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0710</id>
+    <code>4/A/JBYL04</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0711</id>
+    <code>4/A/JBYL05</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0712</id>
+    <code>4/A/JBYL06</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0713</id>
+    <code>4/A/JBYL07</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0404</id>
+    <code>2/A/JBSI01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0405</id>
+    <code>2/A/JBSI02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0249</id>
+    <code>1/A/JBTG01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0278</id>
+    <code>1/B/JBTG01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0446</id>
+    <code>3/B/JBKL01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0389</id>
+    <code>H/A/JBKT00</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0388</id>
+    <code>2/A/JBKT03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0386</id>
+    <code>2/A/JBKT01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0387</id>
+    <code>2/A/JBKT02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0390</id>
+    <code>2/B/JBKT02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0415</id>
+    <code>2/A/JBGB01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0464</id>
+    <code>3/A/JBGB11</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0465</id>
+    <code>3/A/JBGB12</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0426</id>
+    <code>3/A/JBGB01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0507</id>
+    <code>3/A/JBGB02</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0508</id>
+    <code>3/A/JBGB03</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0509</id>
+    <code>3/A/JBGB04</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0510</id>
+    <code>3/A/JBGB05</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0511</id>
+    <code>3/A/JBGB06</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0512</id>
+    <code>3/A/JBGB07</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0513</id>
+    <code>3/A/JBGB08</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0514</id>
+    <code>3/A/JBGB09</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0463</id>
+    <code>3/A/JBGB10</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0604</id>
+    <code>3/B/JBGB09</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0606</id>
+    <code>3/B/JBGB07</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0605</id>
+    <code>3/B/JBGB08</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0610</id>
+    <code>3/B/JBGB03</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0609</id>
+    <code>3/B/JBGB04</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0608</id>
+    <code>3/B/JBGB05</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0607</id>
+    <code>3/B/JBGB06</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0119</id>
+    <code>1/B/JBRM11</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0118</id>
+    <code>1/B/JBRM12</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0123</id>
+    <code>1/B/JBRM07</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0122</id>
+    <code>1/B/JBRM08</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0121</id>
+    <code>1/B/JBRM09</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0120</id>
+    <code>1/B/JBRM10</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0124</id>
+    <code>1/B/JBRM06</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0022</id>
+    <code>1/A/JBRM11</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0011</id>
+    <code>1/A/JBRM01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0012</id>
+    <code>1/A/JBRM02</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0013</id>
+    <code>1/A/JBRM03</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0014</id>
+    <code>1/A/JBRM04</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0015</id>
+    <code>1/A/JBRM05</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0017</id>
+    <code>1/A/JBRM06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0018</id>
+    <code>1/A/JBRM07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0019</id>
+    <code>1/A/JBRM08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0020</id>
+    <code>1/A/JBRM09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0021</id>
+    <code>1/A/JBRM10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0637</id>
+    <code>1/A/JCAN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0638</id>
+    <code>1/A/JCAN02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0231</id>
+    <code>1/A/JCST01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0521</id>
+    <code>3/A/JDIH01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0522</id>
+    <code>3/A/JDIH02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0523</id>
+    <code>3/A/JDIH03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0524</id>
+    <code>3/A/JDIH04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0525</id>
+    <code>3/A/JDIH05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0526</id>
+    <code>3/A/JDIH06</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0527</id>
+    <code>3/A/JDIH07</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0528</id>
+    <code>3/A/JDIH08</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0531</id>
+    <code>3/A/JDIH09</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0532</id>
+    <code>3/A/JDIH10</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0533</id>
+    <code>3/A/JDIH11</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0534</id>
+    <code>3/A/JDIH12</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0471</id>
+    <code>3/A/JDIH15</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0594</id>
+    <code>3/B/JDIH01</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0593</id>
+    <code>3/B/JDIH02</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0592</id>
+    <code>3/B/JDIH03</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0591</id>
+    <code>3/B/JDIH04</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0590</id>
+    <code>3/B/JDIH05</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0588</id>
+    <code>3/B/JDIH06</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0587</id>
+    <code>3/B/JDIH08</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0586</id>
+    <code>3/B/JDIH09</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0585</id>
+    <code>3/B/JDIH10</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0584</id>
+    <code>3/B/JDIH11</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0583</id>
+    <code>3/B/JDIH12</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0589</id>
+    <code>3/B/JDIH13</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0481</id>
+    <code>3/B/JDIH15</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0282</id>
+    <code>2/A/JDTK01</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0283</id>
+    <code>2/A/JDTK02</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0284</id>
+    <code>2/A/JDTK03</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0285</id>
+    <code>2/A/JDTK04</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0286</id>
+    <code>2/A/JDTK05</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0287</id>
+    <code>2/A/JDTK06</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0351</id>
+    <code>2/B/JDTK01</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0350</id>
+    <code>2/B/JDTK02</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0349</id>
+    <code>2/B/JDTK03</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0348</id>
+    <code>2/B/JDTK04</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0347</id>
+    <code>2/B/JDTK05</code>
+    <zone>Perai</zone>
+    <pcode>13600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0428</id>
+    <code>2/B/JDLM04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0427</id>
+    <code>2/B/JDLM05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0430</id>
+    <code>2/B/JDLM02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0429</id>
+    <code>2/B/JDLM03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0411</id>
+    <code>2/A/JDLM02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0412</id>
+    <code>2/A/JDLM03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0413</id>
+    <code>2/A/JDLM04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0414</id>
+    <code>2/A/JDLM05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0410</id>
+    <code>2/A/JDLM01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0503</id>
+    <code>3/B/JLCL01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0248</id>
+    <code>1/A/JEVG01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0279</id>
+    <code>1/B/JEVG01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0280</id>
+    <code>1/B/JFTS01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0247</id>
+    <code>1/A/JFTS01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0250</id>
+    <code>1/A/JGJH01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0276</id>
+    <code>1/B/JGJH02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0277</id>
+    <code>1/B/JGJH03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0406</id>
+    <code>2/A/JGSA01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0407</id>
+    <code>2/A/JGSA02</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0455</id>
+    <code>3/A/JGLG01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0456</id>
+    <code>3/A/JGLG02</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0625</id>
+    <code>3/B/JGLG01</code>
+    <zone>Gelugor</zone>
+    <pcode>11700</pcode>
+  </bstop>
+  <bstop>
+    <id>B0690</id>
+    <code>3/B/JGSG01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0688</id>
+    <code>3/B/JGSG02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0687</id>
+    <code>3/B/JGSG03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0691</id>
+    <code>3/B/JGSG05</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0689</id>
+    <code>3/B/JGSG06</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0686</id>
+    <code>3/B/JGSG07</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0703</id>
+    <code>3/B/JGTS01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0702</id>
+    <code>3/B/JGTS02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0685</id>
+    <code>H/A/GTSG00</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0724</id>
+    <code>3/A/JGSG01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0726</id>
+    <code>3/A/JGSG02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0727</id>
+    <code>3/A/JGSG03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0725</id>
+    <code>3/A/JGSG04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0714</id>
+    <code>3/A/JGTS01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0715</id>
+    <code>3/A/JGTS02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11910</pcode>
+  </bstop>
+  <bstop>
+    <id>B0181</id>
+    <code>1/B/JGTB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0179</id>
+    <code>1/B/JGTB02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0180</id>
+    <code>1/B/JGTB03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0177</id>
+    <code>1/A/JGTB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0178</id>
+    <code>1/A/JGTB02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0506</id>
+    <code>3/A/JGUR01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0402</id>
+    <code>2/A/JHML01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0403</id>
+    <code>2/A/JHML02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0433</id>
+    <code>2/B/JHML01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0066</id>
+    <code>1/A/JHSA01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0067</id>
+    <code>1/A/JHSA02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0068</id>
+    <code>1/A/JHSA03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0069</id>
+    <code>1/A/JHSA04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0070</id>
+    <code>1/A/JHSA05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0074</id>
+    <code>1/B/JHSA01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0073</id>
+    <code>1/B/JHSA02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0072</id>
+    <code>1/B/JHSA03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0071</id>
+    <code>1/B/JHSA04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0929</id>
+    <code>1/A/JHTN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0448</id>
+    <code>3/A/JJLT01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0449</id>
+    <code>3/A/JJLT02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0450</id>
+    <code>3/A/JJLT03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0451</id>
+    <code>3/A/JJLT04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0452</id>
+    <code>3/A/JJLT05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0453</id>
+    <code>3/A/JJLT06</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0454</id>
+    <code>3/A/JJLT07</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0501</id>
+    <code>3/B/JJLT02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0500</id>
+    <code>3/B/JJLT03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0499</id>
+    <code>3/B/JJLT04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0498</id>
+    <code>3/B/JJLT05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0497</id>
+    <code>3/B/JJLT06</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0627</id>
+    <code>3/B/JJLT07</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0626</id>
+    <code>3/B/JJLT08</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0505</id>
+    <code>3/B/JKKL01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0442</id>
+    <code>3/A/JKKL01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0719</id>
+    <code>3/A/JKPM01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0720</id>
+    <code>3/A/JKPM02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0721</id>
+    <code>3/A/JKPM03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0722</id>
+    <code>3/A/JKPM04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0723</id>
+    <code>3/A/JKPM05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0697</id>
+    <code>3/B/JKPM01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0695</id>
+    <code>3/B/JKPM02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0694</id>
+    <code>3/B/JKPM03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0693</id>
+    <code>3/B/JKPM04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0692</id>
+    <code>3/B/JKPM05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0696</id>
+    <code>3/B/JKPM06</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0393</id>
+    <code>2/B/JKPM02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0392</id>
+    <code>2/B/JKPM03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0380</id>
+    <code>2/A/JKPM01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0381</id>
+    <code>2/A/JKPM02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0382</id>
+    <code>2/A/JKPM03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0384</id>
+    <code>2/A/JKPP01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0385</id>
+    <code>2/A/JKPP02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0391</id>
+    <code>2/B/JKPP01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0485</id>
+    <code>3/B/JKPR01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0486</id>
+    <code>3/B/JKPR02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0785</id>
+    <code>4/A/JKTR01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0786</id>
+    <code>4/A/JKTR02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0787</id>
+    <code>4/A/JKTR03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0788</id>
+    <code>4/A/JKTR04</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0795</id>
+    <code>H/A/HPLB00</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0798</id>
+    <code>4/B/JKTR08</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0797</id>
+    <code>4/B/JKTR09</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0796</id>
+    <code>4/B/JKTR10</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0789</id>
+    <code>4/A/JKTR05</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0790</id>
+    <code>4/A/JKTR06</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0791</id>
+    <code>4/A/JKTR07</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0792</id>
+    <code>4/A/JKTR08</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0793</id>
+    <code>4/A/JKTR09</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0794</id>
+    <code>4/A/JKTR10</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0922</id>
+    <code>H/A/HKBG00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0921</id>
+    <code>1/A/JKBG01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0925</id>
+    <code>1/B/JKBG02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0924</id>
+    <code>1/B/JKBG03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0923</id>
+    <code>1/B/JKBG04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0239</id>
+    <code>1/B/JKLW01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0238</id>
+    <code>1/B/JKLW02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0237</id>
+    <code>1/B/JKLW03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0236</id>
+    <code>1/B/JKLW04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0235</id>
+    <code>1/B/JKLW06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0234</id>
+    <code>1/B/JKLW07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0225</id>
+    <code>1/A/JKLW01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0226</id>
+    <code>1/A/JKLW02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0227</id>
+    <code>1/A/JKLW03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0228</id>
+    <code>1/A/JKLW04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0229</id>
+    <code>1/A/JKLW05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0230</id>
+    <code>1/A/JKLW06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0773</id>
+    <code>4/A/JKJB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0774</id>
+    <code>4/A/JKJB02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0775</id>
+    <code>4/A/JKJB03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0776</id>
+    <code>4/A/JKJB04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0777</id>
+    <code>4/A/JKJB05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0778</id>
+    <code>4/A/JKJB06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0838</id>
+    <code>4/A/JKSP01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0839</id>
+    <code>4/A/JKSP02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0840</id>
+    <code>4/A/JKSP03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0841</id>
+    <code>4/A/JKSP04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0842</id>
+    <code>4/A/JKSP05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0843</id>
+    <code>4/A/JKSP06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0914</id>
+    <code>1/A/JLAR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0425</id>
+    <code>3/A/JLMB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0416</id>
+    <code>3/B/JLMB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0259</id>
+    <code>1/A/JLPM01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0260</id>
+    <code>1/A/JLPM02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0261</id>
+    <code>1/A/JLPM03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0262</id>
+    <code>1/A/JLPM04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0263</id>
+    <code>1/A/JLPM05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0264</id>
+    <code>1/A/JLPM06</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0268</id>
+    <code>1/B/JLPM01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0267</id>
+    <code>1/B/JLPM02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0266</id>
+    <code>1/B/JLPM03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0265</id>
+    <code>1/B/JLPM05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0274</id>
+    <code>1/B/JLPH01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0253</id>
+    <code>1/A/JLPH01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0918</id>
+    <code>1/A/JMCA09</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0185</id>
+    <code>1/B/JMCA01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0127</id>
+    <code>1/B/JMCA02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0128</id>
+    <code>1/B/JMCA03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0129</id>
+    <code>1/B/JMCA04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0130</id>
+    <code>1/B/JMCA05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0131</id>
+    <code>1/B/JMCA06</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0186</id>
+    <code>1/B/JMCA07</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0187</id>
+    <code>1/B/JMCA08</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0632</id>
+    <code>3/A/JMGN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0633</id>
+    <code>3/A/JMGN02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0516</id>
+    <code>3/A/JMAH02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0515</id>
+    <code>3/A/JMAH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0601</id>
+    <code>3/B/JMAH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0600</id>
+    <code>3/B/JMAH02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0910</id>
+    <code>1/B/JMKL01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0165</id>
+    <code>2/B/JMJN01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0166</id>
+    <code>2/B/JMJN02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0167</id>
+    <code>2/B/JMJN03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0168</id>
+    <code>2/B/JMJN04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0169</id>
+    <code>2/B/JMJN05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0170</id>
+    <code>2/B/JMJN06</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0171</id>
+    <code>2/B/JMJN07</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0198</id>
+    <code>2/A/JMJN01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0197</id>
+    <code>2/A/JMJN02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0196</id>
+    <code>2/A/JMJN03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0195</id>
+    <code>2/A/JMJN04</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0194</id>
+    <code>2/A/JMJN05</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0193</id>
+    <code>2/A/JMJN07</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0517</id>
+    <code>3/A/JMYP01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0518</id>
+    <code>3/A/JMYP02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0620</id>
+    <code>3/A/JMYP04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0599</id>
+    <code>3/B/JMYP01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0597</id>
+    <code>3/B/JMYP02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0598</id>
+    <code>3/B/JMYP03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0624</id>
+    <code>3/B/JMYP04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0623</id>
+    <code>H/B/JMYP00</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0675</id>
+    <code>H/A/HBBR00</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0437</id>
+    <code>2/B/JPRL01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0436</id>
+    <code>2/B/JPRL02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0435</id>
+    <code>2/B/JPRL03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0398</id>
+    <code>2/A/JPRL01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0399</id>
+    <code>2/A/JPRL02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0400</id>
+    <code>2/A/JPRL03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0297</id>
+    <code>2/A/JPDT04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0294</id>
+    <code>2/A/JPDT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0295</id>
+    <code>2/A/JPDT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0296</id>
+    <code>2/A/JPDT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0341</id>
+    <code>2/B/JPDT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0340</id>
+    <code>2/B/JPDT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0339</id>
+    <code>2/B/JPDT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11400</pcode>
+  </bstop>
+  <bstop>
+    <id>B0224</id>
+    <code>1/A/JPKR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0853</id>
+    <code>H/B/HPTA00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0846</id>
+    <code>4/A/JPAC01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0847</id>
+    <code>4/A/JPAC02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0848</id>
+    <code>4/A/JPAC03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0849</id>
+    <code>4/A/JPAC04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0850</id>
+    <code>4/A/JPAC05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0851</id>
+    <code>4/A/JPAC06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0852</id>
+    <code>4/A/JPAC07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0861</id>
+    <code>4/B/JPAC01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0860</id>
+    <code>4/B/JPAC02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0859</id>
+    <code>4/B/JPAC03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0858</id>
+    <code>4/B/JPAC04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0856</id>
+    <code>4/B/JPAC05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0855</id>
+    <code>4/B/JPAC06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0854</id>
+    <code>4/B/JPAC07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0857</id>
+    <code>4/B/JPAC08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0330</id>
+    <code>2/B/JPSR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0441</id>
+    <code>2/B/JPTN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0440</id>
+    <code>2/B/JPTN03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0394</id>
+    <code>2/A/JPTN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0395</id>
+    <code>2/A/JPTN02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0305</id>
+    <code>2/A/JPYT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0306</id>
+    <code>2/A/JPYT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0307</id>
+    <code>2/A/JPYT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0308</id>
+    <code>2/A/JPYT04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0309</id>
+    <code>2/A/JPYT05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0310</id>
+    <code>2/A/JPYT06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0311</id>
+    <code>2/A/JPYT07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0312</id>
+    <code>2/A/JPYT08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0313</id>
+    <code>2/A/JPYT09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0314</id>
+    <code>2/A/JPYT10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0663</id>
+    <code>2/A/JPYT12</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0664</id>
+    <code>2/A/JPYT13</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0328</id>
+    <code>2/B/JPYT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0327</id>
+    <code>2/B/JPYT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0326</id>
+    <code>2/B/JPYT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0325</id>
+    <code>2/B/JPYT04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0324</id>
+    <code>2/B/JPYT05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0323</id>
+    <code>2/B/JPYT06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0322</id>
+    <code>2/B/JPYT07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0321</id>
+    <code>2/B/JPYT08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0320</id>
+    <code>2/B/JPYT09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0329</id>
+    <code>2/B/JPYT10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0905</id>
+    <code>2/B/JPYT11</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0665</id>
+    <code>2/B/JPYT12</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0319</id>
+    <code>H/A/JPYT00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0480</id>
+    <code>3/B/JPYT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0479</id>
+    <code>3/B/JPYT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0478</id>
+    <code>3/B/JPYT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0477</id>
+    <code>3/B/JPYT04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0472</id>
+    <code>3/A/JPYT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0473</id>
+    <code>3/A/JPYT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0474</id>
+    <code>3/A/JPYT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0475</id>
+    <code>3/A/JPYT04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0636</id>
+    <code>1/A/JPMN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0223</id>
+    <code>1/A/JPNG01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0007</id>
+    <code>1/A/JPNG02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0008</id>
+    <code>1/A/JPNG03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0010</id>
+    <code>1/B/JPNG01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0243</id>
+    <code>1/B/JPNG04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0140</id>
+    <code>1/B/JPKW01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0141</id>
+    <code>1/B/JPKW02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0142</id>
+    <code>1/B/JPKW03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0666</id>
+    <code>3/A/JPKW01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0667</id>
+    <code>3/A/JPKW02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0668</id>
+    <code>3/A/JPKW03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0683</id>
+    <code>3/B/JPKW01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0684</id>
+    <code>3/B/JPKW02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0682</id>
+    <code>3/B/JPKW03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0281</id>
+    <code>T/A/JTTY01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0001</id>
+    <code>T/A/JTTY02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0352</id>
+    <code>T/B/JTTY01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0143</id>
+    <code>T/B/JTTY02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0906</id>
+    <code>H/A/HCAT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0935</id>
+    <code>1/B/JPRK02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0934</id>
+    <code>1/B/JPRK03</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0933</id>
+    <code>1/B/JPRK04</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0932</id>
+    <code>1/B/JPRK05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0931</id>
+    <code>1/B/JPRK06</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0930</id>
+    <code>1/B/JPRK07</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0126</id>
+    <code>1/B/JPRK09</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0125</id>
+    <code>1/B/JPRK10</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0939</id>
+    <code>1/A/JPRK01</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0940</id>
+    <code>1/A/JPRK02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0941</id>
+    <code>1/A/JPRK03</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0942</id>
+    <code>1/A/JPRK04</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0943</id>
+    <code>1/A/JPRK05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0944</id>
+    <code>1/A/JPRK06</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0945</id>
+    <code>1/A/JPRK07</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0917</id>
+    <code>1/A/JPRK08</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0927</id>
+    <code>1/A/JPRK09</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0016</id>
+    <code>1/A/JPRK10</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0546</id>
+    <code>3/A/JPDL07</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0547</id>
+    <code>3/A/JPDL08</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0548</id>
+    <code>3/A/JPDL09</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0549</id>
+    <code>3/A/JPDL10</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0540</id>
+    <code>3/A/JPDL01</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0541</id>
+    <code>3/A/JPDL02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0542</id>
+    <code>3/A/JPDL03</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0543</id>
+    <code>3/A/JPDL04</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0544</id>
+    <code>3/A/JPDL05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0545</id>
+    <code>3/A/JPDL06</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0582</id>
+    <code>3/B/JPDL01</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0581</id>
+    <code>3/B/JPDL02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0580</id>
+    <code>3/B/JPDL03</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0579</id>
+    <code>3/B/JPDL04</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0578</id>
+    <code>3/B/JPDL05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0577</id>
+    <code>3/B/JPDL06</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0576</id>
+    <code>3/B/JPDL08</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0575</id>
+    <code>3/B/JPDL10</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0574</id>
+    <code>3/B/JPLA01</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0573</id>
+    <code>3/B/JPLA02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0571</id>
+    <code>3/B/JPLA03</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0570</id>
+    <code>3/B/JPLA05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0568</id>
+    <code>3/B/JPLA06</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0569</id>
+    <code>3/B/JPLA07</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0572</id>
+    <code>3/B/JPLA08</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0555</id>
+    <code>3/A/JPLA06</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0551</id>
+    <code>3/A/JPLA02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0552</id>
+    <code>3/A/JPLA03</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0553</id>
+    <code>3/A/JPLA04</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0554</id>
+    <code>3/A/JPLA05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0550</id>
+    <code>3/A/JPLA01</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0383</id>
+    <code>2/A/JPSE01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0188</id>
+    <code>1/A/JRSD01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0189</id>
+    <code>1/A/JRSD02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0190</id>
+    <code>1/A/JRSD03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0909</id>
+    <code>I/A/KMTR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0009</id>
+    <code>I/A/KMTR00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0192</id>
+    <code>2/A/JSCT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0172</id>
+    <code>2/B/JSCT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0173</id>
+    <code>2/B/JSCT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0360</id>
+    <code>2/A/JSMA01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0298</id>
+    <code>2/A/JSPD01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0299</id>
+    <code>2/A/JSPD02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0338</id>
+    <code>2/B/JSDP01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0337</id>
+    <code>2/B/JSPD02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0336</id>
+    <code>2/B/JSPD03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0919</id>
+    <code>1/A/JSPL01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0432</id>
+    <code>2/B/JSIB01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0134</id>
+    <code>1/B/JSBH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0135</id>
+    <code>1/B/JSBH02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0240</id>
+    <code>1/B/JSAS01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0241</id>
+    <code>1/B/JSAS02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0220</id>
+    <code>3/A/JSAZ01</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0218</id>
+    <code>3/A/JSAZ02</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0217</id>
+    <code>3/A/JSAZ04</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0216</id>
+    <code>3/A/JSAZ05</code>
+    <zone>Kepala Batas</zone>
+    <pcode>13220</pcode>
+  </bstop>
+  <bstop>
+    <id>B0214</id>
+    <code>3/A/JSAZ06</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0213</id>
+    <code>3/A/JSAZ07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0212</id>
+    <code>3/A/JSAZ08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0211</id>
+    <code>3/A/JSAZ09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0210</id>
+    <code>3/A/JSAZ10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0209</id>
+    <code>3/A/JSAZ11</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0208</id>
+    <code>3/A/JSAZ12</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0207</id>
+    <code>3/A/JSAZ13</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0206</id>
+    <code>3/A/JSAZ14</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0205</id>
+    <code>3/A/JSAZ15</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0204</id>
+    <code>3/A/JSAZ16</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0203</id>
+    <code>3/A/JSAZ17</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0201</id>
+    <code>3/A/JSAZ18</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0200</id>
+    <code>3/A/JSAZ19</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0199</id>
+    <code>3/A/JSAZ20</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0202</id>
+    <code>3/A/JSAZ21</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0215</id>
+    <code>3/A/JSAZ22</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0219</id>
+    <code>3/A/JSAZ23</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0145</id>
+    <code>3/B/JSAZ01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0146</id>
+    <code>3/B/JSAZ02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0147</id>
+    <code>3/B/JSAZ03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0148</id>
+    <code>3/B/JSAZ04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0149</id>
+    <code>3/B/JSAZ05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0150</id>
+    <code>3/B/JSAZ06</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0151</id>
+    <code>3/B/JSAZ07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0152</id>
+    <code>3/B/JSAZ08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0153</id>
+    <code>3/B/JSAZ09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0154</id>
+    <code>3/B/JSAZ10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10450</pcode>
+  </bstop>
+  <bstop>
+    <id>B0155</id>
+    <code>3/B/JSAZ11</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0156</id>
+    <code>3/B/JSAZ12</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0157</id>
+    <code>3/B/JSAZ13</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0158</id>
+    <code>3/B/JSAZ14</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0159</id>
+    <code>3/B/JSAZ15</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0160</id>
+    <code>3/B/JSAZ16</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0161</id>
+    <code>3/B/JSAZ17</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0162</id>
+    <code>3/B/JSAZ18</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0163</id>
+    <code>3/B/JSAZ19</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0164</id>
+    <code>3/B/JSAZ20</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0445</id>
+    <code>3/B/JSGI01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0828</id>
+    <code>4/A/JSAP01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0829</id>
+    <code>4/A/JSAP02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0830</id>
+    <code>4/A/JSAP03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0782</id>
+    <code>4/A/JSBR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0783</id>
+    <code>4/A/JSBR02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0808</id>
+    <code>4/B/JSBR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0806</id>
+    <code>4/B/JSBR02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0805</id>
+    <code>4/B/JSBR03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0807</id>
+    <code>4/B/JSBR04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0709</id>
+    <code>D/A/DSGN00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0492</id>
+    <code>3/B/JSGD01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0491</id>
+    <code>3/B/JSGD02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0490</id>
+    <code>3/B/JSGD03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0489</id>
+    <code>3/B/JSGD04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0488</id>
+    <code>3/B/JSGD05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0487</id>
+    <code>3/B/JSGD06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0457</id>
+    <code>3/A/JSGD01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0458</id>
+    <code>3/A/JSGD02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0459</id>
+    <code>3/A/JSGD03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0460</id>
+    <code>3/A/JSGD04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0618</id>
+    <code>3/A/JSGD05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0619</id>
+    <code>3/A/JSGD06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0275</id>
+    <code>1/B/JSKL01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0251</id>
+    <code>1/A/JSKL01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0252</id>
+    <code>1/A/JSKL02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0784</id>
+    <code>4/A/JSNP01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0628</id>
+    <code>2/B/JSGP04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0439</id>
+    <code>2/B/JSGP01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0438</id>
+    <code>2/B/JSGP02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0396</id>
+    <code>2/A/JSGP01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0397</id>
+    <code>2/A/JSGP02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0502</id>
+    <code>2/A/JSGP03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0617</id>
+    <code>2/A/JSGP04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0760</id>
+    <code>4/A/JSGP01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0761</id>
+    <code>4/A/JSGP02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0762</id>
+    <code>4/A/JSGP03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0763</id>
+    <code>4/A/JSGP04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0764</id>
+    <code>4/A/JSGP05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0765</id>
+    <code>4/A/JSGP06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0766</id>
+    <code>4/A/JSGP07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0767</id>
+    <code>4/A/JSGP08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0826</id>
+    <code>4/B/JSGP01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0825</id>
+    <code>4/B/JSGP02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0824</id>
+    <code>4/B/JSGP03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0823</id>
+    <code>4/B/JSGP04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0822</id>
+    <code>4/B/JSGP05</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0820</id>
+    <code>4/B/JSGP06</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0819</id>
+    <code>4/B/JSGP07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0821</id>
+    <code>4/B/JSGP09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0876</id>
+    <code>4/B/JSGR01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0874</id>
+    <code>4/B/JSGR02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0873</id>
+    <code>4/B/JSGR03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0871</id>
+    <code>4/B/JSGR04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0868</id>
+    <code>4/B/JSGR05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0867</id>
+    <code>4/B/JSGR06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0866</id>
+    <code>4/B/JSGR07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0865</id>
+    <code>4/B/JSGR08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0864</id>
+    <code>4/B/JSGR09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0862</id>
+    <code>4/B/JSGR10</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0863</id>
+    <code>4/B/JSGR11</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0869</id>
+    <code>4/B/JSGR12</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0870</id>
+    <code>4/B/JSGR13</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0872</id>
+    <code>4/B/JSGR14</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0875</id>
+    <code>4/B/JSGR15</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0827</id>
+    <code>4/A/JSGR01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0831</id>
+    <code>4/A/JSGR02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0832</id>
+    <code>4/A/JSGR03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0833</id>
+    <code>4/A/JSGR04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0834</id>
+    <code>4/A/JSGR05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0835</id>
+    <code>4/A/JSGR06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0836</id>
+    <code>4/A/JSGR07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0837</id>
+    <code>4/A/JSGR08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0844</id>
+    <code>4/A/JSGR09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0845</id>
+    <code>4/A/JSGR10</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0937</id>
+    <code>2/A/JTEH03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0938</id>
+    <code>2/A/JTEH04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0431</id>
+    <code>2/B/JTEH01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0496</id>
+    <code>2/B/JTEH02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0025</id>
+    <code>1/A/JTKG01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0026</id>
+    <code>1/A/JTKG02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0027</id>
+    <code>1/A/JTKG03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0028</id>
+    <code>1/A/JTKG04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0029</id>
+    <code>1/A/JTKG05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0030</id>
+    <code>1/A/JTKG06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0031</id>
+    <code>1/A/JTKG07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0032</id>
+    <code>1/A/JTKG08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0033</id>
+    <code>1/A/JTKG09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0034</id>
+    <code>1/A/JTKG10</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0114</id>
+    <code>1/B/JTKG01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0113</id>
+    <code>1/B/JTKG02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0112</id>
+    <code>1/B/JTKG03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0111</id>
+    <code>1/B/JTKG05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0110</id>
+    <code>1/B/JTKG06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0109</id>
+    <code>1/B/JTKG07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0108</id>
+    <code>1/B/JTKG09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0107</id>
+    <code>1/B/JTKG10</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0106</id>
+    <code>1/B/JTGB01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0105</id>
+    <code>1/B/JTGB02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0104</id>
+    <code>1/B/JTGB03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0103</id>
+    <code>1/B/JTGB04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0102</id>
+    <code>1/B/JTGB05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0101</id>
+    <code>1/B/JTGB06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0100</id>
+    <code>1/B/JTGB07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0099</id>
+    <code>1/B/JTGB08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0098</id>
+    <code>1/B/JTGB09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0042</id>
+    <code>1/A/JTGB08</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0043</id>
+    <code>1/A/JTGB09</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0035</id>
+    <code>1/A/JTGB01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0036</id>
+    <code>1/A/JTGB02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0037</id>
+    <code>1/A/JTGB03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0038</id>
+    <code>1/A/JTGB04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0039</id>
+    <code>1/A/JTGB05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0040</id>
+    <code>1/A/JTGB06</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0041</id>
+    <code>1/A/JTGB07</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0232</id>
+    <code>D/A/DTGB01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0233</id>
+    <code>D/B/DTGB01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11010</pcode>
+  </bstop>
+  <bstop>
+    <id>B0896</id>
+    <code>4/B/JTLB03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0895</id>
+    <code>4/B/JTLB04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0894</id>
+    <code>4/B/JTLB06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0893</id>
+    <code>4/B/JTLB07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0892</id>
+    <code>4/B/JTLB08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0891</id>
+    <code>4/B/JTLB09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0890</id>
+    <code>4/B/JTLB10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0888</id>
+    <code>4/B/JTLB11</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0889</id>
+    <code>4/B/JTLB12</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0075</id>
+    <code>H/B/JTLB00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0065</id>
+    <code>H/A/JTLB00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0877</id>
+    <code>4/A/JTLB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0878</id>
+    <code>4/A/JTLB02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0879</id>
+    <code>4/A/JTLB03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0880</id>
+    <code>4/A/JTLB04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0881</id>
+    <code>4/A/JTLB05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0882</id>
+    <code>4/A/JTLB06</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0883</id>
+    <code>4/A/JTLB07</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0884</id>
+    <code>4/A/JTLB08</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0885</id>
+    <code>4/A/JTLB09</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0886</id>
+    <code>4/A/JTLB10</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0887</id>
+    <code>4/A/JTLB11</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0898</id>
+    <code>4/B/JTLB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0897</id>
+    <code>4/B/JTLB02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0064</id>
+    <code>1/A/JTLB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0076</id>
+    <code>1/B/JTLB01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0077</id>
+    <code>1/B/JTLB02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0732</id>
+    <code>4/A/JTLK05</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0728</id>
+    <code>4/A/JTLK01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0729</id>
+    <code>4/A/JTLK02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0730</id>
+    <code>4/A/JTLK03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0731</id>
+    <code>4/A/JTLK04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0759</id>
+    <code>4/B/JTLK01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0758</id>
+    <code>4/B/JTLK02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0757</id>
+    <code>4/B/JTLK03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0756</id>
+    <code>4/B/JTLK04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0652</id>
+    <code>3/A/JTPY01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0653</id>
+    <code>3/A/JTPY02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0654</id>
+    <code>3/A/JTPY03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0655</id>
+    <code>3/A/JTPY04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0656</id>
+    <code>3/A/JTPY05</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0657</id>
+    <code>3/A/JTPY06</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0661</id>
+    <code>3/B/JTPY02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0660</id>
+    <code>3/B/JTPY03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0658</id>
+    <code>3/B/JTPY05</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0659</id>
+    <code>3/B/JTPY07</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0409</id>
+    <code>2/A/JTBG02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0408</id>
+    <code>2/A/JTBG01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0596</id>
+    <code>3/B/JTGH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0595</id>
+    <code>3/B/JTGH02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0662</id>
+    <code>3/B/JTGH03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0519</id>
+    <code>3/A/JTGH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0520</id>
+    <code>3/A/JTGH02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0648</id>
+    <code>3/A/JTGH03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0401</id>
+    <code>2/A/JTRN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0434</id>
+    <code>2/B/JTRN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10460</pcode>
+  </bstop>
+  <bstop>
+    <id>B0372</id>
+    <code>2/B/JTHT05</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0374</id>
+    <code>2/B/JTHT03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0373</id>
+    <code>2/B/JTHT04</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0376</id>
+    <code>2/B/JTHT01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0375</id>
+    <code>2/B/JTHT02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0354</id>
+    <code>2/A/JTHT01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0355</id>
+    <code>2/A/JTHT02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0356</id>
+    <code>2/A/JTHT03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0357</id>
+    <code>2/A/JTHT04</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0358</id>
+    <code>2/A/JTHT05</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0132</id>
+    <code>1/B/JTSF01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0133</id>
+    <code>1/B/JTSF02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10050</pcode>
+  </bstop>
+  <bstop>
+    <id>B0470</id>
+    <code>3/A/JTDA04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0467</id>
+    <code>3/A/JTDA01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0468</id>
+    <code>3/A/JTDA02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0469</id>
+    <code>3/A/JTDA03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0602</id>
+    <code>3/B/JTDA05</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0484</id>
+    <code>3/B/JTDA02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0483</id>
+    <code>3/B/JTDA03</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0482</id>
+    <code>3/B/JTDA04</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0466</id>
+    <code>H/B/HKBJ01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0899</id>
+    <code>5/A/JTSD01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0900</id>
+    <code>5/A/JTSD02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0904</id>
+    <code>5/B/JTSD01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0744</id>
+    <code>D/A/DBPL00</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0901</id>
+    <code>5/B/JTSD02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0903</id>
+    <code>5/B/JTSD03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0902</id>
+    <code>5/B/JTSD04</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0743</id>
+    <code>5/B/JTSD05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0184</id>
+    <code>1/B/JUTM01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0183</id>
+    <code>1/B/JUTM02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0182</id>
+    <code>1/B/JUTM03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0647</id>
+    <code>1/B/JUTM05</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0191</id>
+    <code>1/A/JUTM01</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0174</id>
+    <code>1/A/JUTM02</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0175</id>
+    <code>1/A/JUTM03</code>
+    <zone>Balik Pulau</zone>
+    <pcode>11000</pcode>
+  </bstop>
+  <bstop>
+    <id>B0176</id>
+    <code>1/A/JUTM04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0444</id>
+    <code>3/B/JVTN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0504</id>
+    <code>3/B/LCNV01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10150</pcode>
+  </bstop>
+  <bstop>
+    <id>B0003</id>
+    <code>1/A/LCHU02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0004</id>
+    <code>1/A/LCHU03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0005</id>
+    <code>1/A/LCHU04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0006</id>
+    <code>1/A/LCHU05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0138</id>
+    <code>1/B/LCHU02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0137</id>
+    <code>1/B/LCHU04</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0136</id>
+    <code>1/B/LCHU05</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0911</id>
+    <code>1/B/LDWN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0244</id>
+    <code>1/B/LFQR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0222</id>
+    <code>1/A/LFQR01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0221</id>
+    <code>1/A/LLGH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0245</id>
+    <code>1/B/LLGH01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0246</id>
+    <code>1/B/LLGH02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0443</id>
+    <code>3/B/LLTG01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0612</id>
+    <code>3/A/LMCM01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0447</id>
+    <code>3/A/LMCN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0611</id>
+    <code>3/B/LMCN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0603</id>
+    <code>3/B/LNIP01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0912</id>
+    <code>1/B/LPTI03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0907</id>
+    <code>1/A/LPTI01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0908</id>
+    <code>1/A/LPTI02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10300</pcode>
+  </bstop>
+  <bstop>
+    <id>B0476</id>
+    <code>H/A/RELA00</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0420</id>
+    <code>H/A/LTKD00</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11900</pcode>
+  </bstop>
+  <bstop>
+    <id>B0495</id>
+    <code>H/B/BTLC00</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0644</id>
+    <code>3/B/LBYL02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0678</id>
+    <code>3/B/LBYL01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0672</id>
+    <code>3/A/LBYL01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0643</id>
+    <code>3/A/LBYL02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0920</id>
+    <code>1/A/LCOD01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0926</id>
+    <code>1/B/LCOD01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0494</id>
+    <code>3/B/LBRG02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0493</id>
+    <code>3/B/LBRG01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0639</id>
+    <code>1/A/LPEL01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0362</id>
+    <code>2/A/LTHT01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0363</id>
+    <code>2/A/LTHT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0364</id>
+    <code>2/A/LTHT03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0367</id>
+    <code>2/B/LTHT01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0366</id>
+    <code>2/B/LTHT02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0365</id>
+    <code>2/B/LTHT03</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0616</id>
+    <code>3/A/GLCE02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0679</id>
+    <code>3/B/LLCE03</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0681</id>
+    <code>3/B/LLCE01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0680</id>
+    <code>3/B/LLCE02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10350</pcode>
+  </bstop>
+  <bstop>
+    <id>B0669</id>
+    <code>3/A/LLCE01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0670</id>
+    <code>3/A/LLCE02</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0671</id>
+    <code>3/A/LLCE03</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0461</id>
+    <code>3/A/LNIP01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0462</id>
+    <code>3/A/LNIP02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0368</id>
+    <code>2/B/LANG01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0369</id>
+    <code>2/B/LANG02</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0361</id>
+    <code>2/A/LANG01</code>
+    <zone>Ayer Itam</zone>
+    <pcode>11500</pcode>
+  </bstop>
+  <bstop>
+    <id>B0936</id>
+    <code>3/A/LBTL01</code>
+    <zone>Jelutong</zone>
+    <pcode>11600</pcode>
+  </bstop>
+  <bstop>
+    <id>B0716</id>
+    <code>3/A/LKGM02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0701</id>
+    <code>3/B/LKGM01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0700</id>
+    <code>3/B/LKGM02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0258</id>
+    <code>1/A/LTLP01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0269</id>
+    <code>1/B/LTLP01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0630</id>
+    <code>3/B/LTMC01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0614</id>
+    <code>3/A/LTMC01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0272</id>
+    <code>1/B/LLP301</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0271</id>
+    <code>1/B/LLP302</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0270</id>
+    <code>1/B/LLP303</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0255</id>
+    <code>1/A/LLP301</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0256</id>
+    <code>1/A/LLP302</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0257</id>
+    <code>1/A/LLP303</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0144</id>
+    <code>4/A/LTAB01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0673</id>
+    <code>3/A/PBYI01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0674</id>
+    <code>3/A/PBYI02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0641</id>
+    <code>3/A/PBYI03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0642</id>
+    <code>3/A/PBYI04</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0677</id>
+    <code>3/B/PBYI01</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0676</id>
+    <code>3/B/PBYI02</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0645</id>
+    <code>3/B/PBYI03</code>
+    <zone>Tanjong Bungah</zone>
+    <pcode>11200</pcode>
+  </bstop>
+  <bstop>
+    <id>B0634</id>
+    <code>H/A/GURN00</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0635</id>
+    <code>1/A/GURN01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0529</id>
+    <code>3/A/PRKL01</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0530</id>
+    <code>3/A/PRKL02</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>10250</pcode>
+  </bstop>
+  <bstop>
+    <id>B0621</id>
+    <code>3/A/PMYP01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0622</id>
+    <code>3/A/PMYP02</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11950</pcode>
+  </bstop>
+  <bstop>
+    <id>B0316</id>
+    <code>2/A/TPY201</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11060</pcode>
+  </bstop>
+  <bstop>
+    <id>B0317</id>
+    <code>2/A/TPY202</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11060</pcode>
+  </bstop>
+  <bstop>
+    <id>B0318</id>
+    <code>2/A/TPY203</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11060</pcode>
+  </bstop>
+  <bstop>
+    <id>B0315</id>
+    <code>2/A/TPY401</code>
+    <zone>Pulau Pinang</zone>
+    <pcode>11060</pcode>
+  </bstop>
+  <bstop>
+    <id>B0717</id>
+    <code>3/A/TTLK01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0699</id>
+    <code>3/B/TTLK01</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0698</id>
+    <code>3/B/TLK101</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+  <bstop>
+    <id>B0718</id>
+    <code>3/A/TLK101</code>
+    <zone>Bayan Lepas</zone>
+    <pcode>11920</pcode>
+  </bstop>
+</busstop>

@@ -1,0 +1,4074 @@
+[{
+    "Gat Lebuh Cecil" : [{
+        "busstop" : "Pejabat Pos Gat Lebuh Cecil",
+        "busstopID" : "3\/A\/GLCE01",
+        "queryID" : "B0615"
+      }, {
+        "busstop" : "Pejabat Pos Gat Lebuh Cecil",
+        "busstopID" : "3\/B\/GLCE01",
+        "queryID" : "B0629"
+      }
+    ],
+    "Gat Lebuh Chulia" : [{
+        "busstop" : "Balai Bomba Gat Lebuh Chulia",
+        "busstopID" : "1\/A\/LCHU01",
+        "queryID" : "B0002"
+      }, {
+        "busstop" : "Balai Bomba Gat Lebuh Chulia",
+        "busstopID" : "1\/B\/LCHU01",
+        "queryID" : "B0139"
+      }
+    ],
+    "Gat Lebuh Macallum" : [{
+        "busstop" : "Apartmen Sri Saujana",
+        "busstopID" : "3\/B\/GMCM01",
+        "queryID" : "B0631"
+      }, {
+        "busstop" : "Apartmen Sri Saujana",
+        "busstopID" : "3\/A\/GMCM01",
+        "queryID" : "B0613"
+      }
+    ],
+    "Hilir Pemancar" : [{
+        "busstop" : "Astaka Taman Tun Sardon",
+        "busstopID" : "3\/B\/HLPM02",
+        "queryID" : "B0418"
+      }, {
+        "busstop" : "Astaka Taman Tun Sardon",
+        "busstopID" : "3\/A\/HLPM02",
+        "queryID" : "B0422"
+      }, {
+        "busstop" : "Dewan JKKK Taman Tun Sardon",
+        "busstopID" : "3\/A\/HLPM04",
+        "queryID" : "B0424"
+      }, {
+        "busstop" : "Flat Taman Tun Sardon",
+        "busstopID" : "3\/A\/HLPM01",
+        "queryID" : "B0423"
+      }, {
+        "busstop" : "Flat Taman Tun Sardon",
+        "busstopID" : "3\/B\/HLPM01",
+        "queryID" : "B0417"
+      }, {
+        "busstop" : "Hotel Anggerik Lodging",
+        "busstopID" : "3\/B\/HLPM03",
+        "queryID" : "B0419"
+      }, {
+        "busstop" : "Pejabat Pos Taman Tun Sardon",
+        "busstopID" : "3\/A\/HLPM03",
+        "queryID" : "B0421"
+      }
+    ],
+    "Jalan Angsana" : [{
+        "busstop" : "Berhadapan Klinik Kesihatan",
+        "busstopID" : "2\/B\/JANG01",
+        "queryID" : "B0371"
+      }, {
+        "busstop" : "Klinik Kesihatan Bandar Baru Air Itam",
+        "busstopID" : "2\/A\/JANG01",
+        "queryID" : "B0359"
+      }, {
+        "busstop" : "Petronas Jalan Angsana",
+        "busstopID" : "2\/B\/JANG02",
+        "queryID" : "B0370"
+      }
+    ],
+    "Jalan Anson" : [{
+        "busstop" : "Bangunan Persekutuan",
+        "busstopID" : "1\/B\/JANS01",
+        "queryID" : "B0242"
+      }, {
+        "busstop" : "KDU PENANG",
+        "busstopID" : "1\/A\/JANS01",
+        "queryID" : "B0928"
+      }, {
+        "busstop" : "Pasar Jalan Anson",
+        "busstopID" : "1\/B\/JANS02",
+        "queryID" : "B0915"
+      }, {
+        "busstop" : "Penang Buddhist Association",
+        "busstopID" : "1\/B\/JANS03",
+        "queryID" : "B0916"
+      }
+    ],
+    "Jalan Arratoon" : [{
+        "busstop" : "Jalan Arratoon",
+        "busstopID" : "1\/A\/JARR01",
+        "queryID" : "B0913"
+      }
+    ],
+    "Jalan Ayer Itam" : [{
+        "busstop" : "Anglican Christian Church Penang",
+        "busstopID" : "2\/B\/JAYI09",
+        "queryID" : "B0333"
+      }, {
+        "busstop" : "Anglican Christian Church Penang",
+        "busstopID" : "2\/A\/JAYI09",
+        "queryID" : "B0302"
+      }, {
+        "busstop" : "Balai Polis Kampung Bharu",
+        "busstopID" : "2\/B\/JAYI12",
+        "queryID" : "B0379"
+      }, {
+        "busstop" : "CIMB Bank Jalan Ayer Itam",
+        "busstopID" : "2\/B\/JAYI08",
+        "queryID" : "B0334"
+      }, {
+        "busstop" : "Dhoby Ghaut",
+        "busstopID" : "2\/B\/JAYI02",
+        "queryID" : "B0345"
+      }, {
+        "busstop" : "Dhoby Ghaut",
+        "busstopID" : "2\/A\/JAYI02",
+        "queryID" : "B0289"
+      }, {
+        "busstop" : "Han Chiang College",
+        "busstopID" : "2\/A\/JAYI04",
+        "queryID" : "B0291"
+      }, {
+        "busstop" : "Hub 203",
+        "busstopID" : "H\/A\/JAYI00",
+        "queryID" : "B0303"
+      }, {
+        "busstop" : "Kuil Sri Ambakarathoor Kaalee Amman",
+        "busstopID" : "2\/B\/JAYI06",
+        "queryID" : "B0353"
+      }, {
+        "busstop" : "Masjid Jamek Al-qadrie",
+        "busstopID" : "2\/B\/JAYI07",
+        "queryID" : "B0335"
+      }, {
+        "busstop" : "Masjid Jamek Sheikh Yusof",
+        "busstopID" : "2\/A\/JAYI01",
+        "queryID" : "B0288"
+      }, {
+        "busstop" : "Masjid Negeri P.Pinang",
+        "busstopID" : "2\/A\/JAYI05",
+        "queryID" : "B0292"
+      }, {
+        "busstop" : "Maybank Jalan Ayer Itam",
+        "busstopID" : "2\/A\/JAYI08",
+        "queryID" : "B0301"
+      }, {
+        "busstop" : "Pasar Kampung Baru",
+        "busstopID" : "2\/B\/JAYI13",
+        "queryID" : "B0293"
+      }, {
+        "busstop" : "Pejabat Pos Ayer Itam",
+        "busstopID" : "2\/B\/JAYI10",
+        "queryID" : "B0332"
+      }, {
+        "busstop" : "Pekan Air Itam",
+        "busstopID" : "2\/A\/JAYI11",
+        "queryID" : "B0304"
+      }, {
+        "busstop" : "Penjara Pulau Pinang",
+        "busstopID" : "2\/B\/JAYI01",
+        "queryID" : "B0346"
+      }, {
+        "busstop" : "Public Bank Jalan Ayer Itam",
+        "busstopID" : "2\/A\/JAYI07",
+        "queryID" : "B0300"
+      }, {
+        "busstop" : "Sek Men Chung Ling (P)",
+        "busstopID" : "2\/A\/JAYI12",
+        "queryID" : "B0377"
+      }, {
+        "busstop" : "SMK (L) Methodist",
+        "busstopID" : "2\/B\/JAYI03",
+        "queryID" : "B0344"
+      }, {
+        "busstop" : "SMK Sri Mutiara",
+        "busstopID" : "2\/A\/JAYI03",
+        "queryID" : "B0290"
+      }, {
+        "busstop" : "SMKA Al-Mashoor",
+        "busstopID" : "2\/B\/JAYI04",
+        "queryID" : "B0343"
+      }, {
+        "busstop" : "SRJK Shang Wu",
+        "busstopID" : "2\/B\/JAYI05",
+        "queryID" : "B0342"
+      }, {
+        "busstop" : "Taman Sri Indah",
+        "busstopID" : "2\/B\/JAYI11",
+        "queryID" : "B0378"
+      }
+    ],
+    "Jalan Aziz Ibrahim" : [{
+        "busstop" : "Taman Pantai Jerejak",
+        "busstopID" : "3\/A\/JAIB01",
+        "queryID" : "B0640"
+      }, {
+        "busstop" : "Taman Pantai Jerejak",
+        "busstopID" : "3\/B\/JAIB01",
+        "queryID" : "B0646"
+      }
+    ],
+    "Jalan Azyze" : [{
+        "busstop" : "Jalan Azyze - Sekolah Ikthisas Tentera Udara",
+        "busstopID" : "1\/B\/JAZY01",
+        "queryID" : "B0273"
+      }, {
+        "busstop" : "Jalan Azyze - Sekolah Ikthisas Tentera Udara",
+        "busstopID" : "1\/A\/JAZY01",
+        "queryID" : "B0254"
+      }
+    ],
+    "Jalan Bagan Jermal" : [{
+        "busstop" : "Jermal Court - Sekolah St. Nicholas",
+        "busstopID" : "1\/A\/JBGJ01",
+        "queryID" : "B0023"
+      }, {
+        "busstop" : "Mutiara Villa Condominium",
+        "busstopID" : "1\/B\/JBGJ03",
+        "queryID" : "B0115"
+      }, {
+        "busstop" : "Sekolah St. Nicholas",
+        "busstopID" : "1\/B\/JBGJ01",
+        "queryID" : "B0117"
+      }, {
+        "busstop" : "SMJK Phor Tay",
+        "busstopID" : "1\/B\/JBGJ02",
+        "queryID" : "B0116"
+      }, {
+        "busstop" : "SMJK Phor Tay",
+        "busstopID" : "1\/A\/JBGJ02",
+        "queryID" : "B0024"
+      }
+    ],
+    "Jalan Balik Pulau" : [{
+        "busstop" : "Bukit Genting",
+        "busstopID" : "4\/A\/JBPL13",
+        "queryID" : "B0733"
+      }, {
+        "busstop" : "Bulatan Balik Pulau",
+        "busstopID" : "4\/A\/JBPL10",
+        "queryID" : "B0741"
+      }, {
+        "busstop" : "Bulatan Balik Pulau",
+        "busstopID" : "4\/B\/JBPL10",
+        "queryID" : "B0745"
+      }, {
+        "busstop" : "Hub Pekan Genting",
+        "busstopID" : "H\/A\/PKGT00",
+        "queryID" : "B0734"
+      }, {
+        "busstop" : "IPD Barat Daya",
+        "busstopID" : "4\/B\/JBPL05",
+        "queryID" : "B0750"
+      }, {
+        "busstop" : "IPD Barat Daya",
+        "busstopID" : "4\/A\/JBPL05",
+        "queryID" : "B0737"
+      }, {
+        "busstop" : "Jalan Balik Pulau (Pekan Air Itam)",
+        "busstopID" : "2\/B\/JBLP01",
+        "queryID" : "B0331"
+      }, {
+        "busstop" : "Kolej Kemahiran Tinggi Mara Balik Pulau",
+        "busstopID" : "4\/B\/JBPL12",
+        "queryID" : "B0754"
+      }, {
+        "busstop" : "Masjid Daerah Balik Pulau",
+        "busstopID" : "4\/A\/JBPL04",
+        "queryID" : "B0736"
+      }, {
+        "busstop" : "Masjid Jamek Kampung Paya",
+        "busstopID" : "4\/B\/JBPL02",
+        "queryID" : "B0753"
+      }, {
+        "busstop" : "Maybank Balik Pulau",
+        "busstopID" : "4\/A\/JBPL09",
+        "queryID" : "B0740"
+      }, {
+        "busstop" : "Pasar Lama Balik Pulau",
+        "busstopID" : "4\/A\/JBPL11",
+        "queryID" : "B0742"
+      }, {
+        "busstop" : "Pejabat Jabatan Haiwan Balik Pulau",
+        "busstopID" : "4\/B\/JBPL07",
+        "queryID" : "B0748"
+      }, {
+        "busstop" : "Pejabat Pos Balik Pulau",
+        "busstopID" : "4\/B\/JBPL09",
+        "queryID" : "B0746"
+      }, {
+        "busstop" : "Penara Balik Pulau",
+        "busstopID" : "4\/B\/JBPL13",
+        "queryID" : "B0755"
+      }, {
+        "busstop" : "SK Kongsi",
+        "busstopID" : "4\/B\/JBPL08",
+        "queryID" : "B0747"
+      }, {
+        "busstop" : "SK Kongsi",
+        "busstopID" : "4\/A\/JBPL08",
+        "queryID" : "B0739"
+      }, {
+        "busstop" : "SMK Pondok Upeh Balik Pulau",
+        "busstopID" : "4\/B\/JBPL03",
+        "queryID" : "B0752"
+      }, {
+        "busstop" : "SMK Pondok Upeh Balik Pulau",
+        "busstopID" : "4\/A\/JBPL03",
+        "queryID" : "B0735"
+      }, {
+        "busstop" : "Taman Seri Indah",
+        "busstopID" : "4\/B\/JBPL06",
+        "queryID" : "B0749"
+      }, {
+        "busstop" : "Taman Seri Indah",
+        "busstopID" : "4\/A\/JBPL06",
+        "queryID" : "B0738"
+      }, {
+        "busstop" : "Taman Sri Genting",
+        "busstopID" : "4\/B\/JBPL04",
+        "queryID" : "B0751"
+      }
+    ],
+    "Jalan Baru" : [{
+        "busstop" : "Cafe Anjung Bagan",
+        "busstopID" : "4\/A\/JBAR02",
+        "queryID" : "B0769"
+      }, {
+        "busstop" : "Cuci Kereta Sg. Korok",
+        "busstopID" : "4\/B\/JBAR04",
+        "queryID" : "B0814"
+      }, {
+        "busstop" : "Hutan Lalang",
+        "busstopID" : "4\/B\/JBAR11",
+        "queryID" : "B0810"
+      }, {
+        "busstop" : "Jalan Baru 2",
+        "busstopID" : "4\/A\/JBAR06",
+        "queryID" : "B0779"
+      }, {
+        "busstop" : "Kampung Perlis 1",
+        "busstopID" : "4\/B\/JBAR15",
+        "queryID" : "B0801"
+      }, {
+        "busstop" : "Kampung Perlis 2",
+        "busstopID" : "4\/B\/JBAR13",
+        "queryID" : "B0803"
+      }, {
+        "busstop" : "Kedai Motor Hanifah",
+        "busstopID" : "4\/B\/JBAR07",
+        "queryID" : "B0809"
+      }, {
+        "busstop" : "Kiosk Celcom",
+        "busstopID" : "4\/B\/JBAR02",
+        "queryID" : "B0817"
+      }, {
+        "busstop" : "Laksa Pulau Janggus",
+        "busstopID" : "4\/B\/JBAR16",
+        "queryID" : "B0800"
+      }, {
+        "busstop" : "Masjid Jalan Baru",
+        "busstopID" : "4\/A\/JBAR03",
+        "queryID" : "B0770"
+      }, {
+        "busstop" : "Masjid Jalan Baru",
+        "busstopID" : "4\/B\/JBAR03",
+        "queryID" : "B0815"
+      }, {
+        "busstop" : "Masjid Kampung Perlis",
+        "busstopID" : "4\/B\/JBAR14",
+        "queryID" : "B0802"
+      }, {
+        "busstop" : "Nasi Lemak Zon 2",
+        "busstopID" : "4\/B\/JBAR09",
+        "queryID" : "B0816"
+      }, {
+        "busstop" : "Pejabat Jurutera Daerah",
+        "busstopID" : "4\/A\/JBAR08",
+        "queryID" : "B0781"
+      }, {
+        "busstop" : "Perkuburan Kampung Perlis",
+        "busstopID" : "4\/B\/JBAR12",
+        "queryID" : "B0804"
+      }, {
+        "busstop" : "Pondok Polis Taman Kg. Air Putih",
+        "busstopID" : "4\/B\/JBAR01",
+        "queryID" : "B0818"
+      }, {
+        "busstop" : "Pusat Khidmat Adun",
+        "busstopID" : "4\/A\/JBAR04",
+        "queryID" : "B0771"
+      }, {
+        "busstop" : "Sg. Burung 2",
+        "busstopID" : "4\/B\/JBAR06",
+        "queryID" : "B0811"
+      }, {
+        "busstop" : "Sg. Korok 1",
+        "busstopID" : "4\/B\/JBAR10",
+        "queryID" : "B0812"
+      }, {
+        "busstop" : "SK Pulau Betong",
+        "busstopID" : "4\/B\/JBAR17",
+        "queryID" : "B0799"
+      }, {
+        "busstop" : "SK Sg. Korok",
+        "busstopID" : "4\/A\/JBAR05",
+        "queryID" : "B0772"
+      }, {
+        "busstop" : "SK Sg. Korok",
+        "busstopID" : "4\/B\/JBAR05",
+        "queryID" : "B0813"
+      }, {
+        "busstop" : "Surau Sungai Burung",
+        "busstopID" : "4\/A\/JBAR07",
+        "queryID" : "B0780"
+      }, {
+        "busstop" : "Taman Kg. Air Putih",
+        "busstopID" : "4\/A\/JBAR01",
+        "queryID" : "B0768"
+      }
+    ],
+    "Jalan Baru Batu Maung" : [{
+        "busstop" : "Jalan Baru Batu Maung",
+        "busstopID" : "3\/B\/JBBM01",
+        "queryID" : "B0564"
+      }, {
+        "busstop" : "Kedai Dai Chong Automobile",
+        "busstopID" : "3\/A\/JBTM05",
+        "queryID" : "B0562"
+      }, {
+        "busstop" : "Kedai Dai Chong Automobile",
+        "busstopID" : "3\/A\/JBBM05",
+        "queryID" : "B0651"
+      }, {
+        "busstop" : "Kedai Kopi Kin Yuen",
+        "busstopID" : "3\/A\/JBBM04",
+        "queryID" : "B0650"
+      }, {
+        "busstop" : "Kedai Kopi Kin Yuen",
+        "busstopID" : "3\/A\/JBTM04",
+        "queryID" : "B0561"
+      }, {
+        "busstop" : "Kedai LSS Electric Batu Maung",
+        "busstopID" : "3\/A\/JBBM01",
+        "queryID" : "B0558"
+      }, {
+        "busstop" : "Pasar Batu Maung",
+        "busstopID" : "3\/B\/JBBM03",
+        "queryID" : "B0563"
+      }, {
+        "busstop" : "SJK Wen Khai",
+        "busstopID" : "3\/A\/JBTM03",
+        "queryID" : "B0560"
+      }, {
+        "busstop" : "SJK Wen Khai",
+        "busstopID" : "3\/A\/JBBM03",
+        "queryID" : "B0649"
+      }, {
+        "busstop" : "YGGS World",
+        "busstopID" : "3\/A\/JBBM02",
+        "queryID" : "B0559"
+      }
+    ],
+    "Jalan Batu Feringghi" : [{
+        "busstop" : "Apartmen Bayu Emas",
+        "busstopID" : "1\/A\/JBTF18",
+        "queryID" : "B0061"
+      }, {
+        "busstop" : "Apartmen Mahligai Baiduri",
+        "busstopID" : "1\/A\/JBTF19",
+        "queryID" : "B0062"
+      }, {
+        "busstop" : "Apartmen Sri Sayang",
+        "busstopID" : "1\/A\/JBTF09",
+        "queryID" : "B0052"
+      }, {
+        "busstop" : "Apartmen Sri Sayang",
+        "busstopID" : "1\/B\/JBTF09",
+        "queryID" : "B0088"
+      }, {
+        "busstop" : "Balai Polis Batu Feringghi",
+        "busstopID" : "1\/B\/JBTF15",
+        "queryID" : "B0082"
+      }, {
+        "busstop" : "Balai Polis Batu Feringghi",
+        "busstopID" : "1\/A\/JBTF15",
+        "queryID" : "B0058"
+      }, {
+        "busstop" : "Baptist Theological Seminary",
+        "busstopID" : "1\/B\/JBTF08",
+        "queryID" : "B0090"
+      }, {
+        "busstop" : "Feringghi Plaza",
+        "busstopID" : "1\/A\/JBTF10",
+        "queryID" : "B0053"
+      }, {
+        "busstop" : "Feringghi Villas",
+        "busstopID" : "1\/B\/JBTF19",
+        "queryID" : "B0079"
+      }, {
+        "busstop" : "Happy Mart",
+        "busstopID" : "1\/A\/JBTF13",
+        "queryID" : "B0056"
+      }, {
+        "busstop" : "Hotel Golden Sands",
+        "busstopID" : "1\/B\/JBTF11",
+        "queryID" : "B0086"
+      }, {
+        "busstop" : "Hotel Hard Rock",
+        "busstopID" : "1\/B\/JBTF17",
+        "queryID" : "B0080"
+      }, {
+        "busstop" : "Hotel Hard Rock",
+        "busstopID" : "1\/A\/JBTF17",
+        "queryID" : "B0060"
+      }, {
+        "busstop" : "Hotel Holiday Inn",
+        "busstopID" : "1\/A\/JBTF14",
+        "queryID" : "B0057"
+      }, {
+        "busstop" : "Hotel Hydro Majestic",
+        "busstopID" : "1\/A\/JBTF05",
+        "queryID" : "B0048"
+      }, {
+        "busstop" : "Hotel Hydro Majestic",
+        "busstopID" : "1\/B\/JBTF05",
+        "queryID" : "B0093"
+      }, {
+        "busstop" : "Hotel Parkroyal",
+        "busstopID" : "1\/B\/JBTF14",
+        "queryID" : "B0083"
+      }, {
+        "busstop" : "Hotel Rasa Sayang",
+        "busstopID" : "1\/B\/JBTF10",
+        "queryID" : "B0087"
+      }, {
+        "busstop" : "Ivory Residence",
+        "busstopID" : "1\/A\/JBTF08",
+        "queryID" : "B0051"
+      }, {
+        "busstop" : "Kem Tentera",
+        "busstopID" : "1\/B\/JBTF21",
+        "queryID" : "B0089"
+      }, {
+        "busstop" : "Long Beach Food Court",
+        "busstopID" : "1\/B\/JBTF12",
+        "queryID" : "B0085"
+      }, {
+        "busstop" : "Long Beach Food Court",
+        "busstopID" : "1\/A\/JBTF12",
+        "queryID" : "B0055"
+      }, {
+        "busstop" : "Mar Vista",
+        "busstopID" : "1\/A\/JBTF02",
+        "queryID" : "B0045"
+      }, {
+        "busstop" : "Mar Vista",
+        "busstopID" : "1\/B\/JBTF02",
+        "queryID" : "B0096"
+      }, {
+        "busstop" : "Masjid Batu Ferringhi",
+        "busstopID" : "1\/B\/JBTF16",
+        "queryID" : "B0081"
+      }, {
+        "busstop" : "Masjid Batu Ferringhi",
+        "busstopID" : "1\/A\/JBTF16",
+        "queryID" : "B0059"
+      }, {
+        "busstop" : "Masjid Terapung",
+        "busstopID" : "1\/A\/JBTF01",
+        "queryID" : "B0044"
+      }, {
+        "busstop" : "Masjid Terapung",
+        "busstopID" : "1\/B\/JBTF01",
+        "queryID" : "B0097"
+      }, {
+        "busstop" : "Miami Beach",
+        "busstopID" : "1\/B\/JBTF06",
+        "queryID" : "B0092"
+      }, {
+        "busstop" : "Miami Beach",
+        "busstopID" : "1\/A\/JBTF06",
+        "queryID" : "B0049"
+      }, {
+        "busstop" : "Moon Light Bay",
+        "busstopID" : "1\/A\/JBTF07",
+        "queryID" : "B0050"
+      }, {
+        "busstop" : "Moon Light Bay",
+        "busstopID" : "1\/B\/JBTF07",
+        "queryID" : "B0091"
+      }, {
+        "busstop" : "Mount Pleasure",
+        "busstopID" : "1\/B\/JBTF04",
+        "queryID" : "B0094"
+      }, {
+        "busstop" : "Mount Pleasure",
+        "busstopID" : "1\/A\/JBTF04",
+        "queryID" : "B0047"
+      }, {
+        "busstop" : "Pantai Shamrock",
+        "busstopID" : "1\/A\/JBTF03",
+        "queryID" : "B0046"
+      }, {
+        "busstop" : "Pantai Shamrock",
+        "busstopID" : "1\/B\/JBTF03",
+        "queryID" : "B0095"
+      }, {
+        "busstop" : "Restoran Tarbush",
+        "busstopID" : "1\/B\/JBTF13",
+        "queryID" : "B0084"
+      }, {
+        "busstop" : "Stesen Minyak Petronas",
+        "busstopID" : "1\/A\/JBTF11",
+        "queryID" : "B0054"
+      }, {
+        "busstop" : "Tropical Spice Garden",
+        "busstopID" : "1\/A\/JBTF20",
+        "queryID" : "B0063"
+      }, {
+        "busstop" : "Tropical Spice Garden",
+        "busstopID" : "1\/B\/JBTF20",
+        "queryID" : "B0078"
+      }
+    ],
+    "Jalan Batu Maung" : [{
+        "busstop" : "Bank OCBC Batu Maung",
+        "busstopID" : "3\/A\/JBTM02",
+        "queryID" : "B0557"
+      }, {
+        "busstop" : "Hub Batu Maung",
+        "busstopID" : "H\/A\/HBTM00",
+        "queryID" : "B0565"
+      }, {
+        "busstop" : "Institut Penyelidikan Perikanan",
+        "busstopID" : "3\/B\/JBTM01",
+        "queryID" : "B0567"
+      }, {
+        "busstop" : "Pejabat Pos Batu Maung",
+        "busstopID" : "3\/A\/JBTM01",
+        "queryID" : "B0556"
+      }, {
+        "busstop" : "World Fish Centre",
+        "busstopID" : "3\/B\/JBTM02",
+        "queryID" : "B0566"
+      }
+    ],
+    "Jalan Bayan Lepas" : [{
+        "busstop" : "Apartmen Bayan Permai",
+        "busstopID" : "4\/B\/JBYL01",
+        "queryID" : "B0536"
+      }, {
+        "busstop" : "Apartmen Bayan Permai",
+        "busstopID" : "4\/A\/JBYL01",
+        "queryID" : "B0537"
+      }, {
+        "busstop" : "Balai Polis Bayan Lepas",
+        "busstopID" : "4\/A\/JBYL02",
+        "queryID" : "B0538"
+      }, {
+        "busstop" : "Balai Polis Bayan Lepas",
+        "busstopID" : "4\/B\/JBYL02",
+        "queryID" : "B0535"
+      }, {
+        "busstop" : "Bank CIMB Bayan Lepas",
+        "busstopID" : "4\/A\/JBYL03",
+        "queryID" : "B0539"
+      }, {
+        "busstop" : "Flat Taman Emas Sungai Batu",
+        "busstopID" : "4\/B\/JBYL06",
+        "queryID" : "B0706"
+      }, {
+        "busstop" : "Flat Taman Emas Sungai Batu",
+        "busstopID" : "4\/A\/JBYL06",
+        "queryID" : "B0712"
+      }, {
+        "busstop" : "Masjid Sungai Batu",
+        "busstopID" : "4\/A\/JBYL05",
+        "queryID" : "B0711"
+      }, {
+        "busstop" : "Pekan Teluk Kumbar",
+        "busstopID" : "4\/A\/JBYL07",
+        "queryID" : "B0713"
+      }, {
+        "busstop" : "Pekan Teluk Kumbar",
+        "busstopID" : "4\/B\/JBYL07",
+        "queryID" : "B0704"
+      }, {
+        "busstop" : "Saujana Heights",
+        "busstopID" : "4\/A\/JBYL04",
+        "queryID" : "B0710"
+      }, {
+        "busstop" : "Saujana Heights",
+        "busstopID" : "4\/B\/JBYL04",
+        "queryID" : "B0708"
+      }, {
+        "busstop" : "SMK Teluk Kumbar",
+        "busstopID" : "4\/B\/JBYL05",
+        "queryID" : "B0707"
+      }, {
+        "busstop" : "Taman Seri Pantai",
+        "busstopID" : "4\/B\/JBYL08",
+        "queryID" : "B0705"
+      }
+    ],
+    "Jalan Besi" : [{
+        "busstop" : "Apartmen Green Lane Height",
+        "busstopID" : "2\/A\/JBSI02",
+        "queryID" : "B0405"
+      }, {
+        "busstop" : "Jalan Besi",
+        "busstopID" : "2\/A\/JBSI01",
+        "queryID" : "B0404"
+      }
+    ],
+    "Jalan Bintang" : [{
+        "busstop" : "Jalan Bintang",
+        "busstopID" : "1\/B\/JBTG01",
+        "queryID" : "B0278"
+      }, {
+        "busstop" : "Jalan Bintang",
+        "busstopID" : "1\/A\/JBTG01",
+        "queryID" : "B0249"
+      }
+    ],
+    "Jalan Bricklin" : [{
+        "busstop" : "Persimpangan Jalan S.P Chelliah",
+        "busstopID" : "3\/B\/JBKL01",
+        "queryID" : "B0446"
+      }
+    ],
+    "Jalan Bukit Bendera" : [{
+        "busstop" : "Hub Bukit Bendera",
+        "busstopID" : "H\/A\/JBKT00",
+        "queryID" : "B0389"
+      }, {
+        "busstop" : "Klinik Kesihatan Ayer Itam",
+        "busstopID" : "2\/A\/JBKT01",
+        "queryID" : "B0386"
+      }, {
+        "busstop" : "Stesen Bomba Sukarela",
+        "busstopID" : "2\/B\/JBKT02",
+        "queryID" : "B0390"
+      }, {
+        "busstop" : "Stesen Keretapi Bukit Bendera",
+        "busstopID" : "2\/A\/JBKT03",
+        "queryID" : "B0388"
+      }, {
+        "busstop" : "Tokong Miao Xiang Lin",
+        "busstopID" : "2\/A\/JBKT02",
+        "queryID" : "B0387"
+      }
+    ],
+    "Jalan Bukit Gambir" : [{
+        "busstop" : "Apartmen Gambier Heights",
+        "busstopID" : "3\/B\/JBGB05",
+        "queryID" : "B0608"
+      }, {
+        "busstop" : "Apartmen Golf View",
+        "busstopID" : "3\/B\/JBGB09",
+        "queryID" : "B0604"
+      }, {
+        "busstop" : "Apartmen Halaman Areka",
+        "busstopID" : "3\/A\/JBGB10",
+        "queryID" : "B0463"
+      }, {
+        "busstop" : "Hotel Vistana",
+        "busstopID" : "3\/A\/JBGB11",
+        "queryID" : "B0464"
+      }, {
+        "busstop" : "Jade View Apartment",
+        "busstopID" : "3\/A\/JBGB04",
+        "queryID" : "B0509"
+      }, {
+        "busstop" : "Jade View Apartment",
+        "busstopID" : "3\/B\/JBGB04",
+        "queryID" : "B0609"
+      }, {
+        "busstop" : "SK Bukit Gelugor",
+        "busstopID" : "2\/A\/JBGB01",
+        "queryID" : "B0415"
+      }, {
+        "busstop" : "SK Bukit Gelugor",
+        "busstopID" : "3\/A\/JBGB01",
+        "queryID" : "B0426"
+      }, {
+        "busstop" : "SMK Bukit Gambir",
+        "busstopID" : "3\/A\/JBGB03",
+        "queryID" : "B0508"
+      }, {
+        "busstop" : "SMK Bukit Gambir",
+        "busstopID" : "3\/B\/JBGB03",
+        "queryID" : "B0610"
+      }, {
+        "busstop" : "SMK Bukit Jambul",
+        "busstopID" : "3\/B\/JBGB08",
+        "queryID" : "B0605"
+      }, {
+        "busstop" : "SMK Bukit Jambul",
+        "busstopID" : "3\/A\/JBGB08",
+        "queryID" : "B0513"
+      }, {
+        "busstop" : "Taman Bukit Gambir",
+        "busstopID" : "3\/A\/JBGB02",
+        "queryID" : "B0507"
+      }, {
+        "busstop" : "Taman Bukit Jambul",
+        "busstopID" : "3\/A\/JBGB12",
+        "queryID" : "B0465"
+      }, {
+        "busstop" : "Taman Lip Sin",
+        "busstopID" : "3\/A\/JBGB09",
+        "queryID" : "B0514"
+      }, {
+        "busstop" : "Taman Lip Sin",
+        "busstopID" : "3\/B\/JBGB07",
+        "queryID" : "B0606"
+      }, {
+        "busstop" : "Taman Pekaka",
+        "busstopID" : "3\/A\/JBGB07",
+        "queryID" : "B0512"
+      }, {
+        "busstop" : "The Palazzia",
+        "busstopID" : "3\/A\/JBGB05",
+        "queryID" : "B0510"
+      }, {
+        "busstop" : "Universiti Sains Malaysia",
+        "busstopID" : "3\/A\/JBGB06",
+        "queryID" : "B0511"
+      }, {
+        "busstop" : "Universiti Sains Malaysia",
+        "busstopID" : "3\/B\/JBGB06",
+        "queryID" : "B0607"
+      }
+    ],
+    "Jalan Burma" : [{
+        "busstop" : "7 Eleven - Balai Polis Pulau Tikus",
+        "busstopID" : "1\/A\/JBRM08",
+        "queryID" : "B0019"
+      }, {
+        "busstop" : "Balai Polis Pulau Tikus",
+        "busstopID" : "1\/B\/JBRM08",
+        "queryID" : "B0122"
+      }, {
+        "busstop" : "Bangunan LPPKN",
+        "busstopID" : "1\/A\/JBRM06",
+        "queryID" : "B0017"
+      }, {
+        "busstop" : "Burma House",
+        "busstopID" : "1\/A\/JBRM09",
+        "queryID" : "B0020"
+      }, {
+        "busstop" : "Burma House",
+        "busstopID" : "1\/B\/JBRM09",
+        "queryID" : "B0121"
+      }, {
+        "busstop" : "Chinese Recreation Club",
+        "busstopID" : "1\/A\/JBRM05",
+        "queryID" : "B0015"
+      }, {
+        "busstop" : "Hospital Penang Adventist",
+        "busstopID" : "1\/A\/JBRM11",
+        "queryID" : "B0022"
+      }, {
+        "busstop" : "Kolej PTPL",
+        "busstopID" : "1\/B\/JBRM06",
+        "queryID" : "B0124"
+      }, {
+        "busstop" : "Midlands One Stop Centre",
+        "busstopID" : "1\/B\/JBRM11",
+        "queryID" : "B0119"
+      }, {
+        "busstop" : "Netcity - New World Park",
+        "busstopID" : "1\/A\/JBRM02",
+        "queryID" : "B0012"
+      }, {
+        "busstop" : "Premier Centre",
+        "busstopID" : "1\/A\/JBRM07",
+        "queryID" : "B0018"
+      }, {
+        "busstop" : "Premier Centre",
+        "busstopID" : "1\/B\/JBRM07",
+        "queryID" : "B0123"
+      }, {
+        "busstop" : "SMK\/SK Convent Pulau Tikus",
+        "busstopID" : "1\/B\/JBRM10",
+        "queryID" : "B0120"
+      }, {
+        "busstop" : "SMK\/SK Convent Pulau Tikus",
+        "busstopID" : "1\/A\/JBRM10",
+        "queryID" : "B0021"
+      }, {
+        "busstop" : "SRJK Union",
+        "busstopID" : "1\/A\/JBRM04",
+        "queryID" : "B0014"
+      }, {
+        "busstop" : "SRK Pykett Methodist",
+        "busstopID" : "1\/A\/JBRM03",
+        "queryID" : "B0013"
+      }, {
+        "busstop" : "Tanjung Medical Centre",
+        "busstopID" : "1\/B\/JBRM12",
+        "queryID" : "B0118"
+      }, {
+        "busstop" : "TM Point",
+        "busstopID" : "1\/A\/JBRM01",
+        "queryID" : "B0011"
+      }
+    ],
+    "Jalan Cantonment" : [{
+        "busstop" : "Apartment Villa Indah",
+        "busstopID" : "1\/A\/JCAN02",
+        "queryID" : "B0638"
+      }, {
+        "busstop" : "Balai Raya Jalan Cantonment",
+        "busstopID" : "1\/A\/JCAN01",
+        "queryID" : "B0637"
+      }
+    ],
+    "Jalan Chan Siew Teong" : [{
+        "busstop" : "Jalan Chan Siew Tong - Grand Ocean Condominium",
+        "busstopID" : "1\/A\/JCST01",
+        "queryID" : "B0231"
+      }
+    ],
+    "Jalan Dato Ismail Hashim" : [{
+        "busstop" : "Changkat Kenari",
+        "busstopID" : "3\/B\/JDIH05",
+        "queryID" : "B0590"
+      }, {
+        "busstop" : "Kampung Bukit Bayan Lepas",
+        "busstopID" : "3\/B\/JDIH11",
+        "queryID" : "B0584"
+      }, {
+        "busstop" : "Kampung Sungai Ara",
+        "busstopID" : "3\/B\/JDIH01",
+        "queryID" : "B0594"
+      }, {
+        "busstop" : "Kampung Sungai Ara",
+        "busstopID" : "3\/A\/JDIH01",
+        "queryID" : "B0521"
+      }, {
+        "busstop" : "Kem Tentera Rejimen Askar Melayu",
+        "busstopID" : "3\/A\/JDIH04",
+        "queryID" : "B0524"
+      }, {
+        "busstop" : "Kem Tentera Rejimen Askar Melayu 2",
+        "busstopID" : "3\/A\/JDIH05",
+        "queryID" : "B0525"
+      }, {
+        "busstop" : "Kompleks Tabung Haji",
+        "busstopID" : "3\/A\/JDIH10",
+        "queryID" : "B0532"
+      }, {
+        "busstop" : "Kompleks Tabung Haji",
+        "busstopID" : "3\/B\/JDIH10",
+        "queryID" : "B0585"
+      }, {
+        "busstop" : "Masjid Al-huda Sungai Ara",
+        "busstopID" : "3\/A\/JDIH02",
+        "queryID" : "B0522"
+      }, {
+        "busstop" : "One Residence",
+        "busstopID" : "3\/A\/JDIH07",
+        "queryID" : "B0527"
+      }, {
+        "busstop" : "One Residence 2",
+        "busstopID" : "3\/A\/JDIH08",
+        "queryID" : "B0528"
+      }, {
+        "busstop" : "One Residence 2",
+        "busstopID" : "3\/B\/JDIH08",
+        "queryID" : "B0587"
+      }, {
+        "busstop" : "One Residence 3",
+        "busstopID" : "3\/A\/JDIH09",
+        "queryID" : "B0531"
+      }, {
+        "busstop" : "Pasar Bayan Lepas",
+        "busstopID" : "3\/A\/JDIH12",
+        "queryID" : "B0534"
+      }, {
+        "busstop" : "Pasar Bayan Lepas",
+        "busstopID" : "3\/B\/JDIH12",
+        "queryID" : "B0583"
+      }, {
+        "busstop" : "Pejabat Pertahanan Awam",
+        "busstopID" : "3\/B\/JDIH09",
+        "queryID" : "B0586"
+      }, {
+        "busstop" : "Public Bank Relau",
+        "busstopID" : "3\/B\/JDIH15",
+        "queryID" : "B0481"
+      }, {
+        "busstop" : "Public Bank Relau",
+        "busstopID" : "3\/A\/JDIH15",
+        "queryID" : "B0471"
+      }, {
+        "busstop" : "Pusat Servis Toyota",
+        "busstopID" : "3\/B\/JDIH04",
+        "queryID" : "B0591"
+      }, {
+        "busstop" : "SJK Tamil Sungai Ara",
+        "busstopID" : "3\/B\/JDIH02",
+        "queryID" : "B0593"
+      }, {
+        "busstop" : "SK Bayan Lepas",
+        "busstopID" : "3\/A\/JDIH11",
+        "queryID" : "B0533"
+      }, {
+        "busstop" : "SK Mutiara Perdana",
+        "busstopID" : "3\/B\/JDIH06",
+        "queryID" : "B0588"
+      }, {
+        "busstop" : "SMK Sungai Ara",
+        "busstopID" : "3\/B\/JDIH03",
+        "queryID" : "B0592"
+      }, {
+        "busstop" : "SMK Sungai Ara",
+        "busstopID" : "3\/A\/JDIH03",
+        "queryID" : "B0523"
+      }, {
+        "busstop" : "Taman Sri Bayan",
+        "busstopID" : "3\/A\/JDIH06",
+        "queryID" : "B0526"
+      }, {
+        "busstop" : "Tanah Perkuburan Cina Kongsi Sepuluh",
+        "busstopID" : "3\/B\/JDIH13",
+        "queryID" : "B0589"
+      }
+    ],
+    "Jalan Dato Keramat" : [{
+        "busstop" : "Berhapan Pasar Jalan Kuantan",
+        "busstopID" : "2\/B\/JDTK03",
+        "queryID" : "B0349"
+      }, {
+        "busstop" : "Gama Departmental Store",
+        "busstopID" : "2\/B\/JDTK01",
+        "queryID" : "B0351"
+      }, {
+        "busstop" : "Gama Departmental Store",
+        "busstopID" : "2\/A\/JDTK01",
+        "queryID" : "B0282"
+      }, {
+        "busstop" : "Kampung Makam",
+        "busstopID" : "2\/A\/JDTK04",
+        "queryID" : "B0285"
+      }, {
+        "busstop" : "Kampung Makam",
+        "busstopID" : "2\/B\/JDTK04",
+        "queryID" : "B0348"
+      }, {
+        "busstop" : "Kuil Nagarathar Sivan",
+        "busstopID" : "2\/B\/JDTK02",
+        "queryID" : "B0350"
+      }, {
+        "busstop" : "Padang Brown",
+        "busstopID" : "2\/B\/JDTK05",
+        "queryID" : "B0347"
+      }, {
+        "busstop" : "Pasar Jalan Kuantan",
+        "busstopID" : "2\/A\/JDTK03",
+        "queryID" : "B0284"
+      }, {
+        "busstop" : "Penang Times Square",
+        "busstopID" : "2\/A\/JDTK02",
+        "queryID" : "B0283"
+      }, {
+        "busstop" : "SMJK\/SRJK Convent Dato Keramat",
+        "busstopID" : "2\/A\/JDTK05",
+        "queryID" : "B0286"
+      }, {
+        "busstop" : "Stadium Bandaraya P.Pinang",
+        "busstopID" : "2\/A\/JDTK06",
+        "queryID" : "B0287"
+      }
+    ],
+    "Jalan Delima" : [{
+        "busstop" : "Jalan Delima",
+        "busstopID" : "2\/A\/JDLM01",
+        "queryID" : "B0410"
+      }, {
+        "busstop" : "Jalan Delima - Rumah No. 3V",
+        "busstopID" : "2\/A\/JDLM02",
+        "queryID" : "B0411"
+      }, {
+        "busstop" : "Jalan Delima - Rumah No. 4D",
+        "busstopID" : "2\/B\/JDLM02",
+        "queryID" : "B0430"
+      }, {
+        "busstop" : "Persimpangan Lorong Delima 7",
+        "busstopID" : "2\/B\/JDLM05",
+        "queryID" : "B0427"
+      }, {
+        "busstop" : "Persimpangan Lorong Delima 7",
+        "busstopID" : "2\/A\/JDLM05",
+        "queryID" : "B0414"
+      }, {
+        "busstop" : "Pusat Kecantikan Nice",
+        "busstopID" : "2\/A\/JDLM04",
+        "queryID" : "B0413"
+      }, {
+        "busstop" : "Pusat Kecantikan Nice",
+        "busstopID" : "2\/B\/JDLM04",
+        "queryID" : "B0428"
+      }, {
+        "busstop" : "Taman Rekreasi Jalan Delima",
+        "busstopID" : "2\/B\/JDLM03",
+        "queryID" : "B0429"
+      }, {
+        "busstop" : "Taman Rekreasi Jalan Delima",
+        "busstopID" : "2\/A\/JDLM03",
+        "queryID" : "B0412"
+      }
+    ],
+    "Jalan Dr. Lim Chwee Leong" : [{
+        "busstop" : "Komtar Timur",
+        "busstopID" : "3\/B\/JLCL01",
+        "queryID" : "B0503"
+      }
+    ],
+    "Jalan Evergreen" : [{
+        "busstop" : "Jalan Evergreen",
+        "busstopID" : "1\/B\/JEVG01",
+        "queryID" : "B0279"
+      }, {
+        "busstop" : "Jalan Evergreen",
+        "busstopID" : "1\/A\/JEVG01",
+        "queryID" : "B0248"
+      }
+    ],
+    "Jalan Fettes" : [{
+        "busstop" : "Fettes Residences",
+        "busstopID" : "1\/B\/JFTS01",
+        "queryID" : "B0280"
+      }, {
+        "busstop" : "Hong Leong Bank - Prima Tanjung",
+        "busstopID" : "1\/A\/JFTS01",
+        "queryID" : "B0247"
+      }
+    ],
+    "Jalan Gajah" : [{
+        "busstop" : "Jalan Gajah",
+        "busstopID" : "1\/A\/JGJH01",
+        "queryID" : "B0250"
+      }, {
+        "busstop" : "Jalan Gajah - 13\/1 JG 488 TNB",
+        "busstopID" : "1\/B\/JGJH03",
+        "queryID" : "B0277"
+      }, {
+        "busstop" : "Jalan Gajah - Rumah No 128",
+        "busstopID" : "1\/B\/JGJH02",
+        "queryID" : "B0276"
+      }
+    ],
+    "Jalan Gangsa" : [{
+        "busstop" : "Apartmen Green Lane Height - Jalan Gangsa",
+        "busstopID" : "2\/A\/JGSA01",
+        "queryID" : "B0406"
+      }, {
+        "busstop" : "Apartmen Kingfisher",
+        "busstopID" : "2\/A\/JGSA02",
+        "queryID" : "B0407"
+      }
+    ],
+    "Jalan Gelugor" : [{
+        "busstop" : "Penang Squash Centre",
+        "busstopID" : "3\/A\/JGLG02",
+        "queryID" : "B0456"
+      }, {
+        "busstop" : "Proton Service Centre",
+        "busstopID" : "3\/A\/JGLG01",
+        "queryID" : "B0455"
+      }, {
+        "busstop" : "Tomyam Udang Jelutong",
+        "busstopID" : "3\/B\/JGLG01",
+        "queryID" : "B0625"
+      }
+    ],
+    "Jalan Gertak Sanggul" : [{
+        "busstop" : "Balai Polis Gertak Sanggul",
+        "busstopID" : "3\/A\/JGSG03",
+        "queryID" : "B0727"
+      }, {
+        "busstop" : "Balai Polis Teluk Kumbar",
+        "busstopID" : "3\/A\/JGTS01",
+        "queryID" : "B0714"
+      }, {
+        "busstop" : "Balai Polis Teluk Kumbar",
+        "busstopID" : "3\/B\/JGTS01",
+        "queryID" : "B0703"
+      }, {
+        "busstop" : "Gertak Sanggul Seafood",
+        "busstopID" : "3\/B\/JGSG07",
+        "queryID" : "B0686"
+      }, {
+        "busstop" : "Hotel Tg. Karang Gertak Sanggul",
+        "busstopID" : "3\/B\/JGSG06",
+        "queryID" : "B0689"
+      }, {
+        "busstop" : "Hub Gertak Sanggul",
+        "busstopID" : "H\/A\/GTSG00",
+        "queryID" : "B0685"
+      }, {
+        "busstop" : "Kawasan Perkelahan Tanjung Asam",
+        "busstopID" : "3\/A\/JGSG04",
+        "queryID" : "B0725"
+      }, {
+        "busstop" : "Kg. Nelayan Teluk Kumbar",
+        "busstopID" : "3\/A\/JGTS02",
+        "queryID" : "B0715"
+      }, {
+        "busstop" : "Kg. Nelayan Teluk Kumbar",
+        "busstopID" : "3\/B\/JGTS02",
+        "queryID" : "B0702"
+      }, {
+        "busstop" : "Klinik Kesihatan Gertak Sanggul",
+        "busstopID" : "3\/B\/JGSG02",
+        "queryID" : "B0688"
+      }, {
+        "busstop" : "SRJK Poi Eng",
+        "busstopID" : "3\/A\/JGSG02",
+        "queryID" : "B0726"
+      }, {
+        "busstop" : "Surau Gertak Sanggul",
+        "busstopID" : "3\/B\/JGSG03",
+        "queryID" : "B0687"
+      }, {
+        "busstop" : "Taman Cahaya",
+        "busstopID" : "3\/B\/JGSG05",
+        "queryID" : "B0691"
+      }, {
+        "busstop" : "Taman Pasir Belanda",
+        "busstopID" : "3\/B\/JGSG01",
+        "queryID" : "B0690"
+      }, {
+        "busstop" : "Taman Pasir Belanda",
+        "busstopID" : "3\/A\/JGSG01",
+        "queryID" : "B0724"
+      }
+    ],
+    "Jalan Gottlieb" : [{
+        "busstop" : "Buddhist Tzu Chi Dialysis Centre",
+        "busstopID" : "1\/B\/JGTB03",
+        "queryID" : "B0180"
+      }, {
+        "busstop" : "Hope Children Hospital",
+        "busstopID" : "1\/A\/JGTB01",
+        "queryID" : "B0177"
+      }, {
+        "busstop" : "Hope Children Hospital",
+        "busstopID" : "1\/B\/JGTB01",
+        "queryID" : "B0181"
+      }, {
+        "busstop" : "SMJK Penang Chinese Girls",
+        "busstopID" : "1\/A\/JGTB02",
+        "queryID" : "B0178"
+      }, {
+        "busstop" : "SMJK Penang Chinese Girls",
+        "busstopID" : "1\/B\/JGTB02",
+        "queryID" : "B0179"
+      }
+    ],
+    "Jalan Gurdwara" : [{
+        "busstop" : "SK Kampong Jawa",
+        "busstopID" : "3\/A\/JGUR01",
+        "queryID" : "B0506"
+      }
+    ],
+    "Jalan Hamilton" : [{
+        "busstop" : "SMJK Heng Ee",
+        "busstopID" : "2\/A\/JHML01",
+        "queryID" : "B0402"
+      }, {
+        "busstop" : "SMJK Heng Ee",
+        "busstopID" : "2\/B\/JHML01",
+        "queryID" : "B0433"
+      }, {
+        "busstop" : "Taman Hutchings",
+        "busstopID" : "2\/A\/JHML02",
+        "queryID" : "B0403"
+      }
+    ],
+    "Jalan Hassan Abas" : [{
+        "busstop" : "Aseania Court",
+        "busstopID" : "1\/A\/JHSA04",
+        "queryID" : "B0069"
+      }, {
+        "busstop" : "Aseania Court",
+        "busstopID" : "1\/B\/JHSA04",
+        "queryID" : "B0071"
+      }, {
+        "busstop" : "Flat Hassan Abbas",
+        "busstopID" : "1\/B\/JHSA03",
+        "queryID" : "B0072"
+      }, {
+        "busstop" : "Flat Hassan Abbas",
+        "busstopID" : "1\/A\/JHSA03",
+        "queryID" : "B0068"
+      }, {
+        "busstop" : "Kampung Nelayan",
+        "busstopID" : "1\/A\/JHSA02",
+        "queryID" : "B0067"
+      }, {
+        "busstop" : "Kampung Nelayan",
+        "busstopID" : "1\/B\/JHSA02",
+        "queryID" : "B0073"
+      }, {
+        "busstop" : "Pasar Teluk Bahang",
+        "busstopID" : "1\/B\/JHSA01",
+        "queryID" : "B0074"
+      }, {
+        "busstop" : "Pasar Teluk Bahang",
+        "busstopID" : "1\/A\/JHSA01",
+        "queryID" : "B0066"
+      }, {
+        "busstop" : "Taman Negara",
+        "busstopID" : "1\/A\/JHSA05",
+        "queryID" : "B0070"
+      }
+    ],
+    "Jalan Hutton" : [{
+        "busstop" : "Masjid Jamek Jalan Hutton",
+        "busstopID" : "1\/A\/JHTN01",
+        "queryID" : "B0929"
+      }
+    ],
+    "Jalan Jelutong" : [{
+        "busstop" : "Apartmen Desa Selatan",
+        "busstopID" : "3\/A\/JJLT01",
+        "queryID" : "B0448"
+      }, {
+        "busstop" : "Chevrolet Showroom",
+        "busstopID" : "3\/A\/JJLT02",
+        "queryID" : "B0449"
+      }, {
+        "busstop" : "Dewan Makan Jelutong",
+        "busstopID" : "3\/A\/JJLT07",
+        "queryID" : "B0454"
+      }, {
+        "busstop" : "Masjid Jelutong",
+        "busstopID" : "3\/B\/JJLT06",
+        "queryID" : "B0497"
+      }, {
+        "busstop" : "Maybank Jelutong",
+        "busstopID" : "3\/A\/JJLT03",
+        "queryID" : "B0450"
+      }, {
+        "busstop" : "Pasar Jelutong",
+        "busstopID" : "3\/B\/JJLT07",
+        "queryID" : "B0627"
+      }, {
+        "busstop" : "Pejabat Pos Jelutong",
+        "busstopID" : "3\/B\/JJLT08",
+        "queryID" : "B0626"
+      }, {
+        "busstop" : "Richmont Residences",
+        "busstopID" : "3\/A\/JJLT06",
+        "queryID" : "B0453"
+      }, {
+        "busstop" : "Shell Jalan Jelutong",
+        "busstopID" : "3\/A\/JJLT04",
+        "queryID" : "B0451"
+      }, {
+        "busstop" : "SJK Moh Ghee Cawangan",
+        "busstopID" : "3\/B\/JJLT02",
+        "queryID" : "B0501"
+      }, {
+        "busstop" : "Taman Cemerlang",
+        "busstopID" : "3\/B\/JJLT04",
+        "queryID" : "B0499"
+      }, {
+        "busstop" : "Taman Dato Syed Abbas",
+        "busstopID" : "3\/B\/JJLT05",
+        "queryID" : "B0498"
+      }, {
+        "busstop" : "Taman Dato Syed Abbas",
+        "busstopID" : "3\/A\/JJLT05",
+        "queryID" : "B0452"
+      }, {
+        "busstop" : "Wisma Jelutong",
+        "busstopID" : "3\/B\/JJLT03",
+        "queryID" : "B0500"
+      }
+    ],
+    "Jalan Kampung Kolam" : [{
+        "busstop" : "Jalan Kampung Kolam",
+        "busstopID" : "3\/B\/JKKL01",
+        "queryID" : "B0505"
+      }, {
+        "busstop" : "Jalan Kampung Kolam",
+        "busstopID" : "3\/A\/JKKL01",
+        "queryID" : "B0442"
+      }
+    ],
+    "Jalan Kampung Masjid" : [{
+        "busstop" : "Flat Kg. Suluk",
+        "busstopID" : "3\/A\/JKPM05",
+        "queryID" : "B0723"
+      }, {
+        "busstop" : "Flat Kg. Suluk",
+        "busstopID" : "3\/B\/JKPM05",
+        "queryID" : "B0692"
+      }, {
+        "busstop" : "Jalan Kg. Suluk",
+        "busstopID" : "3\/B\/JKPM03",
+        "queryID" : "B0694"
+      }, {
+        "busstop" : "Jalan Kg. Suluk",
+        "busstopID" : "3\/A\/JKPM03",
+        "queryID" : "B0721"
+      }, {
+        "busstop" : "Masjid Makbul Teluk Kumbar",
+        "busstopID" : "3\/B\/JKPM06",
+        "queryID" : "B0696"
+      }, {
+        "busstop" : "Sekolah Agama Al-Itqan",
+        "busstopID" : "3\/B\/JKPM02",
+        "queryID" : "B0695"
+      }, {
+        "busstop" : "Sekolah Agama Al-Itqan",
+        "busstopID" : "3\/A\/JKPM02",
+        "queryID" : "B0720"
+      }, {
+        "busstop" : "SMK Teluk Kumbar 2",
+        "busstopID" : "3\/A\/JKPM04",
+        "queryID" : "B0722"
+      }, {
+        "busstop" : "SMK Teluk Kumbar 2",
+        "busstopID" : "3\/B\/JKPM04",
+        "queryID" : "B0693"
+      }, {
+        "busstop" : "SRK Seri Bayu",
+        "busstopID" : "3\/B\/JKPM01",
+        "queryID" : "B0697"
+      }, {
+        "busstop" : "SRK Seri Bayu",
+        "busstopID" : "3\/A\/JKPM01",
+        "queryID" : "B0719"
+      }
+    ],
+    "Jalan Kampung Melayu" : [{
+        "busstop" : "Flat Kampung Melayu",
+        "busstopID" : "2\/B\/JKPM03",
+        "queryID" : "B0392"
+      }, {
+        "busstop" : "Makam Shaik Omar",
+        "busstopID" : "2\/B\/JKPM02",
+        "queryID" : "B0393"
+      }, {
+        "busstop" : "Medan Niaga Kampung Melayu",
+        "busstopID" : "2\/A\/JKPM03",
+        "queryID" : "B0382"
+      }, {
+        "busstop" : "SRK Sri Aman",
+        "busstopID" : "2\/A\/JKPM02",
+        "queryID" : "B0381"
+      }, {
+        "busstop" : "Thoong Shen Thong",
+        "busstopID" : "2\/A\/JKPM01",
+        "queryID" : "B0380"
+      }
+    ],
+    "Jalan Kampung Pisang" : [{
+        "busstop" : "Jalan Kampung Pisang",
+        "busstopID" : "2\/A\/JKPP01",
+        "queryID" : "B0384"
+      }, {
+        "busstop" : "Jalan Kampung Pisang",
+        "busstopID" : "2\/B\/JKPP01",
+        "queryID" : "B0391"
+      }, {
+        "busstop" : "Jalan Kampung Pisang - Pokok Buluh",
+        "busstopID" : "2\/A\/JKPP02",
+        "queryID" : "B0385"
+      }
+    ],
+    "Jalan Kampung Relau" : [{
+        "busstop" : "I-Avenue",
+        "busstopID" : "3\/B\/JKPR01",
+        "queryID" : "B0485"
+      }, {
+        "busstop" : "SMK Sungai Nibong",
+        "busstopID" : "3\/B\/JKPR02",
+        "queryID" : "B0486"
+      }
+    ],
+    "Jalan Kampung Terang" : [{
+        "busstop" : "Balai Bomba Kg. Terang",
+        "busstopID" : "4\/A\/JKTR03",
+        "queryID" : "B0787"
+      }, {
+        "busstop" : "Cafe Azmi Azian",
+        "busstopID" : "4\/A\/JKTR10",
+        "queryID" : "B0794"
+      }, {
+        "busstop" : "Cafe Azmi Azian",
+        "busstopID" : "4\/B\/JKTR10",
+        "queryID" : "B0796"
+      }, {
+        "busstop" : "Gerai Hotlink",
+        "busstopID" : "4\/A\/JKTR07",
+        "queryID" : "B0791"
+      }, {
+        "busstop" : "Hub Pulau Betong",
+        "busstopID" : "H\/A\/HPLB00",
+        "queryID" : "B0795"
+      }, {
+        "busstop" : "Kampung Terang Bukit",
+        "busstopID" : "4\/A\/JKTR04",
+        "queryID" : "B0788"
+      }, {
+        "busstop" : "Masjid Pulau Betong",
+        "busstopID" : "4\/B\/JKTR08",
+        "queryID" : "B0798"
+      }, {
+        "busstop" : "Parit Kampung Terang",
+        "busstopID" : "4\/A\/JKTR05",
+        "queryID" : "B0789"
+      }, {
+        "busstop" : "Pekan Pulau Betong",
+        "busstopID" : "4\/A\/JKTR09",
+        "queryID" : "B0793"
+      }, {
+        "busstop" : "Pemancar Pulau Betong",
+        "busstopID" : "4\/B\/JKTR09",
+        "queryID" : "B0797"
+      }, {
+        "busstop" : "R & R Auto Service",
+        "busstopID" : "4\/A\/JKTR06",
+        "queryID" : "B0790"
+      }, {
+        "busstop" : "Simpang Masjid Pulau Betong",
+        "busstopID" : "4\/A\/JKTR08",
+        "queryID" : "B0792"
+      }, {
+        "busstop" : "Simpang Pekan Genting",
+        "busstopID" : "4\/A\/JKTR01",
+        "queryID" : "B0785"
+      }, {
+        "busstop" : "Taman Desa Terang",
+        "busstopID" : "4\/A\/JKTR02",
+        "queryID" : "B0786"
+      }
+    ],
+    "Jalan Kebun Bunga" : [{
+        "busstop" : "Apartmen Park Avenu",
+        "busstopID" : "1\/B\/JKBG03",
+        "queryID" : "B0924"
+      }, {
+        "busstop" : "Hub Kebun Bunga",
+        "busstopID" : "H\/A\/HKBG00",
+        "queryID" : "B0922"
+      }, {
+        "busstop" : "Penang Nattukottai Chettiar Temple",
+        "busstopID" : "1\/B\/JKBG02",
+        "queryID" : "B0925"
+      }, {
+        "busstop" : "SJK Tamil Azad",
+        "busstopID" : "1\/A\/JKBG01",
+        "queryID" : "B0921"
+      }, {
+        "busstop" : "Surau Jalan Kebun Bunga",
+        "busstopID" : "1\/B\/JKBG04",
+        "queryID" : "B0923"
+      }
+    ],
+    "Jalan Kelawei" : [{
+        "busstop" : "Bank UOB",
+        "busstopID" : "1\/A\/JKLW01",
+        "queryID" : "B0225"
+      }, {
+        "busstop" : "Gurney Paragon",
+        "busstopID" : "1\/A\/JKLW05",
+        "queryID" : "B0229"
+      }, {
+        "busstop" : "Gurney Plaza",
+        "busstopID" : "1\/A\/JKLW06",
+        "queryID" : "B0230"
+      }, {
+        "busstop" : "Gurney Plaza",
+        "busstopID" : "1\/B\/JKLW06",
+        "queryID" : "B0235"
+      }, {
+        "busstop" : "Kelawei View Condominium",
+        "busstopID" : "1\/B\/JKLW03",
+        "queryID" : "B0237"
+      }, {
+        "busstop" : "Kelawei View Condominium",
+        "busstopID" : "1\/A\/JKLW03",
+        "queryID" : "B0227"
+      }, {
+        "busstop" : "Masjid Jamek Al-munauwar Kelawei",
+        "busstopID" : "1\/A\/JKLW02",
+        "queryID" : "B0226"
+      }, {
+        "busstop" : "Masjid Jamek Al-munauwar Kelawei",
+        "busstopID" : "1\/B\/JKLW02",
+        "queryID" : "B0238"
+      }, {
+        "busstop" : "Menara Gurney Hotel",
+        "busstopID" : "1\/B\/JKLW01",
+        "queryID" : "B0239"
+      }, {
+        "busstop" : "Sunrise Tower",
+        "busstopID" : "1\/B\/JKLW07",
+        "queryID" : "B0234"
+      }, {
+        "busstop" : "Tenby International School",
+        "busstopID" : "1\/B\/JKLW04",
+        "queryID" : "B0236"
+      }, {
+        "busstop" : "Wat Chaiya Mangalaram Buddhist Temple",
+        "busstopID" : "1\/A\/JKLW04",
+        "queryID" : "B0228"
+      }
+    ],
+    "Jalan Kuala Jalan Baru" : [{
+        "busstop" : "Kg. Sungai Korok",
+        "busstopID" : "4\/A\/JKJB05",
+        "queryID" : "B0777"
+      }, {
+        "busstop" : "Kg. Sungai Korok",
+        "busstopID" : "4\/A\/JKJB02",
+        "queryID" : "B0774"
+      }, {
+        "busstop" : "Kuala Sungai Korok",
+        "busstopID" : "4\/A\/JKJB03",
+        "queryID" : "B0775"
+      }, {
+        "busstop" : "Pondok Polis Sungai Korok",
+        "busstopID" : "4\/A\/JKJB06",
+        "queryID" : "B0778"
+      }, {
+        "busstop" : "SJK Yeok Hua",
+        "busstopID" : "4\/A\/JKJB04",
+        "queryID" : "B0776"
+      }, {
+        "busstop" : "Titi Sungai Korok",
+        "busstopID" : "4\/A\/JKJB01",
+        "queryID" : "B0773"
+      }
+    ],
+    "Jalan Kuala Sg. Pinang" : [{
+        "busstop" : "Balai Polis Sg. Pinang",
+        "busstopID" : "4\/A\/JKSP06",
+        "queryID" : "B0843"
+      }, {
+        "busstop" : "Jalan Kuala Sg. Pinang",
+        "busstopID" : "4\/A\/JKSP01",
+        "queryID" : "B0838"
+      }, {
+        "busstop" : "Kuala Sg. Pinang",
+        "busstopID" : "4\/A\/JKSP04",
+        "queryID" : "B0841"
+      }, {
+        "busstop" : "Pekan Sg. Pinang",
+        "busstopID" : "4\/A\/JKSP03",
+        "queryID" : "B0840"
+      }, {
+        "busstop" : "SJK Yu Chye",
+        "busstopID" : "4\/A\/JKSP05",
+        "queryID" : "B0842"
+      }, {
+        "busstop" : "Taman Pelita Kg. Sg. Pinang",
+        "busstopID" : "4\/A\/JKSP02",
+        "queryID" : "B0839"
+      }
+    ],
+    "Jalan Larut" : [{
+        "busstop" : "Hotel Royal",
+        "busstopID" : "1\/A\/JLAR01",
+        "queryID" : "B0914"
+      }
+    ],
+    "Jalan Lembah" : [{
+        "busstop" : "Perumahan Kastam",
+        "busstopID" : "3\/B\/JLMB01",
+        "queryID" : "B0416"
+      }, {
+        "busstop" : "Perumahan Kastam",
+        "busstopID" : "3\/A\/JLMB01",
+        "queryID" : "B0425"
+      }
+    ],
+    "Jalan Lembah Permai" : [{
+        "busstop" : "Jalan Lembah Permai",
+        "busstopID" : "1\/A\/JLPM01",
+        "queryID" : "B0259"
+      }, {
+        "busstop" : "Jalan Lembah Permai",
+        "busstopID" : "1\/B\/JLPM01",
+        "queryID" : "B0268"
+      }, {
+        "busstop" : "Jalan Lembah Permai - Apartmen Azuria",
+        "busstopID" : "1\/B\/JLPM05",
+        "queryID" : "B0265"
+      }, {
+        "busstop" : "Jalan Lembah Permai - Apartmen Azuria",
+        "busstopID" : "1\/A\/JLPM05",
+        "queryID" : "B0263"
+      }, {
+        "busstop" : "Jalan Lembah Permai - Apartmen Permai Ria",
+        "busstopID" : "1\/A\/JLPM06",
+        "queryID" : "B0264"
+      }, {
+        "busstop" : "Jalan Lembah Permai - Kampung Tanjung Bungah",
+        "busstopID" : "1\/A\/JLPM04",
+        "queryID" : "B0262"
+      }, {
+        "busstop" : "Jalan Lembah Permai - Klinik Kesihatan Tanjung Bunga",
+        "busstopID" : "1\/A\/JLPM03",
+        "queryID" : "B0261"
+      }, {
+        "busstop" : "Jalan Lembah Permai - SK Tanjung Bunga",
+        "busstopID" : "1\/B\/JLPM03",
+        "queryID" : "B0266"
+      }, {
+        "busstop" : "Sekolah Kebangsaan Pendidikan Khas Persekutuan",
+        "busstopID" : "1\/B\/JLPM02",
+        "queryID" : "B0267"
+      }, {
+        "busstop" : "Sekolah Kebangsaan Pendidikan Khas Persekutuan",
+        "busstopID" : "1\/A\/JLPM02",
+        "queryID" : "B0260"
+      }
+    ],
+    "Jalan Loh Poh Heng" : [{
+        "busstop" : "Jalan Loh Poh Heng",
+        "busstopID" : "1\/A\/JLPH01",
+        "queryID" : "B0253"
+      }, {
+        "busstop" : "Jalan Loh Poh Heng - Mini Market",
+        "busstopID" : "1\/B\/JLPH01",
+        "queryID" : "B0274"
+      }
+    ],
+    "Jalan Macalister" : [{
+        "busstop" : "Buddhist Tzu Chi Merits Society Malaysia",
+        "busstopID" : "1\/B\/JMCA08",
+        "queryID" : "B0187"
+      }, {
+        "busstop" : "Hotel Red Rock",
+        "busstopID" : "1\/B\/JMCA04",
+        "queryID" : "B0129"
+      }, {
+        "busstop" : "Kolej Disted-Stamford",
+        "busstopID" : "1\/B\/JMCA07",
+        "queryID" : "B0186"
+      }, {
+        "busstop" : "Loh Guan Lye Hospital -Macalister",
+        "busstopID" : "1\/B\/JMCA02",
+        "queryID" : "B0127"
+      }, {
+        "busstop" : "Restoran Nasi Kandar Pelita",
+        "busstopID" : "1\/B\/JMCA05",
+        "queryID" : "B0130"
+      }, {
+        "busstop" : "Sekolah Sri Pinang",
+        "busstopID" : "1\/B\/JMCA01",
+        "queryID" : "B0185"
+      }, {
+        "busstop" : "St Pauls Church - Wisma Central",
+        "busstopID" : "1\/B\/JMCA06",
+        "queryID" : "B0131"
+      }, {
+        "busstop" : "Wisma Getah",
+        "busstopID" : "1\/B\/JMCA03",
+        "queryID" : "B0128"
+      }, {
+        "busstop" : "YMCA",
+        "busstopID" : "1\/A\/JMCA09",
+        "queryID" : "B0918"
+      }
+    ],
+    "Jalan Magazine" : [{
+        "busstop" : "Flat Lebuh Noordin",
+        "busstopID" : "3\/A\/JMGN01",
+        "queryID" : "B0632"
+      }, {
+        "busstop" : "Jalan Magazine",
+        "busstopID" : "3\/A\/JMGN02",
+        "queryID" : "B0633"
+      }
+    ],
+    "Jalan Mahsuri" : [{
+        "busstop" : "Mayang Mall",
+        "busstopID" : "3\/B\/JMAH02",
+        "queryID" : "B0600"
+      }, {
+        "busstop" : "Mayang Mall",
+        "busstopID" : "3\/A\/JMAH02",
+        "queryID" : "B0516"
+      }, {
+        "busstop" : "Pintu Belakang PISA",
+        "busstopID" : "3\/A\/JMAH01",
+        "queryID" : "B0515"
+      }, {
+        "busstop" : "Pintu Belakang PISA",
+        "busstopID" : "3\/B\/JMAH01",
+        "queryID" : "B0601"
+      }
+    ],
+    "Jalan Masjid Kapitan Keling" : [{
+        "busstop" : "Gereja St. George",
+        "busstopID" : "1\/B\/JMKL01",
+        "queryID" : "B0910"
+      }
+    ],
+    "Jalan Masjid Negeri" : [{
+        "busstop" : "Gembira Parade",
+        "busstopID" : "2\/A\/JMJN02",
+        "queryID" : "B0197"
+      }, {
+        "busstop" : "Hospital Lam Wah Ee",
+        "busstopID" : "2\/A\/JMJN04",
+        "queryID" : "B0195"
+      }, {
+        "busstop" : "Hospital Lam Wah Ee",
+        "busstopID" : "2\/B\/JMJN04",
+        "queryID" : "B0168"
+      }, {
+        "busstop" : "McDonalds Jalan Masjid Negeri",
+        "busstopID" : "2\/B\/JMJN06",
+        "queryID" : "B0170"
+      }, {
+        "busstop" : "Persatuan Kanak-kanak Spastik",
+        "busstopID" : "2\/B\/JMJN03",
+        "queryID" : "B0167"
+      }, {
+        "busstop" : "Persatuan Kanak-kanak Spastik",
+        "busstopID" : "2\/A\/JMJN03",
+        "queryID" : "B0196"
+      }, {
+        "busstop" : "Simpang Jalan Yeap Chor Ee",
+        "busstopID" : "2\/B\/JMJN01",
+        "queryID" : "B0165"
+      }, {
+        "busstop" : "SMK Penang Free School",
+        "busstopID" : "2\/B\/JMJN07",
+        "queryID" : "B0171"
+      }, {
+        "busstop" : "SMK Penang Free School",
+        "busstopID" : "2\/A\/JMJN07",
+        "queryID" : "B0193"
+      }, {
+        "busstop" : "SMK\/SK Convent Green Lane",
+        "busstopID" : "2\/A\/JMJN05",
+        "queryID" : "B0194"
+      }, {
+        "busstop" : "SMK\/SK Convent Green Lane",
+        "busstopID" : "2\/B\/JMJN05",
+        "queryID" : "B0169"
+      }, {
+        "busstop" : "Stesen Minyak Shell Jalan Masjid Negeri",
+        "busstopID" : "2\/B\/JMJN02",
+        "queryID" : "B0166"
+      }, {
+        "busstop" : "Taman Ghee Hiang",
+        "busstopID" : "2\/A\/JMJN01",
+        "queryID" : "B0198"
+      }
+    ],
+    "Jalan Mayang Pasir" : [{
+        "busstop" : "Giant Hypermarket Bayan Baru",
+        "busstopID" : "3\/B\/JMYP02",
+        "queryID" : "B0597"
+      }, {
+        "busstop" : "Giant Hypermarket Bayan Baru",
+        "busstopID" : "3\/A\/JMYP02",
+        "queryID" : "B0518"
+      }, {
+        "busstop" : "Hub Bukit Gedung",
+        "busstopID" : "H\/B\/JMYP00",
+        "queryID" : "B0623"
+      }, {
+        "busstop" : "Pangsapuri Mayang",
+        "busstopID" : "3\/B\/JMYP04",
+        "queryID" : "B0624"
+      }, {
+        "busstop" : "Pangsapuri Mayang",
+        "busstopID" : "3\/A\/JMYP04",
+        "queryID" : "B0620"
+      }, {
+        "busstop" : "Pasar Bayan Baru",
+        "busstopID" : "3\/B\/JMYP03",
+        "queryID" : "B0598"
+      }, {
+        "busstop" : "Sunshine Square",
+        "busstopID" : "3\/B\/JMYP01",
+        "queryID" : "B0599"
+      }, {
+        "busstop" : "Sunshine Square",
+        "busstopID" : "3\/A\/JMYP01",
+        "queryID" : "B0517"
+      }
+    ],
+    "Jalan Mayang Pasir 2" : [{
+        "busstop" : "Hub Bayan Baru",
+        "busstopID" : "H\/A\/HBBR00",
+        "queryID" : "B0675"
+      }
+    ],
+    "Jalan P. Ramlee" : [{
+        "busstop" : "Bangunan Klinik Seri Pulau",
+        "busstopID" : "2\/B\/JPRL01",
+        "queryID" : "B0437"
+      }, {
+        "busstop" : "Flat Seri Hussain",
+        "busstopID" : "2\/B\/JPRL03",
+        "queryID" : "B0435"
+      }, {
+        "busstop" : "Flat Seri Hussain",
+        "busstopID" : "2\/A\/JPRL03",
+        "queryID" : "B0400"
+      }, {
+        "busstop" : "SMK Abdullah Munshi",
+        "busstopID" : "2\/A\/JPRL02",
+        "queryID" : "B0399"
+      }, {
+        "busstop" : "SMK Abdullah Munshi",
+        "busstopID" : "2\/B\/JPRL02",
+        "queryID" : "B0436"
+      }, {
+        "busstop" : "Taman P. Ramlee",
+        "busstopID" : "2\/A\/JPRL01",
+        "queryID" : "B0398"
+      }
+    ],
+    "Jalan Padang Tembak" : [{
+        "busstop" : "Apartmen Rifle Court",
+        "busstopID" : "2\/A\/JPDT01",
+        "queryID" : "B0294"
+      }, {
+        "busstop" : "Kampung Bharu Ayer Itam",
+        "busstopID" : "2\/A\/JPDT02",
+        "queryID" : "B0295"
+      }, {
+        "busstop" : "Kampung Bharu Ayer Itam",
+        "busstopID" : "2\/B\/JPDT02",
+        "queryID" : "B0340"
+      }, {
+        "busstop" : "Kuartes PBA",
+        "busstopID" : "2\/B\/JPDT03",
+        "queryID" : "B0339"
+      }, {
+        "busstop" : "Lorong Padang Tembak",
+        "busstopID" : "2\/B\/JPDT01",
+        "queryID" : "B0341"
+      }, {
+        "busstop" : "PBA Padang Tembak",
+        "busstopID" : "2\/A\/JPDT03",
+        "queryID" : "B0296"
+      }, {
+        "busstop" : "Sek. Ren Keb Padang Tembak",
+        "busstopID" : "2\/A\/JPDT04",
+        "queryID" : "B0297"
+      }
+    ],
+    "Jalan Pangkor" : [{
+        "busstop" : "Pangkor Court - Gleneagles Medical Centre",
+        "busstopID" : "1\/A\/JPKR01",
+        "queryID" : "B0224"
+      }
+    ],
+    "Jalan Pantai Acheh" : [{
+        "busstop" : "Hub Pantai Acheh",
+        "busstopID" : "H\/B\/HPTA00",
+        "queryID" : "B0853"
+      }, {
+        "busstop" : "Jalan Haji Abd. Ghani Taib",
+        "busstopID" : "4\/A\/JPAC04",
+        "queryID" : "B0849"
+      }, {
+        "busstop" : "Jalan Haji Abd. Ghani Taib",
+        "busstopID" : "4\/B\/JPAC04",
+        "queryID" : "B0858"
+      }, {
+        "busstop" : "Jalan Haji Hamid Senawi",
+        "busstopID" : "4\/B\/JPAC03",
+        "queryID" : "B0859"
+      }, {
+        "busstop" : "Jalan Haji Hamid Senawi",
+        "busstopID" : "4\/A\/JPAC03",
+        "queryID" : "B0848"
+      }, {
+        "busstop" : "Jalan Pantai Acheh",
+        "busstopID" : "4\/B\/JPAC08",
+        "queryID" : "B0857"
+      }, {
+        "busstop" : "Kampung Bukit Kecil",
+        "busstopID" : "4\/A\/JPAC05",
+        "queryID" : "B0850"
+      }, {
+        "busstop" : "Kampung Bukit Kecil",
+        "busstopID" : "4\/B\/JPAC05",
+        "queryID" : "B0856"
+      }, {
+        "busstop" : "Kem PLKN Sg. Pinang",
+        "busstopID" : "4\/A\/JPAC02",
+        "queryID" : "B0847"
+      }, {
+        "busstop" : "Pasar Sg. Pinang",
+        "busstopID" : "4\/A\/JPAC01",
+        "queryID" : "B0846"
+      }, {
+        "busstop" : "Pusat Falak Sheik Tahir",
+        "busstopID" : "4\/B\/JPAC07",
+        "queryID" : "B0854"
+      }, {
+        "busstop" : "Pusat Falak Sheik Tahir",
+        "busstopID" : "4\/A\/JPAC07",
+        "queryID" : "B0852"
+      }, {
+        "busstop" : "Sekolah Agama Sg. Pinang",
+        "busstopID" : "4\/B\/JPAC02",
+        "queryID" : "B0860"
+      }, {
+        "busstop" : "SRJK Sin Min",
+        "busstopID" : "4\/B\/JPAC01",
+        "queryID" : "B0861"
+      }, {
+        "busstop" : "Taman Pantai Acheh",
+        "busstopID" : "4\/A\/JPAC06",
+        "queryID" : "B0851"
+      }, {
+        "busstop" : "Taman Pantai Acheh",
+        "busstopID" : "4\/B\/JPAC06",
+        "queryID" : "B0855"
+      }
+    ],
+    "Jalan Pasar" : [{
+        "busstop" : "RHB Bank",
+        "busstopID" : "2\/B\/JPSR01",
+        "queryID" : "B0330"
+      }
+    ],
+    "Jalan Patani" : [{
+        "busstop" : "Apartmen Taman Seri Petani",
+        "busstopID" : "2\/B\/JPTN03",
+        "queryID" : "B0440"
+      }, {
+        "busstop" : "Apartmen Taman Sri Pinang",
+        "busstopID" : "2\/A\/JPTN02",
+        "queryID" : "B0395"
+      }, {
+        "busstop" : "IPD Timur Laut",
+        "busstopID" : "2\/A\/JPTN01",
+        "queryID" : "B0394"
+      }, {
+        "busstop" : "IPD Timur Laut",
+        "busstopID" : "2\/B\/JPTN01",
+        "queryID" : "B0441"
+      }
+    ],
+    "Jalan Paya Terubong" : [{
+        "busstop" : "AmBank Paya Terubong",
+        "busstopID" : "2\/B\/JPYT10",
+        "queryID" : "B0329"
+      }, {
+        "busstop" : "AmBank Paya Terubong",
+        "busstopID" : "2\/B\/JPYT11",
+        "queryID" : "B0905"
+      }, {
+        "busstop" : "Apartmen Green Garden",
+        "busstopID" : "2\/A\/JPYT12",
+        "queryID" : "B0663"
+      }, {
+        "busstop" : "Apartmen Green Garden",
+        "busstopID" : "2\/B\/JPYT12",
+        "queryID" : "B0665"
+      }, {
+        "busstop" : "Apartmen Ruby Court - Desa Permata",
+        "busstopID" : "2\/A\/JPYT04",
+        "queryID" : "B0308"
+      }, {
+        "busstop" : "Apartmen Sri Sari",
+        "busstopID" : "3\/A\/JPYT01",
+        "queryID" : "B0472"
+      }, {
+        "busstop" : "Apartmen Sri Sari",
+        "busstopID" : "3\/B\/JPYT01",
+        "queryID" : "B0480"
+      }, {
+        "busstop" : "Apartmen Taman Bendera",
+        "busstopID" : "3\/A\/JPYT04",
+        "queryID" : "B0475"
+      }, {
+        "busstop" : "Apartmen Villa Kejora",
+        "busstopID" : "3\/B\/JPYT02",
+        "queryID" : "B0479"
+      }, {
+        "busstop" : "Berhadapan Sapphire Court",
+        "busstopID" : "2\/B\/JPYT03",
+        "queryID" : "B0326"
+      }, {
+        "busstop" : "Flat Jalan Paya Terubong",
+        "busstopID" : "2\/A\/JPYT10",
+        "queryID" : "B0314"
+      }, {
+        "busstop" : "Flat Wisma Indah",
+        "busstopID" : "2\/A\/JPYT05",
+        "queryID" : "B0309"
+      }, {
+        "busstop" : "Hub Paya Terubong - Petronas",
+        "busstopID" : "H\/A\/JPYT00",
+        "queryID" : "B0319"
+      }, {
+        "busstop" : "Klinik Desa Paya Terubong.",
+        "busstopID" : "2\/A\/JPYT01",
+        "queryID" : "B0305"
+      }, {
+        "busstop" : "Klinik Desa Paya Terubong.",
+        "busstopID" : "2\/B\/JPYT01",
+        "queryID" : "B0328"
+      }, {
+        "busstop" : "Klinik Union - Desa Permata",
+        "busstopID" : "2\/A\/JPYT03",
+        "queryID" : "B0307"
+      }, {
+        "busstop" : "Lee Rubber Co. Sdn. Bhd.",
+        "busstopID" : "2\/A\/JPYT09",
+        "queryID" : "B0313"
+      }, {
+        "busstop" : "Oriental Garden",
+        "busstopID" : "2\/B\/JPYT09",
+        "queryID" : "B0320"
+      }, {
+        "busstop" : "Pasar Paya Terubong",
+        "busstopID" : "2\/A\/JPYT08",
+        "queryID" : "B0312"
+      }, {
+        "busstop" : "Pasar Paya Terubong",
+        "busstopID" : "2\/B\/JPYT08",
+        "queryID" : "B0321"
+      }, {
+        "busstop" : "Paya Terubong Hokkien Cemetery",
+        "busstopID" : "2\/B\/JPYT07",
+        "queryID" : "B0322"
+      }, {
+        "busstop" : "Pejabat JKR Paya Terubong",
+        "busstopID" : "2\/A\/JPYT06",
+        "queryID" : "B0310"
+      }, {
+        "busstop" : "Pejabat Pertanian Relau",
+        "busstopID" : "3\/B\/JPYT04",
+        "queryID" : "B0477"
+      }, {
+        "busstop" : "Persimpangan Lebuh Paya Terubong 3",
+        "busstopID" : "2\/B\/JPYT05",
+        "queryID" : "B0324"
+      }, {
+        "busstop" : "Persimpangan Lebuh Rambai",
+        "busstopID" : "2\/A\/JPYT07",
+        "queryID" : "B0311"
+      }, {
+        "busstop" : "Puncak Jalan Paya Terubong",
+        "busstopID" : "2\/A\/JPYT13",
+        "queryID" : "B0664"
+      }, {
+        "busstop" : "Sekolah Asrama Paya Terubong",
+        "busstopID" : "2\/B\/JPYT04",
+        "queryID" : "B0325"
+      }, {
+        "busstop" : "Shell Paya Terubong",
+        "busstopID" : "2\/B\/JPYT06",
+        "queryID" : "B0323"
+      }, {
+        "busstop" : "SJK Kong Min",
+        "busstopID" : "2\/B\/JPYT02",
+        "queryID" : "B0327"
+      }, {
+        "busstop" : "SJK Kong Min",
+        "busstopID" : "2\/A\/JPYT02",
+        "queryID" : "B0306"
+      }, {
+        "busstop" : "SK Seri Relau",
+        "busstopID" : "3\/A\/JPYT02",
+        "queryID" : "B0473"
+      }, {
+        "busstop" : "Stesen Shell Relau",
+        "busstopID" : "3\/A\/JPYT03",
+        "queryID" : "B0474"
+      }, {
+        "busstop" : "Taman Seri Relau",
+        "busstopID" : "3\/B\/JPYT03",
+        "queryID" : "B0478"
+      }
+    ],
+    "Jalan Pemenang" : [{
+        "busstop" : "Apartment Gurney Ville",
+        "busstopID" : "1\/A\/JPMN01",
+        "queryID" : "B0636"
+      }
+    ],
+    "Jalan Penang" : [{
+        "busstop" : "7-Eleven",
+        "busstopID" : "1\/A\/JPNG02",
+        "queryID" : "B0007"
+      }, {
+        "busstop" : "Cititel Hotel",
+        "busstopID" : "1\/B\/JPNG04",
+        "queryID" : "B0243"
+      }, {
+        "busstop" : "Hotel Merchant",
+        "busstopID" : "1\/A\/JPNG01",
+        "queryID" : "B0223"
+      }, {
+        "busstop" : "Komtar Utara",
+        "busstopID" : "1\/B\/JPNG01",
+        "queryID" : "B0010"
+      }, {
+        "busstop" : "Pasar Chowrasta - IPK Pulau Pinang",
+        "busstopID" : "1\/A\/JPNG03",
+        "queryID" : "B0008"
+      }
+    ],
+    "Jalan Pengkalan Weld" : [{
+        "busstop" : "Apartmen Sri Saujana",
+        "busstopID" : "3\/A\/JPKW02",
+        "queryID" : "B0667"
+      }, {
+        "busstop" : "Chew Jetty",
+        "busstopID" : "3\/B\/JPKW02",
+        "queryID" : "B0684"
+      }, {
+        "busstop" : "Flat Macallum",
+        "busstopID" : "3\/B\/JPKW03",
+        "queryID" : "B0682"
+      }, {
+        "busstop" : "Flat Macallum",
+        "busstopID" : "3\/A\/JPKW03",
+        "queryID" : "B0668"
+      }, {
+        "busstop" : "Gudang Weld Quay",
+        "busstopID" : "1\/B\/JPKW03",
+        "queryID" : "B0142"
+      }, {
+        "busstop" : "Hub CAT",
+        "busstopID" : "H\/A\/HCAT01",
+        "queryID" : "B0906"
+      }, {
+        "busstop" : "Jejantas Terminal Feri",
+        "busstopID" : "1\/B\/JPKW01",
+        "queryID" : "B0140"
+      }, {
+        "busstop" : "Lee Jetty",
+        "busstopID" : "3\/A\/JPKW01",
+        "queryID" : "B0666"
+      }, {
+        "busstop" : "Lee Jetty",
+        "busstopID" : "3\/B\/JPKW01",
+        "queryID" : "B0683"
+      }, {
+        "busstop" : "Pejabat Pos Besar Pulau Pinang",
+        "busstopID" : "1\/B\/JPKW02",
+        "queryID" : "B0141"
+      }, {
+        "busstop" : "Terminal Jetty 1",
+        "busstopID" : "T\/A\/JTTY01",
+        "queryID" : "B0281"
+      }, {
+        "busstop" : "Terminal Jetty 1",
+        "busstopID" : "T\/B\/JTTY01",
+        "queryID" : "B0352"
+      }, {
+        "busstop" : "Terminal Jetty 2",
+        "busstopID" : "T\/B\/JTTY02",
+        "queryID" : "B0143"
+      }, {
+        "busstop" : "Terminal Jetty 2",
+        "busstopID" : "T\/A\/JTTY02",
+        "queryID" : "B0001"
+      }
+    ],
+    "Jalan Perak" : [{
+        "busstop" : "Astaka Padang Brown",
+        "busstopID" : "1\/A\/JPRK09",
+        "queryID" : "B0927"
+      }, {
+        "busstop" : "Harmony View",
+        "busstopID" : "1\/B\/JPRK03",
+        "queryID" : "B0934"
+      }, {
+        "busstop" : "Harmony View",
+        "busstopID" : "1\/A\/JPRK03",
+        "queryID" : "B0941"
+      }, {
+        "busstop" : "Kem Rejimen 509 Askar Wataniah",
+        "busstopID" : "1\/B\/JPRK10",
+        "queryID" : "B0125"
+      }, {
+        "busstop" : "Klinik Kesihatan",
+        "busstopID" : "1\/A\/JPRK04",
+        "queryID" : "B0942"
+      }, {
+        "busstop" : "Klinik Kesihatan",
+        "busstopID" : "1\/B\/JPRK04",
+        "queryID" : "B0933"
+      }, {
+        "busstop" : "Loh Guan Lye Hospital",
+        "busstopID" : "1\/B\/JPRK09",
+        "queryID" : "B0126"
+      }, {
+        "busstop" : "Masjid Wan Chik Arrifin",
+        "busstopID" : "1\/B\/JPRK05",
+        "queryID" : "B0932"
+      }, {
+        "busstop" : "Masjid Wan Chik Arrifin",
+        "busstopID" : "1\/A\/JPRK05",
+        "queryID" : "B0943"
+      }, {
+        "busstop" : "Mobil Gas",
+        "busstopID" : "1\/A\/JPRK01",
+        "queryID" : "B0939"
+      }, {
+        "busstop" : "Perak Plaza",
+        "busstopID" : "1\/A\/JPRK08",
+        "queryID" : "B0917"
+      }, {
+        "busstop" : "Shell Jalan Perak",
+        "busstopID" : "1\/B\/JPRK07",
+        "queryID" : "B0930"
+      }, {
+        "busstop" : "Shell Jalan Perak",
+        "busstopID" : "1\/A\/JPRK07",
+        "queryID" : "B0945"
+      }, {
+        "busstop" : "Taman Kheng Tian",
+        "busstopID" : "1\/B\/JPRK02",
+        "queryID" : "B0935"
+      }, {
+        "busstop" : "Taman Kheng Tian",
+        "busstopID" : "1\/A\/JPRK02",
+        "queryID" : "B0940"
+      }, {
+        "busstop" : "Taman Zainal Abidin",
+        "busstopID" : "1\/A\/JPRK06",
+        "queryID" : "B0944"
+      }, {
+        "busstop" : "Taman Zainal Abidin",
+        "busstopID" : "1\/B\/JPRK06",
+        "queryID" : "B0931"
+      }, {
+        "busstop" : "Wat Buppharam Buddhist Temple",
+        "busstopID" : "1\/A\/JPRK10",
+        "queryID" : "B0016"
+      }
+    ],
+    "Jalan Permatang Damar Laut" : [{
+        "busstop" : "Bukit Binjal",
+        "busstopID" : "3\/B\/JPDL03",
+        "queryID" : "B0580"
+      }, {
+        "busstop" : "Bukit Binjal",
+        "busstopID" : "3\/A\/JPDL03",
+        "queryID" : "B0542"
+      }, {
+        "busstop" : "Desa Jelita",
+        "busstopID" : "3\/A\/JPDL09",
+        "queryID" : "B0548"
+      }, {
+        "busstop" : "Kampung Binjai",
+        "busstopID" : "3\/A\/JPDL04",
+        "queryID" : "B0543"
+      }, {
+        "busstop" : "Kampung Binjai",
+        "busstopID" : "3\/B\/JPDL04",
+        "queryID" : "B0579"
+      }, {
+        "busstop" : "Kampung Permatang Damar Laut",
+        "busstopID" : "3\/B\/JPDL05",
+        "queryID" : "B0578"
+      }, {
+        "busstop" : "Kampung Permatang Damar Laut",
+        "busstopID" : "3\/A\/JPDL05",
+        "queryID" : "B0544"
+      }, {
+        "busstop" : "Kampung Seronok",
+        "busstopID" : "3\/A\/JPDL02",
+        "queryID" : "B0541"
+      }, {
+        "busstop" : "Masjid Kampung Seronok",
+        "busstopID" : "3\/B\/JPDL02",
+        "queryID" : "B0581"
+      }, {
+        "busstop" : "Permatang Damar Laut",
+        "busstopID" : "3\/A\/JPDL07",
+        "queryID" : "B0546"
+      }, {
+        "busstop" : "Permatang Damar Laut 2",
+        "busstopID" : "3\/A\/JPDL08",
+        "queryID" : "B0547"
+      }, {
+        "busstop" : "Permatang Damar Laut 2",
+        "busstopID" : "3\/B\/JPDL08",
+        "queryID" : "B0576"
+      }, {
+        "busstop" : "Sekolah Memandu Damar Laut",
+        "busstopID" : "3\/A\/JPDL06",
+        "queryID" : "B0545"
+      }, {
+        "busstop" : "Sekolah Memandu Damar Laut",
+        "busstopID" : "3\/B\/JPDL06",
+        "queryID" : "B0577"
+      }, {
+        "busstop" : "SJK Tamil Bayan Lepas",
+        "busstopID" : "3\/B\/JPDL01",
+        "queryID" : "B0582"
+      }, {
+        "busstop" : "SJK Tamil Bayan Lepas",
+        "busstopID" : "3\/A\/JPDL01",
+        "queryID" : "B0540"
+      }, {
+        "busstop" : "Taman Desa Wangsa",
+        "busstopID" : "3\/A\/JPDL10",
+        "queryID" : "B0549"
+      }, {
+        "busstop" : "Taman Desa Wangsa",
+        "busstopID" : "3\/B\/JPDL10",
+        "queryID" : "B0575"
+      }
+    ],
+    "Jalan Permatang Laut" : [{
+        "busstop" : "Batu Maung",
+        "busstopID" : "3\/A\/JPLA03",
+        "queryID" : "B0552"
+      }, {
+        "busstop" : "Batu Maung Residency",
+        "busstopID" : "3\/B\/JPLA06",
+        "queryID" : "B0568"
+      }, {
+        "busstop" : "Diamond Valley",
+        "busstopID" : "3\/B\/JPLA01",
+        "queryID" : "B0574"
+      }, {
+        "busstop" : "Diamond Valley",
+        "busstopID" : "3\/A\/JPLA01",
+        "queryID" : "B0550"
+      }, {
+        "busstop" : "Kampung Batu Lima",
+        "busstopID" : "3\/A\/JPLA04",
+        "queryID" : "B0553"
+      }, {
+        "busstop" : "Kampung Batu Maung",
+        "busstopID" : "3\/B\/JPLA08",
+        "queryID" : "B0572"
+      }, {
+        "busstop" : "SK Batu Maung",
+        "busstopID" : "3\/B\/JPLA05",
+        "queryID" : "B0570"
+      }, {
+        "busstop" : "SK Batu Maung",
+        "busstopID" : "3\/A\/JPLA05",
+        "queryID" : "B0554"
+      }, {
+        "busstop" : "SMK Batu Maung",
+        "busstopID" : "3\/B\/JPLA07",
+        "queryID" : "B0569"
+      }, {
+        "busstop" : "Soutbay Residence",
+        "busstopID" : "3\/A\/JPLA06",
+        "queryID" : "B0555"
+      }, {
+        "busstop" : "Taman Gembira",
+        "busstopID" : "3\/A\/JPLA02",
+        "queryID" : "B0551"
+      }, {
+        "busstop" : "Taman Gembira",
+        "busstopID" : "3\/B\/JPLA02",
+        "queryID" : "B0573"
+      }, {
+        "busstop" : "Taman Sunway Mutiara",
+        "busstopID" : "3\/B\/JPLA03",
+        "queryID" : "B0571"
+      }
+    ],
+    "Jalan Pisang Embun" : [{
+        "busstop" : "Jalan Pisang Embun",
+        "busstopID" : "2\/A\/JPSE01",
+        "queryID" : "B0383"
+      }
+    ],
+    "Jalan Residensi" : [{
+        "busstop" : "Hospital Bersalin",
+        "busstopID" : "1\/A\/JRSD01",
+        "queryID" : "B0188"
+      }, {
+        "busstop" : "Hospital P.Pinang",
+        "busstopID" : "1\/A\/JRSD03",
+        "queryID" : "B0190"
+      }, {
+        "busstop" : "Kolej Jururawat",
+        "busstopID" : "1\/A\/JRSD02",
+        "queryID" : "B0189"
+      }
+    ],
+    "Jalan Ria" : [{
+        "busstop" : "Terminal KOMTAR",
+        "busstopID" : "I\/A\/KMTR00",
+        "queryID" : "B0009"
+      }, {
+        "busstop" : "Terminal KOMTAR",
+        "busstopID" : "I\/A\/KMTR01",
+        "queryID" : "B0909"
+      }
+    ],
+    "Jalan Scotland" : [{
+        "busstop" : "Heritage Club",
+        "busstopID" : "2\/B\/JSCT02",
+        "queryID" : "B0173"
+      }, {
+        "busstop" : "Pejabat Agama Islam",
+        "busstopID" : "2\/B\/JSCT01",
+        "queryID" : "B0172"
+      }, {
+        "busstop" : "SJK Ramakrishna",
+        "busstopID" : "2\/A\/JSCT01",
+        "queryID" : "B0192"
+      }
+    ],
+    "Jalan Semarak Api" : [{
+        "busstop" : "Jalan Semarak Api - Flat 4E",
+        "busstopID" : "2\/A\/JSMA01",
+        "queryID" : "B0360"
+      }
+    ],
+    "Jalan Sempadan" : [{
+        "busstop" : "Flat Padang Tembak",
+        "busstopID" : "2\/B\/JSDP01",
+        "queryID" : "B0338"
+      }, {
+        "busstop" : "Flat Padang Tembak",
+        "busstopID" : "2\/A\/JSPD01",
+        "queryID" : "B0298"
+      }, {
+        "busstop" : "Pejabat Pos Padang Tembak",
+        "busstopID" : "2\/A\/JSPD02",
+        "queryID" : "B0299"
+      }, {
+        "busstop" : "Pejabat Pos Padang Tembak",
+        "busstopID" : "2\/B\/JSPD02",
+        "queryID" : "B0337"
+      }, {
+        "busstop" : "Restoran Nasi Kandar Salam",
+        "busstopID" : "2\/B\/JSPD03",
+        "queryID" : "B0336"
+      }
+    ],
+    "Jalan Sepoy Lines" : [{
+        "busstop" : "SMK Padang Polo",
+        "busstopID" : "1\/A\/JSPL01",
+        "queryID" : "B0919"
+      }
+    ],
+    "Jalan Sir Ibrahim" : [{
+        "busstop" : "Jalan Sir Ibrahim",
+        "busstopID" : "2\/B\/JSIB01",
+        "queryID" : "B0432"
+      }
+    ],
+    "Jalan Sri Bahari" : [{
+        "busstop" : "Poliklinik Chang",
+        "busstopID" : "1\/B\/JSBH02",
+        "queryID" : "B0135"
+      }, {
+        "busstop" : "Restoran The Ship",
+        "busstopID" : "1\/B\/JSBH01",
+        "queryID" : "B0134"
+      }
+    ],
+    "Jalan Sultan Ahmad Shah" : [{
+        "busstop" : "MBF Tower",
+        "busstopID" : "1\/B\/JSAS01",
+        "queryID" : "B0240"
+      }, {
+        "busstop" : "Old Frees Association",
+        "busstopID" : "1\/B\/JSAS02",
+        "queryID" : "B0241"
+      }
+    ],
+    "Jalan Sultan Azlan Shah" : [{
+        "busstop" : "Astaka Gelugor",
+        "busstopID" : "3\/A\/JSAZ19",
+        "queryID" : "B0200"
+      }, {
+        "busstop" : "Bangunan Kejuruteraan MAS",
+        "busstopID" : "3\/A\/JSAZ23",
+        "queryID" : "B0219"
+      }, {
+        "busstop" : "Chung Shan Chinese School",
+        "busstopID" : "3\/A\/JSAZ01",
+        "queryID" : "B0220"
+      }, {
+        "busstop" : "Dynacraft Industries Sdn. Bhd.",
+        "busstopID" : "3\/B\/JSAZ03",
+        "queryID" : "B0147"
+      }, {
+        "busstop" : "Fairchild Semiconductor",
+        "busstopID" : "3\/B\/JSAZ04",
+        "queryID" : "B0148"
+      }, {
+        "busstop" : "JPJ Batu Uban",
+        "busstopID" : "3\/B\/JSAZ13",
+        "queryID" : "B0157"
+      }, {
+        "busstop" : "JPJ Batu Uban",
+        "busstopID" : "3\/A\/JSAZ13",
+        "queryID" : "B0207"
+      }, {
+        "busstop" : "Kedai KTM Motor",
+        "busstopID" : "3\/B\/JSAZ19",
+        "queryID" : "B0163"
+      }, {
+        "busstop" : "Kilang Clarion Malaysia Sdn. Bhd.",
+        "busstopID" : "3\/A\/JSAZ04",
+        "queryID" : "B0217"
+      }, {
+        "busstop" : "Kilang Eng Technology Holdings Sdn. Bhd.",
+        "busstopID" : "3\/A\/JSAZ22",
+        "queryID" : "B0215"
+      }, {
+        "busstop" : "Kilang Mox-Linde Gases Sdn. Bhd.",
+        "busstopID" : "3\/A\/JSAZ06",
+        "queryID" : "B0214"
+      }, {
+        "busstop" : "Kilang Osram Opto Electronics Sdn. Bhd.",
+        "busstopID" : "3\/A\/JSAZ05",
+        "queryID" : "B0216"
+      }, {
+        "busstop" : "Komplek Belia & Sukan",
+        "busstopID" : "3\/A\/JSAZ16",
+        "queryID" : "B0204"
+      }, {
+        "busstop" : "Masjid Jamek Sg Nibong",
+        "busstopID" : "3\/A\/JSAZ10",
+        "queryID" : "B0210"
+      }, {
+        "busstop" : "Masjid Jamek Sg Nibong",
+        "busstopID" : "3\/B\/JSAZ10",
+        "queryID" : "B0154"
+      }, {
+        "busstop" : "Maybank Gelugor",
+        "busstopID" : "3\/B\/JSAZ18",
+        "queryID" : "B0162"
+      }, {
+        "busstop" : "Maybank Gelugor",
+        "busstopID" : "3\/A\/JSAZ18",
+        "queryID" : "B0201"
+      }, {
+        "busstop" : "Padang Bola USM",
+        "busstopID" : "3\/B\/JSAZ16",
+        "queryID" : "B0160"
+      }, {
+        "busstop" : "Pejabat Pos Sungai Tiram",
+        "busstopID" : "3\/B\/JSAZ02",
+        "queryID" : "B0146"
+      }, {
+        "busstop" : "Pejabat Pos Sungai Tiram",
+        "busstopID" : "3\/A\/JSAZ02",
+        "queryID" : "B0218"
+      }, {
+        "busstop" : "RECSAM",
+        "busstopID" : "3\/A\/JSAZ20",
+        "queryID" : "B0199"
+      }, {
+        "busstop" : "RECSAM",
+        "busstopID" : "3\/B\/JSAZ20",
+        "queryID" : "B0164"
+      }, {
+        "busstop" : "Restoran Kampung Ku",
+        "busstopID" : "3\/A\/JSAZ21",
+        "queryID" : "B0202"
+      }, {
+        "busstop" : "Sekolah Memandu Batu Uban",
+        "busstopID" : "3\/A\/JSAZ14",
+        "queryID" : "B0206"
+      }, {
+        "busstop" : "Sekolah Memandu Batu Uban",
+        "busstopID" : "3\/B\/JSAZ14",
+        "queryID" : "B0158"
+      }, {
+        "busstop" : "SK Sg. Gelugor",
+        "busstopID" : "3\/B\/JSAZ17",
+        "queryID" : "B0161"
+      }, {
+        "busstop" : "SK Sg. Gelugor",
+        "busstopID" : "3\/A\/JSAZ17",
+        "queryID" : "B0203"
+      }, {
+        "busstop" : "SK Sungai Nibong",
+        "busstopID" : "3\/A\/JSAZ09",
+        "queryID" : "B0211"
+      }, {
+        "busstop" : "SK Sungai Nibong",
+        "busstopID" : "3\/B\/JSAZ09",
+        "queryID" : "B0153"
+      }, {
+        "busstop" : "Snake Temple",
+        "busstopID" : "3\/B\/JSAZ05",
+        "queryID" : "B0149"
+      }, {
+        "busstop" : "SRJK Kwang Hwa",
+        "busstopID" : "3\/B\/JSAZ08",
+        "queryID" : "B0152"
+      }, {
+        "busstop" : "SRJK Kwang Hwa",
+        "busstopID" : "3\/A\/JSAZ08",
+        "queryID" : "B0212"
+      }, {
+        "busstop" : "Stesen Minyak Petronas Kampung Jawa",
+        "busstopID" : "3\/A\/JSAZ07",
+        "queryID" : "B0213"
+      }, {
+        "busstop" : "Sunny Point",
+        "busstopID" : "3\/A\/JSAZ15",
+        "queryID" : "B0205"
+      }, {
+        "busstop" : "Sunny Point",
+        "busstopID" : "3\/B\/JSAZ15",
+        "queryID" : "B0159"
+      }, {
+        "busstop" : "Taman Mahsuri",
+        "busstopID" : "3\/B\/JSAZ07",
+        "queryID" : "B0151"
+      }, {
+        "busstop" : "Taman Sri Tunas",
+        "busstopID" : "3\/B\/JSAZ06",
+        "queryID" : "B0150"
+      }, {
+        "busstop" : "Tapak Pesta Sg Nibong",
+        "busstopID" : "3\/B\/JSAZ12",
+        "queryID" : "B0156"
+      }, {
+        "busstop" : "Tapak Pesta Sg Nibong",
+        "busstopID" : "3\/A\/JSAZ12",
+        "queryID" : "B0208"
+      }, {
+        "busstop" : "Terminal Bas Ekspres Sg Nibong",
+        "busstopID" : "3\/A\/JSAZ11",
+        "queryID" : "B0209"
+      }, {
+        "busstop" : "Terminal Bas Ekspres Sg Nibong",
+        "busstopID" : "3\/B\/JSAZ11",
+        "queryID" : "B0155"
+      }, {
+        "busstop" : "The Star Publication",
+        "busstopID" : "3\/B\/JSAZ01",
+        "queryID" : "B0145"
+      }
+    ],
+    "Jalan Sungai" : [{
+        "busstop" : "Flat PPR Jalan Sungai",
+        "busstopID" : "3\/B\/JSGI01",
+        "queryID" : "B0445"
+      }
+    ],
+    "Jalan Sungai Air Putih" : [{
+        "busstop" : "Bandar Baru Air Putih 1",
+        "busstopID" : "4\/A\/JSAP02",
+        "queryID" : "B0829"
+      }, {
+        "busstop" : "Bandar Baru Air Putih 2",
+        "busstopID" : "4\/A\/JSAP03",
+        "queryID" : "B0830"
+      }, {
+        "busstop" : "Simpang Bandar Baru Air Putih",
+        "busstopID" : "4\/A\/JSAP01",
+        "queryID" : "B0828"
+      }
+    ],
+    "Jalan Sungai Burong" : [{
+        "busstop" : "Char Koay Teow Sg. Burung",
+        "busstopID" : "4\/B\/JSBR03",
+        "queryID" : "B0805"
+      }, {
+        "busstop" : "Jalan Kg. Sengai",
+        "busstopID" : "4\/B\/JSBR04",
+        "queryID" : "B0807"
+      }, {
+        "busstop" : "Klinik Desa Sg. Burung",
+        "busstopID" : "4\/A\/JSBR02",
+        "queryID" : "B0783"
+      }, {
+        "busstop" : "Masjid Sg. Burung",
+        "busstopID" : "4\/B\/JSBR01",
+        "queryID" : "B0808"
+      }, {
+        "busstop" : "Sekolah Rendah Agama Sg. Burung",
+        "busstopID" : "4\/A\/JSBR01",
+        "queryID" : "B0782"
+      }, {
+        "busstop" : "Sg. Burung 1",
+        "busstopID" : "4\/B\/JSBR02",
+        "queryID" : "B0806"
+      }
+    ],
+    "Jalan Sungai Dua" : [{
+        "busstop" : "Apartmen Desa Universiti",
+        "busstopID" : "3\/B\/JSGD02",
+        "queryID" : "B0491"
+      }, {
+        "busstop" : "Apartmen University Height",
+        "busstopID" : "3\/A\/JSGD01",
+        "queryID" : "B0457"
+      }, {
+        "busstop" : "Depo Sg. Nibong",
+        "busstopID" : "D\/A\/DSGN00",
+        "queryID" : "B0709"
+      }, {
+        "busstop" : "Klinik Kesihatan",
+        "busstopID" : "3\/A\/JSGD05",
+        "queryID" : "B0618"
+      }, {
+        "busstop" : "Kompleks Yellow House",
+        "busstopID" : "3\/A\/JSGD02",
+        "queryID" : "B0458"
+      }, {
+        "busstop" : "Pintu Keluar Terminal Bas Ekspres Sg Nibong",
+        "busstopID" : "3\/B\/JSGD06",
+        "queryID" : "B0487"
+      }, {
+        "busstop" : "Rumah Orang Tua Silver Jubilee",
+        "busstopID" : "3\/B\/JSGD05",
+        "queryID" : "B0488"
+      }, {
+        "busstop" : "Rumah Orang Tua Silver Jubilee",
+        "busstopID" : "3\/A\/JSGD06",
+        "queryID" : "B0619"
+      }, {
+        "busstop" : "SRJK Keong Hoe",
+        "busstopID" : "3\/B\/JSGD04",
+        "queryID" : "B0489"
+      }, {
+        "busstop" : "SRJK Keong Hoe",
+        "busstopID" : "3\/A\/JSGD04",
+        "queryID" : "B0460"
+      }, {
+        "busstop" : "Tesco Extra Sungai Dua",
+        "busstopID" : "3\/A\/JSGD03",
+        "queryID" : "B0459"
+      }, {
+        "busstop" : "Tesco Extra Sungai Dua",
+        "busstopID" : "3\/B\/JSGD03",
+        "queryID" : "B0490"
+      }, {
+        "busstop" : "Universiti Sains Malaysia Pintu Sungai Dua",
+        "busstopID" : "3\/B\/JSGD01",
+        "queryID" : "B0492"
+      }
+    ],
+    "Jalan Sungai Kelian" : [{
+        "busstop" : "Jalan Sungai Kelian",
+        "busstopID" : "1\/A\/JSKL02",
+        "queryID" : "B0252"
+      }, {
+        "busstop" : "Jalan Sungai Kelian - Stesen Minyak ESSO",
+        "busstopID" : "1\/A\/JSKL01",
+        "queryID" : "B0251"
+      }, {
+        "busstop" : "Jalan Sungai Kelian - Stesen Minyak ESSO",
+        "busstopID" : "1\/B\/JSKL01",
+        "queryID" : "B0275"
+      }
+    ],
+    "Jalan Sungai Nipah" : [{
+        "busstop" : "SMK Seri Balik Pulau",
+        "busstopID" : "4\/A\/JSNP01",
+        "queryID" : "B0784"
+      }
+    ],
+    "Jalan Sungai Pinang" : [{
+        "busstop" : "Bangunan JKPSB",
+        "busstopID" : "2\/A\/JSGP01",
+        "queryID" : "B0396"
+      }, {
+        "busstop" : "Jejantas Jalan Sungai Pinang",
+        "busstopID" : "2\/A\/JSGP04",
+        "queryID" : "B0617"
+      }, {
+        "busstop" : "Jejantas Jalan Sungai Pinang",
+        "busstopID" : "2\/B\/JSGP04",
+        "queryID" : "B0628"
+      }, {
+        "busstop" : "Kilang AF Asia",
+        "busstopID" : "2\/A\/JSGP03",
+        "queryID" : "B0502"
+      }, {
+        "busstop" : "Penang Japanese School",
+        "busstopID" : "2\/A\/JSGP02",
+        "queryID" : "B0397"
+      }, {
+        "busstop" : "Penang Japanese School",
+        "busstopID" : "2\/B\/JSGP02",
+        "queryID" : "B0438"
+      }, {
+        "busstop" : "Wisma Hooi Lam",
+        "busstopID" : "2\/B\/JSGP01",
+        "queryID" : "B0439"
+      }
+    ],
+    "Jalan Sungai Pinang - Balik Pulau" : [{
+        "busstop" : "Balai Bomba Balik Pulau",
+        "busstopID" : "4\/A\/JSGP06",
+        "queryID" : "B0765"
+      }, {
+        "busstop" : "Balai Bomba Balik Pulau",
+        "busstopID" : "4\/B\/JSGP06",
+        "queryID" : "B0820"
+      }, {
+        "busstop" : "Dewan JKKK Titi Teras",
+        "busstopID" : "4\/B\/JSGP09",
+        "queryID" : "B0821"
+      }, {
+        "busstop" : "Hospital Balik Pulau",
+        "busstopID" : "4\/A\/JSGP01",
+        "queryID" : "B0760"
+      }, {
+        "busstop" : "MPPP Titi Teras",
+        "busstopID" : "4\/B\/JSGP03",
+        "queryID" : "B0824"
+      }, {
+        "busstop" : "Pejabat Agama Daerah",
+        "busstopID" : "4\/B\/JSGP04",
+        "queryID" : "B0823"
+      }, {
+        "busstop" : "Pejabat Agama Daerah",
+        "busstopID" : "4\/A\/JSGP04",
+        "queryID" : "B0763"
+      }, {
+        "busstop" : "Pejabat Daerah dan Tanah",
+        "busstopID" : "4\/B\/JSGP01",
+        "queryID" : "B0826"
+      }, {
+        "busstop" : "Pejabat Kesihatan Barat Daya",
+        "busstopID" : "4\/B\/JSGP07",
+        "queryID" : "B0819"
+      }, {
+        "busstop" : "Pejabat Kesihatan Barat Daya",
+        "busstopID" : "4\/A\/JSGP07",
+        "queryID" : "B0766"
+      }, {
+        "busstop" : "Persimpangan Jalan Chai",
+        "busstopID" : "4\/A\/JSGP03",
+        "queryID" : "B0762"
+      }, {
+        "busstop" : "Seputih Resident",
+        "busstopID" : "4\/A\/JSGP08",
+        "queryID" : "B0767"
+      }, {
+        "busstop" : "SK Titi Teras",
+        "busstopID" : "4\/A\/JSGP05",
+        "queryID" : "B0764"
+      }, {
+        "busstop" : "SK Titi Teras",
+        "busstopID" : "4\/B\/JSGP05",
+        "queryID" : "B0822"
+      }, {
+        "busstop" : "Taman Impian",
+        "busstopID" : "4\/B\/JSGP02",
+        "queryID" : "B0825"
+      }, {
+        "busstop" : "Taman Impian",
+        "busstopID" : "4\/A\/JSGP02",
+        "queryID" : "B0761"
+      }
+    ],
+    "Jalan Sungai Rusa" : [{
+        "busstop" : "Dinei Cafe",
+        "busstopID" : "4\/B\/JSGR14",
+        "queryID" : "B0872"
+      }, {
+        "busstop" : "Kampung Permatang",
+        "busstopID" : "4\/B\/JSGR15",
+        "queryID" : "B0875"
+      }, {
+        "busstop" : "Kampung Sungai Pinang",
+        "busstopID" : "4\/B\/JSGR11",
+        "queryID" : "B0863"
+      }, {
+        "busstop" : "Kampung Sungai Rusa",
+        "busstopID" : "4\/A\/JSGR07",
+        "queryID" : "B0836"
+      }, {
+        "busstop" : "Kampung Sungai Rusa",
+        "busstopID" : "4\/B\/JSGR07",
+        "queryID" : "B0866"
+      }, {
+        "busstop" : "Kedai Gunting Permatang Pasir",
+        "busstopID" : "4\/A\/JSGR02",
+        "queryID" : "B0831"
+      }, {
+        "busstop" : "Kedai Runcit Jalan Sungai Rusa",
+        "busstopID" : "4\/B\/JSGR12",
+        "queryID" : "B0869"
+      }, {
+        "busstop" : "Klinik Desa Sg. Pinang",
+        "busstopID" : "4\/A\/JSGR09",
+        "queryID" : "B0844"
+      }, {
+        "busstop" : "Klinik Desa Sg. Pinang",
+        "busstopID" : "4\/B\/JSGR09",
+        "queryID" : "B0864"
+      }, {
+        "busstop" : "Kolej ICT",
+        "busstopID" : "4\/A\/JSGR04",
+        "queryID" : "B0833"
+      }, {
+        "busstop" : "Kolej ICT",
+        "busstopID" : "4\/B\/JSGR04",
+        "queryID" : "B0871"
+      }, {
+        "busstop" : "Madrasah Tahfiz - Irfanratul",
+        "busstopID" : "4\/B\/JSGR08",
+        "queryID" : "B0865"
+      }, {
+        "busstop" : "Madrasah Tahfiz - Irfanratul",
+        "busstopID" : "4\/A\/JSGR08",
+        "queryID" : "B0837"
+      }, {
+        "busstop" : "Masjid Jamek Sungai Rusa",
+        "busstopID" : "4\/A\/JSGR05",
+        "queryID" : "B0834"
+      }, {
+        "busstop" : "Masjid Jamek Sungai Rusa",
+        "busstopID" : "4\/B\/JSGR05",
+        "queryID" : "B0868"
+      }, {
+        "busstop" : "Persimpangan Jalan Sungai Air Putih",
+        "busstopID" : "4\/B\/JSGR02",
+        "queryID" : "B0874"
+      }, {
+        "busstop" : "Restoran Nasi Ayam Zainab",
+        "busstopID" : "4\/B\/JSGR13",
+        "queryID" : "B0870"
+      }, {
+        "busstop" : "Sekolah Agama Sungai Rusa",
+        "busstopID" : "4\/B\/JSGR06",
+        "queryID" : "B0867"
+      }, {
+        "busstop" : "Sekolah Agama Sungai Rusa",
+        "busstopID" : "4\/A\/JSGR06",
+        "queryID" : "B0835"
+      }, {
+        "busstop" : "SK Sungai Pinang",
+        "busstopID" : "4\/A\/JSGR10",
+        "queryID" : "B0845"
+      }, {
+        "busstop" : "SK Sungai Pinang",
+        "busstopID" : "4\/B\/JSGR10",
+        "queryID" : "B0862"
+      }, {
+        "busstop" : "Taman Manggis",
+        "busstopID" : "4\/B\/JSGR01",
+        "queryID" : "B0876"
+      }, {
+        "busstop" : "Taman Manggis",
+        "busstopID" : "4\/A\/JSGR01",
+        "queryID" : "B0827"
+      }, {
+        "busstop" : "Taman Mutiara",
+        "busstopID" : "4\/A\/JSGR03",
+        "queryID" : "B0832"
+      }, {
+        "busstop" : "Taman Mutiara",
+        "busstopID" : "4\/B\/JSGR03",
+        "queryID" : "B0873"
+      }
+    ],
+    "Jalan Tan Sri Teh Ewe Lim" : [{
+        "busstop" : "Balai Polis Jelutong",
+        "busstopID" : "2\/B\/JTEH02",
+        "queryID" : "B0496"
+      }, {
+        "busstop" : "Bank RHB",
+        "busstopID" : "2\/A\/JTEH03",
+        "queryID" : "B0937"
+      }, {
+        "busstop" : "Flat Bata Merah Batu Lanchang",
+        "busstopID" : "2\/B\/JTEH01",
+        "queryID" : "B0431"
+      }, {
+        "busstop" : "Hospital Lam Wah Ee",
+        "busstopID" : "2\/A\/JTEH04",
+        "queryID" : "B0938"
+      }
+    ],
+    "Jalan Tanjong Tokong" : [{
+        "busstop" : "Balai Bomba Bagan Jermal",
+        "busstopID" : "1\/A\/JTKG01",
+        "queryID" : "B0025"
+      }, {
+        "busstop" : "Flat Uda",
+        "busstopID" : "1\/B\/JTKG10",
+        "queryID" : "B0107"
+      }, {
+        "busstop" : "Grandview Apartments",
+        "busstopID" : "1\/B\/JTKG01",
+        "queryID" : "B0114"
+      }, {
+        "busstop" : "Island Plaza",
+        "busstopID" : "1\/B\/JTKG05",
+        "queryID" : "B0111"
+      }, {
+        "busstop" : "Marina Bay",
+        "busstopID" : "1\/B\/JTKG02",
+        "queryID" : "B0113"
+      }, {
+        "busstop" : "Masjid Bagan Jermal",
+        "busstopID" : "1\/A\/JTKG02",
+        "queryID" : "B0026"
+      }, {
+        "busstop" : "Mutiara Ombak",
+        "busstopID" : "1\/A\/JTKG08",
+        "queryID" : "B0032"
+      }, {
+        "busstop" : "Perumahan Polis - Flat UDA",
+        "busstopID" : "1\/A\/JTKG10",
+        "queryID" : "B0034"
+      }, {
+        "busstop" : "Prima Tanjung",
+        "busstopID" : "1\/A\/JTKG05",
+        "queryID" : "B0029"
+      }, {
+        "busstop" : "Restoran Subaidah",
+        "busstopID" : "1\/B\/JTKG03",
+        "queryID" : "B0112"
+      }, {
+        "busstop" : "Simpang Masjid Karwa",
+        "busstopID" : "1\/B\/JTKG07",
+        "queryID" : "B0109"
+      }, {
+        "busstop" : "SK Tanjung Tokong",
+        "busstopID" : "1\/B\/JTKG09",
+        "queryID" : "B0108"
+      }, {
+        "busstop" : "SK Tanjung Tokong",
+        "busstopID" : "1\/A\/JTKG09",
+        "queryID" : "B0033"
+      }, {
+        "busstop" : "Stesen Minyak Caltex",
+        "busstopID" : "1\/A\/JTKG03",
+        "queryID" : "B0027"
+      }, {
+        "busstop" : "Stesen Minyak Petronas Tanjung Tokong",
+        "busstopID" : "1\/B\/JTKG06",
+        "queryID" : "B0110"
+      }, {
+        "busstop" : "Taman Batu Bukit",
+        "busstopID" : "1\/A\/JTKG06",
+        "queryID" : "B0030"
+      }, {
+        "busstop" : "Tari Cafe",
+        "busstopID" : "1\/A\/JTKG07",
+        "queryID" : "B0031"
+      }, {
+        "busstop" : "Wisma Binjal",
+        "busstopID" : "1\/A\/JTKG04",
+        "queryID" : "B0028"
+      }
+    ],
+    "Jalan Tanjung Bungah" : [{
+        "busstop" : "Chinese Swimming Club",
+        "busstopID" : "1\/A\/JTGB01",
+        "queryID" : "B0035"
+      }, {
+        "busstop" : "Chinese Swimming Club",
+        "busstopID" : "1\/B\/JTGB01",
+        "queryID" : "B0106"
+      }, {
+        "busstop" : "Depo Tanjung Bungah",
+        "busstopID" : "D\/B\/DTGB01",
+        "queryID" : "B0233"
+      }, {
+        "busstop" : "Depo Tanjung Bungah",
+        "busstopID" : "D\/A\/DTGB01",
+        "queryID" : "B0232"
+      }, {
+        "busstop" : "Diamond Villa",
+        "busstopID" : "1\/A\/JTGB03",
+        "queryID" : "B0037"
+      }, {
+        "busstop" : "Grand Ocean Condominium",
+        "busstopID" : "1\/A\/JTGB09",
+        "queryID" : "B0043"
+      }, {
+        "busstop" : "Grand Ocean Condominium",
+        "busstopID" : "1\/B\/JTGB09",
+        "queryID" : "B0098"
+      }, {
+        "busstop" : "Harmony Residence",
+        "busstopID" : "1\/B\/JTGB08",
+        "queryID" : "B0099"
+      }, {
+        "busstop" : "Hotel Flamingo by the Beach",
+        "busstopID" : "1\/B\/JTGB05",
+        "queryID" : "B0102"
+      }, {
+        "busstop" : "Hotel Flamingo by the Beach",
+        "busstopID" : "1\/A\/JTGB05",
+        "queryID" : "B0039"
+      }, {
+        "busstop" : "Hotel Tanjung Bungah",
+        "busstopID" : "1\/A\/JTGB02",
+        "queryID" : "B0036"
+      }, {
+        "busstop" : "Hotel Tanjung Bungah",
+        "busstopID" : "1\/B\/JTGB02",
+        "queryID" : "B0105"
+      }, {
+        "busstop" : "Infinity Condominium",
+        "busstopID" : "1\/A\/JTGB06",
+        "queryID" : "B0040"
+      }, {
+        "busstop" : "Menara Asas",
+        "busstopID" : "1\/A\/JTGB07",
+        "queryID" : "B0041"
+      }, {
+        "busstop" : "Menara Asas",
+        "busstopID" : "1\/B\/JTGB07",
+        "queryID" : "B0100"
+      }, {
+        "busstop" : "Pejabat Pos Tanjung Bungah",
+        "busstopID" : "1\/A\/JTGB08",
+        "queryID" : "B0042"
+      }, {
+        "busstop" : "Penang Swimming Club",
+        "busstopID" : "1\/B\/JTGB03",
+        "queryID" : "B0104"
+      }, {
+        "busstop" : "TM Resort",
+        "busstopID" : "1\/B\/JTGB06",
+        "queryID" : "B0101"
+      }, {
+        "busstop" : "Toy Museum - Hotel Copthorne",
+        "busstopID" : "1\/B\/JTGB04",
+        "queryID" : "B0103"
+      }, {
+        "busstop" : "Toy Museum - Hotel Copthorne",
+        "busstopID" : "1\/A\/JTGB04",
+        "queryID" : "B0038"
+      }
+    ],
+    "Jalan Teluk Bahang" : [{
+        "busstop" : "Bukit Menara Sg. Pinang",
+        "busstopID" : "4\/A\/JTLB05",
+        "queryID" : "B0881"
+      }, {
+        "busstop" : "Empangan Teluk Bahang",
+        "busstopID" : "4\/A\/JTLB08",
+        "queryID" : "B0884"
+      }, {
+        "busstop" : "Empangan Teluk Bahang",
+        "busstopID" : "4\/B\/JTLB08",
+        "queryID" : "B0892"
+      }, {
+        "busstop" : "Gerai Buah-buahan",
+        "busstopID" : "4\/B\/JTLB07",
+        "queryID" : "B0893"
+      }, {
+        "busstop" : "Gerai Buah-buahan",
+        "busstopID" : "4\/A\/JTLB07",
+        "queryID" : "B0883"
+      }, {
+        "busstop" : "Hub Teluk Bahang",
+        "busstopID" : "H\/A\/JTLB00",
+        "queryID" : "B0065"
+      }, {
+        "busstop" : "Hub Teluk Bahang",
+        "busstopID" : "H\/B\/JTLB00",
+        "queryID" : "B0075"
+      }, {
+        "busstop" : "Loji Saringan Sg. Pinang",
+        "busstopID" : "4\/A\/JTLB02",
+        "queryID" : "B0878"
+      }, {
+        "busstop" : "Loji Saringan Sg. Pinang",
+        "busstopID" : "4\/B\/JTLB02",
+        "queryID" : "B0897"
+      }, {
+        "busstop" : "Masjid Teluk Bahang",
+        "busstopID" : "4\/A\/JTLB11",
+        "queryID" : "B0887"
+      }, {
+        "busstop" : "Masjid Teluk Bahang",
+        "busstopID" : "4\/B\/JTLB11",
+        "queryID" : "B0888"
+      }, {
+        "busstop" : "Pejabat JKR Daerah",
+        "busstopID" : "1\/B\/JTLB02",
+        "queryID" : "B0077"
+      }, {
+        "busstop" : "Pemandangan Titi Kerawang",
+        "busstopID" : "4\/B\/JTLB04",
+        "queryID" : "B0895"
+      }, {
+        "busstop" : "Pemandangan Titi Kerawang",
+        "busstopID" : "4\/A\/JTLB04",
+        "queryID" : "B0880"
+      }, {
+        "busstop" : "Penang Butterfly Farm",
+        "busstopID" : "4\/B\/JTLB09",
+        "queryID" : "B0891"
+      }, {
+        "busstop" : "Penang Butterfly Farm",
+        "busstopID" : "4\/A\/JTLB09",
+        "queryID" : "B0885"
+      }, {
+        "busstop" : "Pinang Cultural Centre",
+        "busstopID" : "1\/B\/JTLB01",
+        "queryID" : "B0076"
+      }, {
+        "busstop" : "Pinang Cultural Centre",
+        "busstopID" : "1\/A\/JTLB01",
+        "queryID" : "B0064"
+      }, {
+        "busstop" : "S.K TELUK BAHANG",
+        "busstopID" : "4\/B\/JTLB12",
+        "queryID" : "B0889"
+      }, {
+        "busstop" : "SMK Teluk Bahang",
+        "busstopID" : "4\/B\/JTLB10",
+        "queryID" : "B0890"
+      }, {
+        "busstop" : "SMK Teluk Bahang",
+        "busstopID" : "4\/A\/JTLB10",
+        "queryID" : "B0886"
+      }, {
+        "busstop" : "Titi Kerawang",
+        "busstopID" : "4\/B\/JTLB03",
+        "queryID" : "B0896"
+      }, {
+        "busstop" : "Titi Kerawang",
+        "busstopID" : "4\/A\/JTLB03",
+        "queryID" : "B0879"
+      }, {
+        "busstop" : "Tokong Jalan Teluk Bahang",
+        "busstopID" : "4\/A\/JTLB01",
+        "queryID" : "B0877"
+      }, {
+        "busstop" : "Tokong Jalan Teluk Bahang",
+        "busstopID" : "4\/B\/JTLB01",
+        "queryID" : "B0898"
+      }, {
+        "busstop" : "Tropical Fruit Farm",
+        "busstopID" : "4\/B\/JTLB06",
+        "queryID" : "B0894"
+      }, {
+        "busstop" : "Tropical Fruit Farm",
+        "busstopID" : "4\/A\/JTLB06",
+        "queryID" : "B0882"
+      }
+    ],
+    "Jalan Teluk Kumbar" : [{
+        "busstop" : "Bandar Baru Teluk Kumbar",
+        "busstopID" : "4\/B\/JTLK02",
+        "queryID" : "B0758"
+      }, {
+        "busstop" : "Bandar Baru Teluk Kumbar",
+        "busstopID" : "4\/A\/JTLK02",
+        "queryID" : "B0729"
+      }, {
+        "busstop" : "Hentian Kampung Bukit",
+        "busstopID" : "4\/A\/JTLK03",
+        "queryID" : "B0730"
+      }, {
+        "busstop" : "Hentian Kampung Bukit",
+        "busstopID" : "4\/B\/JTLK03",
+        "queryID" : "B0757"
+      }, {
+        "busstop" : "Kampung Matahari Naik",
+        "busstopID" : "4\/B\/JTLK04",
+        "queryID" : "B0756"
+      }, {
+        "busstop" : "Kampung Matahari Naik",
+        "busstopID" : "4\/A\/JTLK04",
+        "queryID" : "B0731"
+      }, {
+        "busstop" : "PUSPAKOM",
+        "busstopID" : "4\/A\/JTLK05",
+        "queryID" : "B0732"
+      }, {
+        "busstop" : "SK Teluk Kumbar",
+        "busstopID" : "4\/A\/JTLK01",
+        "queryID" : "B0728"
+      }, {
+        "busstop" : "SK Teluk Kumbar",
+        "busstopID" : "4\/B\/JTLK01",
+        "queryID" : "B0759"
+      }
+    ],
+    "Jalan Teluk Tempoyak" : [{
+        "busstop" : "Bukit Teluk Tempoyak",
+        "busstopID" : "3\/A\/JTPY04",
+        "queryID" : "B0655"
+      }, {
+        "busstop" : "Kilang Papan",
+        "busstopID" : "3\/A\/JTPY05",
+        "queryID" : "B0656"
+      }, {
+        "busstop" : "Kilang Papan",
+        "busstopID" : "3\/B\/JTPY05",
+        "queryID" : "B0658"
+      }, {
+        "busstop" : "Kuari Teluk Tempoyak",
+        "busstopID" : "3\/A\/JTPY06",
+        "queryID" : "B0657"
+      }, {
+        "busstop" : "Medan Selera Seri Idaman",
+        "busstopID" : "3\/B\/JTPY02",
+        "queryID" : "B0661"
+      }, {
+        "busstop" : "Medan Selera Seri Idaman",
+        "busstopID" : "3\/A\/JTPY02",
+        "queryID" : "B0653"
+      }, {
+        "busstop" : "Pantai Teluk Tempoyak",
+        "busstopID" : "3\/B\/JTPY07",
+        "queryID" : "B0659"
+      }, {
+        "busstop" : "Perpustakaan Desa Siber Ilmu",
+        "busstopID" : "3\/B\/JTPY03",
+        "queryID" : "B0660"
+      }, {
+        "busstop" : "Perpustakaan Desa Siber Ilmu",
+        "busstopID" : "3\/A\/JTPY03",
+        "queryID" : "B0654"
+      }, {
+        "busstop" : "SMK Batu Maung",
+        "busstopID" : "3\/A\/JTPY01",
+        "queryID" : "B0652"
+      }
+    ],
+    "Jalan Tembaga" : [{
+        "busstop" : "Jalan Tembaga - Island Park",
+        "busstopID" : "2\/A\/JTBG01",
+        "queryID" : "B0408"
+      }, {
+        "busstop" : "SMJK Chung Hwa Confucian",
+        "busstopID" : "2\/A\/JTBG02",
+        "queryID" : "B0409"
+      }
+    ],
+    "Jalan Tengah" : [{
+        "busstop" : "Balai Bomba Jalan Tengah",
+        "busstopID" : "3\/B\/JTGH02",
+        "queryID" : "B0595"
+      }, {
+        "busstop" : "Balai Bomba Jalan Tengah",
+        "busstopID" : "3\/A\/JTGH02",
+        "queryID" : "B0520"
+      }, {
+        "busstop" : "Bank Muamalat Taman Sri Tunas",
+        "busstopID" : "3\/A\/JTGH03",
+        "queryID" : "B0648"
+      }, {
+        "busstop" : "Hospital Pantai Mutiara",
+        "busstopID" : "3\/B\/JTGH01",
+        "queryID" : "B0596"
+      }, {
+        "busstop" : "Pangsapuri Jalan Tengah",
+        "busstopID" : "3\/B\/JTGH03",
+        "queryID" : "B0662"
+      }, {
+        "busstop" : "SMK Raja Tun uda",
+        "busstopID" : "3\/A\/JTGH01",
+        "queryID" : "B0519"
+      }
+    ],
+    "Jalan Terengganu" : [{
+        "busstop" : "Taman Free School",
+        "busstopID" : "2\/A\/JTRN01",
+        "queryID" : "B0401"
+      }, {
+        "busstop" : "Taman Free School",
+        "busstopID" : "2\/B\/JTRN01",
+        "queryID" : "B0434"
+      }
+    ],
+    "Jalan Thean Teik" : [{
+        "busstop" : "Apartmen Desa Mawar",
+        "busstopID" : "2\/B\/JTHT02",
+        "queryID" : "B0375"
+      }, {
+        "busstop" : "Berhampiran Wisma Yatim Laki-Laki Islam",
+        "busstopID" : "2\/B\/JTHT01",
+        "queryID" : "B0376"
+      }, {
+        "busstop" : "Desa Intan",
+        "busstopID" : "2\/A\/JTHT05",
+        "queryID" : "B0358"
+      }, {
+        "busstop" : "Fortune Court",
+        "busstopID" : "2\/A\/JTHT03",
+        "queryID" : "B0356"
+      }, {
+        "busstop" : "Fortune Court",
+        "busstopID" : "2\/B\/JTHT03",
+        "queryID" : "B0374"
+      }, {
+        "busstop" : "Masjid Bandar Baru Air Itam",
+        "busstopID" : "2\/B\/JTHT05",
+        "queryID" : "B0372"
+      }, {
+        "busstop" : "Pasaraya Sunshine Farlim",
+        "busstopID" : "2\/B\/JTHT04",
+        "queryID" : "B0373"
+      }, {
+        "busstop" : "SMK Air Itam",
+        "busstopID" : "2\/A\/JTHT04",
+        "queryID" : "B0357"
+      }, {
+        "busstop" : "SRJK Sin Kang",
+        "busstopID" : "2\/A\/JTHT02",
+        "queryID" : "B0355"
+      }, {
+        "busstop" : "Wisma Yatim Laki-Laki Islam",
+        "busstopID" : "2\/A\/JTHT01",
+        "queryID" : "B0354"
+      }
+    ],
+    "Jalan Transfer" : [{
+        "busstop" : "IPK Pulau Pinang",
+        "busstopID" : "1\/B\/JTSF01",
+        "queryID" : "B0132"
+      }, {
+        "busstop" : "Stesen Minyak Caltex",
+        "busstopID" : "1\/B\/JTSF02",
+        "queryID" : "B0133"
+      }
+    ],
+    "Jalan Tun Dr. Awang" : [{
+        "busstop" : "Bukti Jambul Golf Club",
+        "busstopID" : "3\/B\/JTDA03",
+        "queryID" : "B0483"
+      }, {
+        "busstop" : "Hub Kompleks Bukit Jambul",
+        "busstopID" : "H\/B\/HKBJ01",
+        "queryID" : "B0466"
+      }, {
+        "busstop" : "Kompleks Bukit Jambul",
+        "busstopID" : "3\/A\/JTDA01",
+        "queryID" : "B0467"
+      }, {
+        "busstop" : "Masjid Al-Ittifaq",
+        "busstopID" : "3\/B\/JTDA02",
+        "queryID" : "B0484"
+      }, {
+        "busstop" : "Medan Selera Medan Bayan",
+        "busstopID" : "3\/B\/JTDA05",
+        "queryID" : "B0602"
+      }, {
+        "busstop" : "PISA",
+        "busstopID" : "3\/A\/JTDA04",
+        "queryID" : "B0470"
+      }, {
+        "busstop" : "SRJK Min Sin",
+        "busstopID" : "3\/B\/JTDA04",
+        "queryID" : "B0482"
+      }, {
+        "busstop" : "Taman Sungai Nibong",
+        "busstopID" : "3\/A\/JTDA03",
+        "queryID" : "B0469"
+      }, {
+        "busstop" : "Wisma Malvest",
+        "busstopID" : "3\/A\/JTDA02",
+        "queryID" : "B0468"
+      }
+    ],
+    "Jalan Tun Sardon" : [{
+        "busstop" : "Anjung Indah",
+        "busstopID" : "5\/A\/JTSD01",
+        "queryID" : "B0899"
+      }, {
+        "busstop" : "Anjung Indah",
+        "busstopID" : "5\/B\/JTSD01",
+        "queryID" : "B0904"
+      }, {
+        "busstop" : "Depo Balik Pulau",
+        "busstopID" : "D\/A\/DBPL00",
+        "queryID" : "B0744"
+      }, {
+        "busstop" : "Kebun Bunga Bukit Baru",
+        "busstopID" : "5\/B\/JTSD04",
+        "queryID" : "B0902"
+      }, {
+        "busstop" : "Pemandangan Bukit Baru",
+        "busstopID" : "5\/B\/JTSD03",
+        "queryID" : "B0903"
+      }, {
+        "busstop" : "SRJK Chong Teik",
+        "busstopID" : "5\/B\/JTSD05",
+        "queryID" : "B0743"
+      }, {
+        "busstop" : "Tokong Bukit Baru",
+        "busstopID" : "5\/B\/JTSD02",
+        "queryID" : "B0901"
+      }, {
+        "busstop" : "Tokong Bukit Baru",
+        "busstopID" : "5\/A\/JTSD02",
+        "queryID" : "B0900"
+      }
+    ],
+    "Jalan Utama" : [{
+        "busstop" : "Hadapan Komplek Masyarakat Penyayang",
+        "busstopID" : "1\/A\/JUTM01",
+        "queryID" : "B0191"
+      }, {
+        "busstop" : "Hospital P.Pinang - Pintu Tepi",
+        "busstopID" : "1\/B\/JUTM05",
+        "queryID" : "B0647"
+      }, {
+        "busstop" : "Hotel Waterfall",
+        "busstopID" : "1\/B\/JUTM03",
+        "queryID" : "B0182"
+      }, {
+        "busstop" : "Hotel Waterfall",
+        "busstopID" : "1\/A\/JUTM04",
+        "queryID" : "B0176"
+      }, {
+        "busstop" : "Pintu Masuk Taman Belia",
+        "busstopID" : "1\/A\/JUTM03",
+        "queryID" : "B0175"
+      }, {
+        "busstop" : "Pintu Masuk Taman Belia",
+        "busstopID" : "1\/B\/JUTM02",
+        "queryID" : "B0183"
+      }, {
+        "busstop" : "Western Garden",
+        "busstopID" : "1\/B\/JUTM01",
+        "queryID" : "B0184"
+      }, {
+        "busstop" : "Western Garden",
+        "busstopID" : "1\/A\/JUTM02",
+        "queryID" : "B0174"
+      }
+    ],
+    "Jalan Veterinari" : [{
+        "busstop" : "Apartmen Taman Sri Pinang",
+        "busstopID" : "3\/B\/JVTN01",
+        "queryID" : "B0444"
+      }
+    ],
+    "Lebuh Carnavon" : [{
+        "busstop" : "Lebuh Carnavon",
+        "busstopID" : "3\/B\/LCNV01",
+        "queryID" : "B0504"
+      }
+    ],
+    "Lebuh Chulia" : [{
+        "busstop" : "Banana Cafe",
+        "busstopID" : "1\/B\/LCHU04",
+        "queryID" : "B0137"
+      }, {
+        "busstop" : "Banana Cafe - 7-Eleven",
+        "busstopID" : "1\/A\/LCHU04",
+        "queryID" : "B0005"
+      }, {
+        "busstop" : "Hotel Blue Diamond",
+        "busstopID" : "1\/A\/LCHU05",
+        "queryID" : "B0006"
+      }, {
+        "busstop" : "Hotel Blue Diamond",
+        "busstopID" : "1\/B\/LCHU05",
+        "queryID" : "B0136"
+      }, {
+        "busstop" : "Masjid Kapitan Keling",
+        "busstopID" : "1\/A\/LCHU03",
+        "queryID" : "B0004"
+      }, {
+        "busstop" : "Restoran Kassim Mustafa",
+        "busstopID" : "1\/A\/LCHU02",
+        "queryID" : "B0003"
+      }, {
+        "busstop" : "Restoran Rose Mutiara",
+        "busstopID" : "1\/B\/LCHU02",
+        "queryID" : "B0138"
+      }
+    ],
+    "Lebuh Downing" : [{
+        "busstop" : "Pejabat Pos Besar Pulau Pinang",
+        "busstopID" : "1\/B\/LDWN01",
+        "queryID" : "B0911"
+      }
+    ],
+    "Lebuh Farquhar" : [{
+        "busstop" : "Padang SMK Convent Light Street",
+        "busstopID" : "1\/B\/LFQR01",
+        "queryID" : "B0244"
+      }, {
+        "busstop" : "SMK\/SK Hutchings - Muzium Negeri",
+        "busstopID" : "1\/A\/LFQR01",
+        "queryID" : "B0222"
+      }
+    ],
+    "Lebuh Light" : [{
+        "busstop" : "Astaka Fort Cornwallis",
+        "busstopID" : "1\/B\/LLGH02",
+        "queryID" : "B0246"
+      }, {
+        "busstop" : "Bank Negara Malaysia",
+        "busstopID" : "1\/A\/LLGH01",
+        "queryID" : "B0221"
+      }, {
+        "busstop" : "Dewan Sri Pinang",
+        "busstopID" : "1\/B\/LLGH01",
+        "queryID" : "B0245"
+      }
+    ],
+    "Lebuh Lintang" : [{
+        "busstop" : "Lebuh Lintang",
+        "busstopID" : "3\/B\/LLTG01",
+        "queryID" : "B0443"
+      }
+    ],
+    "Lebuh Macallum" : [{
+        "busstop" : "Wisma Ong Hye Guon Thong",
+        "busstopID" : "3\/A\/LMCM01",
+        "queryID" : "B0612"
+      }
+    ],
+    "Lebuh McNair" : [{
+        "busstop" : "Lebuh McNair",
+        "busstopID" : "3\/B\/LMCN01",
+        "queryID" : "B0611"
+      }, {
+        "busstop" : "Pasar Lebuh Cecil",
+        "busstopID" : "3\/A\/LMCN01",
+        "queryID" : "B0447"
+      }
+    ],
+    "Lebuh Nipah" : [{
+        "busstop" : "Kompleks Lebuh Nipah",
+        "busstopID" : "3\/B\/LNIP01",
+        "queryID" : "B0603"
+      }
+    ],
+    "Lebuh Pantai" : [{
+        "busstop" : "Balai Polis Lebuh Pantai",
+        "busstopID" : "1\/A\/LPTI02",
+        "queryID" : "B0908"
+      }, {
+        "busstop" : "Bank CIMB",
+        "busstopID" : "1\/B\/LPTI03",
+        "queryID" : "B0912"
+      }, {
+        "busstop" : "Bank OCBC",
+        "busstopID" : "1\/A\/LPTI01",
+        "queryID" : "B0907"
+      }
+    ],
+    "Lebuh Relau" : [{
+        "busstop" : "Hub Relau",
+        "busstopID" : "H\/A\/RELA00",
+        "queryID" : "B0476"
+      }
+    ],
+    "Lebuh Tunku Kudin 1" : [{
+        "busstop" : "Hub TESCO",
+        "busstopID" : "H\/A\/LTKD00",
+        "queryID" : "B0420"
+      }
+    ],
+    "Lebuhraya Batu Lanchang" : [{
+        "busstop" : "Pasar Batu Lanchang",
+        "busstopID" : "H\/B\/BTLC00",
+        "queryID" : "B0495"
+      }
+    ],
+    "Lebuhraya Bayan Lepas" : [{
+        "busstop" : "Jejantas - E-Park Condominium",
+        "busstopID" : "3\/A\/LBYL01",
+        "queryID" : "B0672"
+      }, {
+        "busstop" : "Jejantas - E-Park Condominium",
+        "busstopID" : "3\/B\/LBYL01",
+        "queryID" : "B0678"
+      }, {
+        "busstop" : "Krystal Point Corporate Park",
+        "busstopID" : "3\/A\/LBYL02",
+        "queryID" : "B0643"
+      }, {
+        "busstop" : "Krystal Point Corporate Park",
+        "busstopID" : "3\/B\/LBYL02",
+        "queryID" : "B0644"
+      }
+    ],
+    "Lebuhraya Codrington" : [{
+        "busstop" : "Apartmen Danauria",
+        "busstopID" : "1\/A\/LCOD01",
+        "queryID" : "B0920"
+      }, {
+        "busstop" : "Apartmen Danauria",
+        "busstopID" : "1\/B\/LCOD01",
+        "queryID" : "B0926"
+      }
+    ],
+    "Lebuhraya Gelugor" : [{
+        "busstop" : "Lebuh Raya Gelugor",
+        "busstopID" : "3\/B\/LBRG01",
+        "queryID" : "B0493"
+      }, {
+        "busstop" : "Padang Lebuh Raya Gelugor",
+        "busstopID" : "3\/B\/LBRG02",
+        "queryID" : "B0494"
+      }
+    ],
+    "Lebuhraya Peel" : [{
+        "busstop" : "Jabatan Pertahanan Awam Daerah",
+        "busstopID" : "1\/A\/LPEL01",
+        "queryID" : "B0639"
+      }
+    ],
+    "Lebuhraya Thean Teik" : [{
+        "busstop" : "Apartmen Lone Pine",
+        "busstopID" : "2\/B\/LTHT03",
+        "queryID" : "B0365"
+      }, {
+        "busstop" : "Kompleks Perumahan PDRM Bukit Kukus",
+        "busstopID" : "2\/B\/LTHT02",
+        "queryID" : "B0366"
+      }, {
+        "busstop" : "Kompleks Perumahan PDRM Bukit Kukus",
+        "busstopID" : "2\/A\/LTHT02",
+        "queryID" : "B0363"
+      }, {
+        "busstop" : "Lebuhraya Thean Teik",
+        "busstopID" : "2\/A\/LTHT01",
+        "queryID" : "B0362"
+      }, {
+        "busstop" : "Lebuhraya Thean Teik",
+        "busstopID" : "2\/B\/LTHT01",
+        "queryID" : "B0367"
+      }, {
+        "busstop" : "Lone Pine Club",
+        "busstopID" : "2\/A\/LTHT03",
+        "queryID" : "B0364"
+      }
+    ],
+    "Lebuhraya Tun Dr. Lim Chong Eu" : [{
+        "busstop" : "Bank Rakyat",
+        "busstopID" : "3\/B\/LLCE01",
+        "queryID" : "B0681"
+      }, {
+        "busstop" : "Jabatan Laut Wilayah Utara",
+        "busstopID" : "3\/B\/LLCE02",
+        "queryID" : "B0680"
+      }, {
+        "busstop" : "Jabatan Laut Wilayah Utara",
+        "busstopID" : "3\/A\/LLCE02",
+        "queryID" : "B0670"
+      }, {
+        "busstop" : "Jejantas - The Light Waterfront",
+        "busstopID" : "3\/A\/LLCE03",
+        "queryID" : "B0671"
+      }, {
+        "busstop" : "Jejantas - The Light Waterfront",
+        "busstopID" : "3\/B\/LLCE03",
+        "queryID" : "B0679"
+      }, {
+        "busstop" : "Kedai Ikan Bakar Koperasi Nelayan",
+        "busstopID" : "3\/A\/LLCE01",
+        "queryID" : "B0669"
+      }, {
+        "busstop" : "Kondominium Ocean Blue",
+        "busstopID" : "3\/A\/GLCE02",
+        "queryID" : "B0616"
+      }
+    ],
+    "Lengkok Nipah" : [{
+        "busstop" : "Pasar Lengkok Nipah",
+        "busstopID" : "3\/A\/LNIP02",
+        "queryID" : "B0462"
+      }, {
+        "busstop" : "Taman Jubilee",
+        "busstopID" : "3\/A\/LNIP01",
+        "queryID" : "B0461"
+      }
+    ],
+    "Lintang Angsana" : [{
+        "busstop" : "Berhadapan Farlim Group",
+        "busstopID" : "2\/B\/LANG02",
+        "queryID" : "B0369"
+      }, {
+        "busstop" : "Hub Farlim",
+        "busstopID" : "2\/A\/LANG01",
+        "queryID" : "B0361"
+      }, {
+        "busstop" : "Hub Farlim - Lintang Angsana",
+        "busstopID" : "2\/B\/LANG01",
+        "queryID" : "B0368"
+      }
+    ],
+    "Lintang Batu Lanchang" : [{
+        "busstop" : "Balai Rakyat Batu Lanchang",
+        "busstopID" : "3\/A\/LBTL01",
+        "queryID" : "B0936"
+      }
+    ],
+    "Lintang Kg. Masjid" : [{
+        "busstop" : "Lintang Kg. Masjid",
+        "busstopID" : "3\/B\/LKGM01",
+        "queryID" : "B0701"
+      }, {
+        "busstop" : "Taman Kumbar Permai",
+        "busstopID" : "3\/B\/LKGM02",
+        "queryID" : "B0700"
+      }, {
+        "busstop" : "Taman Kumbar Permai",
+        "busstopID" : "3\/A\/LKGM02",
+        "queryID" : "B0716"
+      }
+    ],
+    "Lintang Lembah Permai 1" : [{
+        "busstop" : "One Permai",
+        "busstopID" : "1\/A\/LTLP01",
+        "queryID" : "B0258"
+      }, {
+        "busstop" : "One Permai",
+        "busstopID" : "1\/B\/LTLP01",
+        "queryID" : "B0269"
+      }
+    ],
+    "Lintang Macallum 1" : [{
+        "busstop" : "SJK Li Tek",
+        "busstopID" : "3\/A\/LTMC01",
+        "queryID" : "B0614"
+      }, {
+        "busstop" : "SJK Li Tek",
+        "busstopID" : "3\/B\/LTMC01",
+        "queryID" : "B0630"
+      }
+    ],
+    "Lorong Lembah Permai 3" : [{
+        "busstop" : "Kolej Tunku Abdul Rahman",
+        "busstopID" : "1\/B\/LLP303",
+        "queryID" : "B0270"
+      }, {
+        "busstop" : "Kolej Tunku Abdul Rahman",
+        "busstopID" : "1\/A\/LLP303",
+        "queryID" : "B0257"
+      }, {
+        "busstop" : "Lorong Lembah Permai 3",
+        "busstopID" : "1\/A\/LLP301",
+        "queryID" : "B0255"
+      }, {
+        "busstop" : "Persimpangan Lorong Lembah Permai 5",
+        "busstopID" : "1\/B\/LLP301",
+        "queryID" : "B0272"
+      }, {
+        "busstop" : "Persimpangan Lorong Lembah Permai 6",
+        "busstopID" : "1\/B\/LLP302",
+        "queryID" : "B0271"
+      }, {
+        "busstop" : "Persimpangan Lorong Lembah Permai 6",
+        "busstopID" : "1\/A\/LLP302",
+        "queryID" : "B0256"
+      }
+    ],
+    "Penang International Airport" : [{
+        "busstop" : "Airport",
+        "busstopID" : "4\/A\/LTAB01",
+        "queryID" : "B0144"
+      }
+    ],
+    "Persiaran Bayan Indah" : [{
+        "busstop" : "Bay Garden",
+        "busstopID" : "3\/A\/PBYI03",
+        "queryID" : "B0641"
+      }, {
+        "busstop" : "Bay Garden",
+        "busstopID" : "3\/B\/PBYI03",
+        "queryID" : "B0645"
+      }, {
+        "busstop" : "Gold Coast Condominium",
+        "busstopID" : "3\/A\/PBYI02",
+        "queryID" : "B0674"
+      }, {
+        "busstop" : "Jeti Pulau Jerejak",
+        "busstopID" : "3\/A\/PBYI01",
+        "queryID" : "B0673"
+      }, {
+        "busstop" : "Jeti Pulau Jerejak",
+        "busstopID" : "3\/B\/PBYI01",
+        "queryID" : "B0677"
+      }, {
+        "busstop" : "Putra Place Condominium",
+        "busstopID" : "3\/B\/PBYI02",
+        "queryID" : "B0676"
+      }, {
+        "busstop" : "Queensbay Mall",
+        "busstopID" : "3\/A\/PBYI04",
+        "queryID" : "B0642"
+      }
+    ],
+    "Persiaran Gurney" : [{
+        "busstop" : "Gurney Plaza",
+        "busstopID" : "1\/A\/GURN01",
+        "queryID" : "B0635"
+      }, {
+        "busstop" : "Hub Gurney",
+        "busstopID" : "H\/A\/GURN00",
+        "queryID" : "B0634"
+      }
+    ],
+    "Persiaran Kelicap" : [{
+        "busstop" : "Apartmen Mutiara Perdana Fasa 2",
+        "busstopID" : "3\/A\/PRKL02",
+        "queryID" : "B0530"
+      }, {
+        "busstop" : "Persiaran Kelicap",
+        "busstopID" : "3\/A\/PRKL01",
+        "queryID" : "B0529"
+      }
+    ],
+    "Persiaran Mayang Pasir" : [{
+        "busstop" : "Taman Gedung Heights 1",
+        "busstopID" : "3\/A\/PMYP01",
+        "queryID" : "B0621"
+      }, {
+        "busstop" : "Taman Gedung Heights 2",
+        "busstopID" : "3\/A\/PMYP02",
+        "queryID" : "B0622"
+      }
+    ],
+    "Tingkat Paya Terubong 2" : [{
+        "busstop" : "Blok 1302 - Taman Terubong Jaya",
+        "busstopID" : "2\/A\/TPY203",
+        "queryID" : "B0318"
+      }, {
+        "busstop" : "Blok H - Taman Terubong Jaya",
+        "busstopID" : "2\/A\/TPY202",
+        "queryID" : "B0317"
+      }, {
+        "busstop" : "Taman Terubong Jaya",
+        "busstopID" : "2\/A\/TPY201",
+        "queryID" : "B0316"
+      }
+    ],
+    "Tingkat Paya Terubong 4" : [{
+        "busstop" : "Tingkat Paya Terubong 4",
+        "busstopID" : "2\/A\/TPY401",
+        "queryID" : "B0315"
+      }
+    ],
+    "Tingkat Telok Kumbar" : [{
+        "busstop" : "Taman Bandar Perda",
+        "busstopID" : "3\/B\/TTLK01",
+        "queryID" : "B0699"
+      }, {
+        "busstop" : "Taman Bandar Perda",
+        "busstopID" : "3\/A\/TTLK01",
+        "queryID" : "B0717"
+      }
+    ],
+    "Tingkat Telok Kumbar 1" : [{
+        "busstop" : "7-Eleven Teluk Kumbar",
+        "busstopID" : "3\/A\/TLK101",
+        "queryID" : "B0718"
+      }, {
+        "busstop" : "7-Eleven Teluk Kumbar",
+        "busstopID" : "3\/B\/TLK101",
+        "queryID" : "B0698"
+      }
+    ],
+    "roadKeys" : ["Gat Lebuh Cecil", "Gat Lebuh Chulia", "Gat Lebuh Macallum", "Hilir Pemancar", "Jalan Angsana", "Jalan Anson", "Jalan Arratoon", "Jalan Ayer Itam", "Jalan Aziz Ibrahim", "Jalan Azyze", "Jalan Bagan Jermal", "Jalan Balik Pulau", "Jalan Baru", "Jalan Baru Batu Maung", "Jalan Batu Feringghi", "Jalan Batu Maung", "Jalan Bayan Lepas", "Jalan Besi", "Jalan Bintang", "Jalan Bricklin", "Jalan Bukit Bendera", "Jalan Bukit Gambir", "Jalan Burma", "Jalan Cantonment", "Jalan Chan Siew Teong", "Jalan Dato Ismail Hashim", "Jalan Dato Keramat", "Jalan Delima", "Jalan Dr. Lim Chwee Leong", "Jalan Evergreen", "Jalan Fettes", "Jalan Gajah", "Jalan Gangsa", "Jalan Gelugor", "Jalan Gertak Sanggul", "Jalan Gottlieb", "Jalan Gurdwara", "Jalan Hamilton", "Jalan Hassan Abas", "Jalan Hutton", "Jalan Jelutong", "Jalan Kampung Kolam", "Jalan Kampung Masjid", "Jalan Kampung Melayu", "Jalan Kampung Pisang", "Jalan Kampung Relau", "Jalan Kampung Terang", "Jalan Kebun Bunga", "Jalan Kelawei", "Jalan Kuala Jalan Baru", "Jalan Kuala Sg. Pinang", "Jalan Larut", "Jalan Lembah", "Jalan Lembah Permai", "Jalan Loh Poh Heng", "Jalan Macalister", "Jalan Magazine", "Jalan Mahsuri", "Jalan Masjid Kapitan Keling", "Jalan Masjid Negeri", "Jalan Mayang Pasir", "Jalan Mayang Pasir 2", "Jalan P. Ramlee", "Jalan Padang Tembak", "Jalan Pangkor", "Jalan Pantai Acheh", "Jalan Pasar", "Jalan Patani", "Jalan Paya Terubong", "Jalan Pemenang", "Jalan Penang", "Jalan Pengkalan Weld", "Jalan Perak", "Jalan Permatang Damar Laut", "Jalan Permatang Laut", "Jalan Pisang Embun", "Jalan Residensi", "Jalan Ria", "Jalan Scotland", "Jalan Semarak Api", "Jalan Sempadan", "Jalan Sepoy Lines", "Jalan Sir Ibrahim", "Jalan Sri Bahari", "Jalan Sultan Ahmad Shah", "Jalan Sultan Azlan Shah", "Jalan Sungai", "Jalan Sungai Air Putih", "Jalan Sungai Burong", "Jalan Sungai Dua", "Jalan Sungai Kelian", "Jalan Sungai Nipah", "Jalan Sungai Pinang", "Jalan Sungai Pinang - Balik Pulau", "Jalan Sungai Rusa", "Jalan Tan Sri Teh Ewe Lim", "Jalan Tanjong Tokong", "Jalan Tanjung Bungah", "Jalan Teluk Bahang", "Jalan Teluk Kumbar", "Jalan Teluk Tempoyak", "Jalan Tembaga", "Jalan Tengah", "Jalan Terengganu", "Jalan Thean Teik", "Jalan Transfer", "Jalan Tun Dr. Awang", "Jalan Tun Sardon", "Jalan Utama", "Jalan Veterinari", "Lebuh Carnavon", "Lebuh Chulia", "Lebuh Downing", "Lebuh Farquhar", "Lebuh Light", "Lebuh Lintang", "Lebuh Macallum", "Lebuh McNair", "Lebuh Nipah", "Lebuh Pantai", "Lebuh Relau", "Lebuh Tunku Kudin 1", "Lebuhraya Batu Lanchang", "Lebuhraya Bayan Lepas", "Lebuhraya Codrington", "Lebuhraya Gelugor", "Lebuhraya Peel", "Lebuhraya Thean Teik", "Lebuhraya Tun Dr. Lim Chong Eu", "Lengkok Nipah", "Lintang Angsana", "Lintang Batu Lanchang", "Lintang Kg. Masjid", "Lintang Lembah Permai 1", "Lintang Macallum 1", "Lorong Lembah Permai 3", "Penang International Airport", "Persiaran Bayan Indah", "Persiaran Gurney", "Persiaran Kelicap", "Persiaran Mayang Pasir", "Tingkat Paya Terubong 2", "Tingkat Paya Terubong 4", "Tingkat Telok Kumbar", "Tingkat Telok Kumbar 1"]
+  }
+]

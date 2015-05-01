@@ -1,13 +1,21 @@
 application: guestbooklh
 version: 4
-runtime: python27
+runtime: php
 api_version: 1
 threadsafe: yes
 
 handlers:
-- url: /routes
-  static_dir: routes
+- url: /api/(.*)
+  script: api/wrapper.php
+ 
+- url: /routes/
+  static_dir: routes/
+  application_readable: true
   
+- url: /stops/
+  static_dir: stops/
+  application_readable: true
+
 - url: /js/
   static_dir: js/
   
@@ -17,9 +25,13 @@ handlers:
 - url: /tool.html
   static_files: tool.html
   upload: tool.html
+  
+- url: /maptool.html
+  static_files: maptool.html
+  upload: maptool.html
 
 - url: /
-  static_files: index.html
-  upload: index.html
+  script: index.php
+#  static_files: index.html
+#  upload: index.html
 
-  
