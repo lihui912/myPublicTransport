@@ -149,7 +149,7 @@ RouteLeg.prototype.removePolyline = function() {
     this._polyline.setMap(null);
   } catch(error) {console.error(error);}
   this._polylineIsDisplaying = false;
-  google.maps.events.removeListener(this._mouseOverListener);
+  google.maps.event.removeListener(this._mouseOverListener);
 }
 
 RouteLeg.prototype.toggleDisplay = function() {
